@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
-  background-color: #F8E8E8;
+  background-color: #f0f4f5;
 }
 
 header {
@@ -38,7 +38,7 @@ h1 {
   padding: 10px 15px;
   border: none;
   cursor: pointer;
-  background-color: #d9a5a5;
+  background-color: #e1eff2;
   color: white;
   border-radius: 5px;
   font-size: 0.9rem;
