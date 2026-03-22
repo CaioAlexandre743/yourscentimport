@@ -1,0 +1,31 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yourscent Import</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="icon" href="logo.png">
+</head>
+<body>
+  <header>
+    <div class="header-container">
+      <img src="logo.png" class="logo" />
+      <h1>Yourscent Import</h1>
+    </div>
+  </header>
+
+  <section class="filters">
+    <button onclick="filterProducts('all')">Todos</button>
+    <button onclick="filterProducts('masculino')">Masculino</button>
+    <button onclick="filterProducts('feminino')">Feminino</button>
+    <button onclick="filterProducts('unissex')">Unissex</button>
+  </section>
+
+  <section id="products" class="grid"></section>
+
+  <script src="script.js"></script>
+</body>
+</html>
