@@ -63,7 +63,7 @@ const products = [
     name: "Victoria's Secret Love Spell Fragrance Mist 250ml",
     type: "feminino",
     priceUSD: 15,
-    image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592031340_OM_F.jpg"
+    image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592032017_OM_F.jpg"
   },
   {
     name: "Chanel Bleu de Chanel Eau de Toilette 100ml",
@@ -158,17 +158,23 @@ function renderProducts(list) {
   container.innerHTML = '';
 
   list.forEach(p => {
-    const priceBRL = ((p.priceUSD * exchangeRate) * (1.20)).toFixed(2);
+    const priceBRL = ((p.priceUSD * exchangeRate) * (1.30)).toFixed(2);
 
     container.innerHTML += `
       <div class="card">
-        <img src="${p.image}" />
+        <img src="${p.image}" onclick="openModal('${p.image}')" />
         <h3>${p.name}</h3>
         <p>Tipo: ${p.type}</p>
         <p>R$ ${priceBRL}</p>
       </div>
     `;
   });
+}
+
+function openModal(src) {
+  const modalImg = document.getElementById('modalImg');
+  modalImg.src = src;
+  modal.classList.add('active');
 }
 
 function filterProducts(type) {
@@ -178,3 +184,12 @@ function filterProducts(type) {
 }
 
 fetchExchangeRate();
+
+const modal = document.createElement('div');
+modal.classList.add('modal');
+modal.innerHTML = '<img id="modalImg" />';
+document.body.appendChild(modal);
+
+modal.addEventListener('click', () => {
+  modal.classList.remove('active');
+});
