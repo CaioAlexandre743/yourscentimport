@@ -201,9 +201,12 @@ fetchExchangeRate();
 
 const modal = document.createElement('div');
 modal.classList.add('modal');
-modal.innerHTML = '<img id="modalImg" />';
+modal.innerHTML = '<span class="close">&times;</span><img id="modalImg" />';
 document.body.appendChild(modal);
 
-modal.addEventListener('click', () => {
-  modal.classList.remove('active');
+modal.addEventListener('click', (e) => {
+  if (e.target.classList.contains('modal') || e.target.classList.contains('close')) {
+    modal.classList.remove('active');
+  }
+});
 });
