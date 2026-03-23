@@ -172,23 +172,9 @@ function renderProducts(list) {
 }
 
 function openModal(src) {
-  let modal = document.querySelector('.modal');
-
-  if (!modal) {
-    modal = document.createElement('div');
-    modal.classList.add('modal');
-    modal.innerHTML = '<img id="modalImg">';
-    document.body.appendChild(modal);
-
-    modal.addEventListener('click', () => {
-      modal.style.display = 'none';
-    });
-  }
-
-  document.getElementById('modalImg').src = src;
-  modal.style.display = 'flex';
-  modal.style.position = 'fixed';
-  modal.style.top = '0';
+  const modalImg = document.getElementById('modalImg');
+  modalImg.src = src;
+  modal.classList.add('active');
 }
 
 function filterProducts(type) {
