@@ -170,7 +170,7 @@ function renderProducts(list) {
     `;
   });
 }
-/*
+
 function openModal(src) {
   let modal = document.querySelector('.modal');
 
@@ -190,7 +190,7 @@ function openModal(src) {
   modal.style.position = 'fixed';
   modal.style.top = '0';
 }
-*/
+
 function filterProducts(type) {
   if (type === 'all') return renderProducts(products);
   const filtered = products.filter(p => p.type === type);
