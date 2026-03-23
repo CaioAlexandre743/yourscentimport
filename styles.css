@@ -78,6 +78,14 @@ h1 {
   font-size: 0.9rem;
 }
 
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+}
+
 /* RESPONSIVIDADE */
 
 /* Tablets */
