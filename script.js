@@ -172,9 +172,23 @@ function renderProducts(list) {
 }
 
 function openModal(src) {
-  const modalImg = document.getElementById('modalImg');
-  modalImg.src = src;
-  modal.classList.add('active');
+  let modal = document.querySelector('.modal');
+
+  if (!modal) {
+    modal = document.createElement('div');
+    modal.classList.add('modal');
+    modal.innerHTML = '<img id="modalImg">';
+    document.body.appendChild(modal);
+
+    modal.addEventListener('click', () => {
+      modal.style.display = 'none';
+    });
+  }
+
+  document.getElementById('modalImg').src = src;
+  modal.style.display = 'flex';
+  modal.style.position = 'fixed';
+  modal.style.top = '0';
 }
 
 function filterProducts(type) {
