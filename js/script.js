@@ -7,6 +7,13 @@ const slidesData = [
     link: ""
   },
   {
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=1920,quality=90,format=avif/medias/sys_master/images/h6f/h52/10732829409310/slideshow-last-of-them/slideshow-last-of-them.png",
+    title: "",
+    description: "",
+    button: "",
+    link: ""
+  },
+  {
     image: "https://lojadior.vtexassets.com/assets/vtex.file-manager-graphql/images/17e5e458-49c0-43da-8d2b-1bc038a30edc___97e5704fc6ccedfbe5f0498b682db522.webp",
     title: "",
     description: "",
@@ -24,37 +31,13 @@ const slidesData = [
 
 const products = [
   {
-    name: "Yara 100ml",
-    brand: "Lattafa",
-    gender: "feminino",
-    category: "perfume",
-    priceUSD: 22,
-    image: "https://www.lattafa-usa.com/cdn/shop/files/1_7682153c-2dce-4b60-a9e6-20557f8502cf.png?v=1747500015&width=810"
-  },
-  {
-    name: "Yara Elixir 100ml",
-    brand: "Lattafa",
-    gender: "feminino",
-    category: "perfume",
-    priceUSD: 26,
-    image: "https://www.lattafa-usa.com/cdn/shop/files/YaraElixirBottle.png?v=1760805808&width=810"
-  },
-  {
     name: "Afeef 100ml",
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
     priceUSD: 50,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Afeef-1.png?v=1747414788&width=810"
-  },
-  {
-    name: "Atheeri 100ml",
-    brand: "Lattafa",
-    gender: "unissex",
-    category: "perfume",
-    priceUSD: 68,
-    image: "https://www.lattafa-usa.com/cdn/shop/files/Atheeri-1_f93156cf-73d9-4455-8540-5665a4312efb.png?v=1747416765&width=810"
-  },
+  },  
   {
     name: "Al Noble Ameer 100ml",
     brand: "Lattafa",
@@ -62,6 +45,14 @@ const products = [
     category: "perfume",
     priceUSD: 20,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_89027578-d9b1-4664-a7dc-538f0f110578.png?v=1756361257&width=810"
+  },
+  {
+    name: "Ansaam Silver 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_219949b2-5408-4498-9a6a-b2e7e3c33e17.png?v=1749363657&width=810"
   },
   {
     name: "Asad 100ml",
@@ -80,6 +71,38 @@ const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/ASADELIXIRBOTTLE.png?v=1760805808&width=810"
   },
   {
+    name: "Asad Bourbon 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Asad-Bourbon-1.png?v=1747416709&width=810"
+  },
+  {
+    name: "Asad Zanzibar 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Asad-Zanzibar-1_ab5df442-9906-4109-81d1-a21265914bfd.png?v=1747415448&width=810"
+  },
+  {
+    name: "Atheeri 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 68,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Atheeri-1_f93156cf-73d9-4455-8540-5665a4312efb.png?v=1747416765&width=810"
+  },
+  {
+    name: "Eclaire 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Eclaire-1_5803282e-ea5b-4de5-99a5-7d06f5cbae33.png?v=1747415649&width=810"
+  },
+  {
     name: "Musamam Black Intense 100ml",
     brand: "Lattafa",
     gender: "masculino",
@@ -96,36 +119,53 @@ const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/Musamam-White-1.png?v=1747416325&width=810"
   },
   {
+    name: "Yara 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 22,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_7682153c-2dce-4b60-a9e6-20557f8502cf.png?v=1747500015&width=810"
+  },
+  {
+    name: "Yara Elixir 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 26,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/YaraElixirBottle.png?v=1760805808&width=810"
+  },
+  {
     name: "Sabah Al Ward 100ml",
     brand: "Al Wataniah",
     gender: "feminino",
     category: "perfume",
     priceUSD: 18,
     image: "https://www.alwataniah.com/cdn/shop/files/sabah-al-ward.png?v=1759755351&width=600"
-  },
+  },  
   {
-    name: "Eclaire 100ml",
-    brand: "Lattafa",
-    gender: "unissex",
+    name: "CK Be Eau de Toilette 200ml",
+    brand: "Calvin Klein",
+    gender: "masculino",
     category: "perfume",
-    priceUSD: 24,
-    image: "https://www.lattafa-usa.com/cdn/shop/files/Eclaire-1_5803282e-ea5b-4de5-99a5-7d06f5cbae33.png?v=1747415649&width=810"
+    priceUSD: 35,
+    image: "https://calvinklein.vtexassets.com/arquivos/ids/594321/25128-0_0000_1.jpg?v=637915284567400000"
+  },
+  ,
+  {
+    name: "212 Vip Black Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 60,
+    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw7da28fa2/images/hi-res-BR/8411061869406.1_1000px.jpg?sw=1200&sh=1200&sm=fit"
   },
   {
-    name: "Pure Seduction Fragrance Mist 250ml",
-    brand: "Victoria's Secret",
+    name: "La Bomba Eau de Parfum 80ml",
+    brand: "Carolina Herrera",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 15,
-    image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592031340_OM_F.jpg"
-  },
-  {
-    name: "Love Spell Fragrance Mist 250ml",
-    brand: "Victoria's Secret",
-    gender: "feminino",
-    category: "perfume",
-    priceUSD: 15,
-    image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592032017_OM_F.jpg"
+    priceUSD: 100,
+    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw0eaf5f31/images/hi-res-BR/Frag/Nova%20pasta/Wesley/_8411061113134_0065219238_5_1000px.jpg?sw=556&sh=680&sm=fit"
   },
   {
     name: "Bleu de Chanel Eau de Toilette 100ml",
@@ -133,6 +173,14 @@ const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 130,
+    image: "https://www.chanel.com/images/t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/bleu-de-chanel-eau-de-toilette-spray-3-4fl-oz--packshot-default-107460-9564920184862.jpg"
+  },
+  {
+    name: "Bleu de Chanel Eau de Parfum 100ml",
+    brand: "Chanel",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 150,
     image: "https://www.chanel.com/images/t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/bleu-de-chanel-eau-de-parfum-spray-3-4fl-oz--packshot-default-107360-9564894232606.jpg"
   },
   {
@@ -142,15 +190,7 @@ const products = [
     category: "perfume",
     priceUSD: 160,
     image: "https://www.chanel.com/images/t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/n-5-eau-de-parfum-spray-3-4fl-oz--packshot-default-125530-9564912943134.jpg"
-  },
-  {
-    name: "Bleu de Chanel Eau de Parfum 50ML",
-    brand: "Chanel",
-    gender: "masculino",
-    category: "perfume",
-    priceUSD: 115,
-    image: "https://www.chanel.com/images/t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/bleu-de-chanel-eau-de-parfum-spray-3-4fl-oz--packshot-default-107360-9564894232606.jpg"
-  },
+  },  
   {
     name: "Sauvage Eau de Toilette 100ML",
     brand: "Dior",
@@ -160,36 +200,124 @@ const products = [
     image: "https://lojadior.vtexassets.com/arquivos/ids/196331-1200-800/3348901250146_02-highlight-sauvage-edt.jpg?v=638786829192930000"
   },
   {
-    name: "Libre Eau de Toilette 90ml",
-    brand: "Yves Saint Laurent",
-    gender: "feminino",
-    category: "perfume",
-    priceUSD: 115,
-    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dwe606df01/images/fullsize/FRAG/YSLBWW-50789YSL/3614273321792.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
-  },
-  {
-    name: "Libre Eau de Parfum 90ml",
-    brand: "Yves Saint Laurent",
-    gender: "feminino",
-    category: "perfume",
-    priceUSD: 120,
-    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw467de82d/images/fullsize/FRAG/YSLBWW-50424YSL/YSLB3614272648418/ysl_dmi_fraw_libre-edp_packshot_front_50ml_3000x3000px_3614272648418_rgb.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
-  },
-  {
-    name: "MYSLF Eau de Parfum 100ml",
-    brand: "Yves Saint Laurent",
+    name: "Sauvage Eau de Parfum 100ML",
+    brand: "Dior",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 120,
-    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dwe15720ee/images/fullsize/FRAG/YSLBWW-28501YSL/YSLB3614273852814/268%20MAIO%20LAN%20PDP%203000X3000%202.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+    priceUSD: 80,
+    image: "https://lojadior.vtexassets.com/arquivos/ids/196324-1200-800/3348901368254_02-highlight-sauvage-edp.jpg?v=638835193132700000"
   },
   {
-    name: "MYSLF Le Parfum 100ml",
-    brand: "Yves Saint Laurent",
+    name: "Sauvage Elixir 100ML",
+    brand: "Dior",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 120,
-    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw9cab7e65/images/fullsize/FRAG/YSLBWW-28519YSL/YSLB3614274114645/3614274114645.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+    priceUSD: 180,
+    image: "https://lojadior.vtexassets.com/arquivos/ids/202438-1200-800/3348901640916_02-highlight-sauvage-elixir.jpg?v=639032094406770000"
+  },
+  {
+    name: "Sweet Tooth Eau de Parfum 75ML",
+    brand: "Fragrance by Sabrina",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://fragrancebysabrina.com/cdn/shop/files/SC_Sweet_Tooth_EDP_30ml_P_1.jpg?v=1770939284&width=990"
+  },  
+  {
+    name: "Sweet Tooth Caramel Dream Eau de Parfum 75ML",
+    brand: "Fragrance by Sabrina",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://fragrancebysabrina.com/cdn/shop/files/SC_Caramel_Dream_EDP_30ml_P_1.jpg?v=1721747545&width=990"
+  },
+  {
+    name: "Sweet Tooth Cherry Baby Eau de Parfum 75ML",
+    brand: "Fragrance by Sabrina",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://fragrancebysabrina.com/cdn/shop/files/D8HisyVU.jpg?v=1756296901&width=990"
+  },
+  {
+    name: "Sweet Tooth Me Expresso Eau de Parfum 75ML",
+    brand: "Fragrance by Sabrina",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://fragrancebysabrina.com/cdn/shop/files/SC_Me_Espresso_EDP_75ml_B_P.jpg?v=1770749825&width=990"
+  },
+  {
+    name: "Sweet Tooth Body Mist 236ML",
+    brand: "Fragrance by Sabrina",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 12,
+    image: "https://fragrancebysabrina.com/cdn/shop/files/SC_SweetTooth_BodyMist.jpg?v=1721735050&width=990"
+  },
+  {
+    name: "Sweet Tooth Caramel Dream Body Mist 236ML",
+    brand: "Fragrance by Sabrina",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 12,
+    image: "https://fragrancebysabrina.com/cdn/shop/files/SC_CaramelDream_BodyMist.jpg?v=1721734675&width=990"
+  },
+  {
+    name: "Sweet Tooth Cherry Baby Body Mist 236ML",
+    brand: "Fragrance by Sabrina",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 12,
+    image: "https://fragrancebysabrina.com/cdn/shop/files/SC_CherryBaby_BodyMist_1.jpg?v=1721734859&width=990"
+  },
+  {
+    name: "Sweet Tooth Me Espresso Body Mist 236ML",
+    brand: "Fragrance by Sabrina",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 12,
+    image: "https://fragrancebysabrina.com/cdn/shop/files/SC_Me_Espresso_Body_Mist_1.jpg?v=1752068437&width=990"
+  },
+  {
+    name: "Acqua Di Gio Eau de Toilette 100ML",
+    brand: "Giorgio Armani",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://armani.vtexassets.com/arquivos/ids/400446-462-650/3614273955553-PERFUME_1.jpg?v=638869788614600000"
+  },
+  {
+    name: "Stronger With You Eau de Toilette 100ML",
+    brand: "Giorgio Armani",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://assets-cf.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/L5617100_NLP_100ML_F_FW2025.jpg"
+  },
+  {
+    name: "Stronger With You Intensely Eau de Parfum 100ML",
+    brand: "Giorgio Armani",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://assets-cf.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/L8717500_NLP_100ML_F_FW2025.jpg"
+  },
+  {
+    name: "Scandal Eau de Parfum 80ML",
+    brand: "Jean Paul Gaultier",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 75,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=700,quality=90,format=avif/medias/sys_master/images/hda/h5a/10667499028510/10667498962974/10667498962974.png"
+  },
+  {
+    name: "Scandal Le Parfum Eau de Parfum Intense 80ML",
+    brand: "Jean Paul Gaultier",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 82,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=700,quality=90,format=avif/medias/sys_master/images/h1d/h7d/9564759752734/9564759687198/9564759687198.png"
   },
   {
     name: "Invictus Eau de Toilette 100ml",
@@ -222,6 +350,94 @@ const products = [
     category: "perfume",
     priceUSD: 75,
     image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/hc0/h56/10402052866078/10402052800542/10402052800542.png"
+  },
+  {
+    name: "Ambar Romance Fragrance Mist 250ml",
+    brand: "Victoria's Secret",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 15,
+    image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/12/00/112592030037_OM_F.jpg"
+  },
+  {
+    name: "Love Spell Fragrance Mist 250ml",
+    brand: "Victoria's Secret",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 15,
+    image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592032017_OM_F.jpg"
+  },
+  {
+    name: "Love Spell Fragrance Lotion 236ml",
+    brand: "Victoria's Secret",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 16,
+    image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592022017_OM_F.jpg"
+  },
+  {
+    name: "Love Spell Shimmer Fragrance Mist 250ml",
+    brand: "Victoria's Secret",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://www.victoriassecret.com/p/1000x1333/tif/zz/23/09/29/02/112285042017_OM_F.jpg"
+  },
+  {
+    name: "Pure Seduction Fragrance Mist 250ml 250ml",
+    brand: "Victoria's Secret",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 15,
+    image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592031340_OM_F.jpg"
+  },
+  {
+    name: "Pure Seduction Fragrance Lotion 236ml",
+    brand: "Victoria's Secret",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 16,
+    image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592021340_OM_F.jpg"
+  },
+  {
+    name: "Pure Seduction Shimmer Fragrance Mist 250ml",
+    brand: "Victoria's Secret",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/01/09/01/112579091340_OM_F.jpg"
+  },
+  {
+    name: "Libre Eau de Toilette 90ml",
+    brand: "Yves Saint Laurent",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 115,
+    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dwe606df01/images/fullsize/FRAG/YSLBWW-50789YSL/3614273321792.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+  },
+  {
+    name: "Libre Eau de Parfum 90ml",
+    brand: "Yves Saint Laurent",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 120,
+    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw467de82d/images/fullsize/FRAG/YSLBWW-50424YSL/YSLB3614272648418/ysl_dmi_fraw_libre-edp_packshot_front_50ml_3000x3000px_3614272648418_rgb.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+  },
+  {
+    name: "MYSLF Eau de Parfum 100ml",
+    brand: "Yves Saint Laurent",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 120,
+    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dwe15720ee/images/fullsize/FRAG/YSLBWW-28501YSL/YSLB3614273852814/268%20MAIO%20LAN%20PDP%203000X3000%202.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+  },
+  {
+    name: "MYSLF Le Parfum 100ml",
+    brand: "Yves Saint Laurent",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 120,
+    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw9cab7e65/images/fullsize/FRAG/YSLBWW-28519YSL/YSLB3614274114645/3614274114645.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
   },  
   {
     name: "Eros Eau de Toilette 100ml",
@@ -238,22 +454,6 @@ const products = [
     category: "perfume",
     priceUSD: 80,
     image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwee6cbd73/original/90_R740110-R100MLS_RNUL_20_ErosEDP100ml-Eros-Versace-online-store_0_5.jpg?sw=850&q=85&strip=true"
-  },
-  {
-    name: "212 Vip Black Eau de Parfum 100ml",
-    brand: "Carolina Herrera",
-    gender: "masculino",
-    category: "perfume",
-    priceUSD: 60,
-    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw7da28fa2/images/hi-res-BR/8411061869406.1_1000px.jpg?sw=1200&sh=1200&sm=fit"
-  },
-  {
-    name: "La Bomba Eau de Parfum 80ml",
-    brand: "Carolina Herrera",
-    gender: "feminino",
-    category: "perfume",
-    priceUSD: 100,
-    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw0eaf5f31/images/hi-res-BR/Frag/Nova%20pasta/Wesley/_8411061113134_0065219238_5_1000px.jpg?sw=556&sh=680&sm=fit"
   }  
 ];
 
