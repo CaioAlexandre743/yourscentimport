@@ -320,28 +320,36 @@ const products = [
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=700,quality=90,format=avif/medias/sys_master/images/h1d/h7d/9564759752734/9564759687198/9564759687198.png"
   },
   {
-    name: "Invictus Eau de Toilette 100ml",
-    brand: "Paco Rabanne",
-    gender: "masculino",
-    category: "perfume",
-    priceUSD: 50,
-    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h41/h49/10728993128478/10728993062942/10728993062942.jpg"
-  },
-  {
     name: "1 Million Eau de Toilette 100ml",
     brand: "Paco Rabanne",
     gender: "masculino",
     category: "perfume",
     priceUSD: 52,
-    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/he9/h52/10732105695262/10732105629726/10732105629726.png"
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/hf2/hb5/10732101992478/10732101926942/10732101926942.jpg"
   },
   {
-    name: "Black XS Black Excess Eau de Toilette 100ml",
+    name: "Black XS Eau de Toilette 100ml",
     brand: "Paco Rabanne",
     gender: "masculino",
     category: "perfume",
     priceUSD: 80,
-    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h5c/h80/10490766393374/10490766327838/10490766327838.jpg"
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/h67/h56/10490763968542/10490763903006/10490763903006.jpg"
+  },
+  {
+    name: "Invictus Eau de Toilette 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 50,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/hd0/hdb/10728990867486/10728990801950/10728990801950.jpg"
+  },  
+  {
+    name: "Olympea Eau de Parfum 80ml",
+    brand: "Paco Rabanne",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 71,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/h91/he7/10729004302366/10729004236830/10729004236830.jpg"
   },
   {
     name: "Pure XS Eau de Toilette 100ml",
@@ -349,7 +357,7 @@ const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 75,
-    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/hc0/h56/10402052866078/10402052800542/10402052800542.png"
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/h28/h5a/10402052964382/10402052898846/10402052898846.jpg"
   },
   {
     name: "Ambar Romance Fragrance Mist 250ml",
