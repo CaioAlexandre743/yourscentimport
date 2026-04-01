@@ -1,4 +1,11 @@
-const slidesData = [
+const slidesData = [  
+  {
+    image: "https://images.ctfassets.net/brzb6u29244a/6kniHGm9KmOKgDz3ncyCDn/ec736362a36ec5ac41a0a968c5691683/HeroCategory-Desktop_Gucci-FloraGGI-Jul25-02_001_Default.png?w=2000&fm=avif&q=50",
+    title: "",
+    description: "",
+    button: "",
+    link: ""
+  },
   {
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=2560,quality=90,format=auto,fit=contain/medias/sys_master/images/hfa/h8a/10731745148958/FR-Hero-Jasmine-Desktop/FR-Hero-Jasmine-Desktop.jpg",
     title: "",
@@ -150,7 +157,6 @@ const products = [
     priceUSD: 35,
     image: "https://calvinklein.vtexassets.com/arquivos/ids/594321/25128-0_0000_1.jpg?v=637915284567400000"
   },
-  ,
   {
     name: "212 Vip Black Eau de Parfum 100ml",
     brand: "Carolina Herrera",
@@ -158,6 +164,14 @@ const products = [
     category: "perfume",
     priceUSD: 60,
     image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw7da28fa2/images/hi-res-BR/8411061869406.1_1000px.jpg?sw=1200&sh=1200&sm=fit"
+  },
+  {
+    name: "Good Girl Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h80/hc9/10561719795742/INGR-GG/INGR-GG.jpg"
   },
   {
     name: "La Bomba Eau de Parfum 80ml",
@@ -192,7 +206,7 @@ const products = [
     image: "https://www.chanel.com/images/t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/n-5-eau-de-parfum-spray-3-4fl-oz--packshot-default-125530-9564912943134.jpg"
   },  
   {
-    name: "Sauvage Eau de Toilette 100ML",
+    name: "Sauvage Eau de Toilette 100ml",
     brand: "Dior",
     gender: "masculino",
     category: "perfume",
@@ -200,7 +214,7 @@ const products = [
     image: "https://lojadior.vtexassets.com/arquivos/ids/196331-1200-800/3348901250146_02-highlight-sauvage-edt.jpg?v=638786829192930000"
   },
   {
-    name: "Sauvage Eau de Parfum 100ML",
+    name: "Sauvage Eau de Parfum 100ml",
     brand: "Dior",
     gender: "masculino",
     category: "perfume",
@@ -208,7 +222,7 @@ const products = [
     image: "https://lojadior.vtexassets.com/arquivos/ids/196324-1200-800/3348901368254_02-highlight-sauvage-edp.jpg?v=638835193132700000"
   },
   {
-    name: "Sauvage Elixir 100ML",
+    name: "Sauvage Elixir 100ml",
     brand: "Dior",
     gender: "masculino",
     category: "perfume",
@@ -216,7 +230,7 @@ const products = [
     image: "https://lojadior.vtexassets.com/arquivos/ids/202438-1200-800/3348901640916_02-highlight-sauvage-elixir.jpg?v=639032094406770000"
   },
   {
-    name: "Sweet Tooth Eau de Parfum 75ML",
+    name: "Sweet Tooth Eau de Parfum 75ml",
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
@@ -224,7 +238,7 @@ const products = [
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_Sweet_Tooth_EDP_30ml_P_1.jpg?v=1770939284&width=990"
   },  
   {
-    name: "Sweet Tooth Caramel Dream Eau de Parfum 75ML",
+    name: "Sweet Tooth Caramel Dream Eau de Parfum 75ml",
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
@@ -232,7 +246,7 @@ const products = [
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_Caramel_Dream_EDP_30ml_P_1.jpg?v=1721747545&width=990"
   },
   {
-    name: "Sweet Tooth Cherry Baby Eau de Parfum 75ML",
+    name: "Sweet Tooth Cherry Baby Eau de Parfum 75ml",
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
@@ -240,7 +254,7 @@ const products = [
     image: "https://fragrancebysabrina.com/cdn/shop/files/D8HisyVU.jpg?v=1756296901&width=990"
   },
   {
-    name: "Sweet Tooth Me Expresso Eau de Parfum 75ML",
+    name: "Sweet Tooth Me Expresso Eau de Parfum 75ml",
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
@@ -248,7 +262,7 @@ const products = [
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_Me_Espresso_EDP_75ml_B_P.jpg?v=1770749825&width=990"
   },
   {
-    name: "Sweet Tooth Body Mist 236ML",
+    name: "Sweet Tooth Body Mist 236ml",
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
@@ -256,7 +270,7 @@ const products = [
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_SweetTooth_BodyMist.jpg?v=1721735050&width=990"
   },
   {
-    name: "Sweet Tooth Caramel Dream Body Mist 236ML",
+    name: "Sweet Tooth Caramel Dream Body Mist 236ml",
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
@@ -264,7 +278,7 @@ const products = [
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_CaramelDream_BodyMist.jpg?v=1721734675&width=990"
   },
   {
-    name: "Sweet Tooth Cherry Baby Body Mist 236ML",
+    name: "Sweet Tooth Cherry Baby Body Mist 236ml",
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
@@ -272,7 +286,7 @@ const products = [
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_CherryBaby_BodyMist_1.jpg?v=1721734859&width=990"
   },
   {
-    name: "Sweet Tooth Me Espresso Body Mist 236ML",
+    name: "Sweet Tooth Me Espresso Body Mist 236ml",
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
@@ -280,7 +294,7 @@ const products = [
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_Me_Espresso_Body_Mist_1.jpg?v=1752068437&width=990"
   },
   {
-    name: "Acqua Di Gio Eau de Toilette 100ML",
+    name: "Acqua Di Gio Eau de Toilette 100ml",
     brand: "Giorgio Armani",
     gender: "masculino",
     category: "perfume",
@@ -288,7 +302,7 @@ const products = [
     image: "https://armani.vtexassets.com/arquivos/ids/400446-462-650/3614273955553-PERFUME_1.jpg?v=638869788614600000"
   },
   {
-    name: "Stronger With You Eau de Toilette 100ML",
+    name: "Stronger With You Eau de Toilette 100ml",
     brand: "Giorgio Armani",
     gender: "masculino",
     category: "perfume",
@@ -296,7 +310,7 @@ const products = [
     image: "https://assets-cf.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/L5617100_NLP_100ML_F_FW2025.jpg"
   },
   {
-    name: "Stronger With You Intensely Eau de Parfum 100ML",
+    name: "Stronger With You Intensely Eau de Parfum 100ml",
     brand: "Giorgio Armani",
     gender: "masculino",
     category: "perfume",
@@ -304,7 +318,15 @@ const products = [
     image: "https://assets-cf.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/L8717500_NLP_100ML_F_FW2025.jpg"
   },
   {
-    name: "Scandal Eau de Parfum 80ML",
+    name: "Bloom Eau de Parfum 100ml",
+    brand: "Gucci",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 100,
+    image: "https://media.gucci.com/style/HEXFBFBFB_South_0_160_640x640/1643739311/670035_99999_0099_001_100_0000_Light.jpg"
+  },
+  {
+    name: "Scandal Eau de Parfum 80ml",
     brand: "Jean Paul Gaultier",
     gender: "feminino",
     category: "perfume",
@@ -312,7 +334,7 @@ const products = [
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=700,quality=90,format=avif/medias/sys_master/images/hda/h5a/10667499028510/10667498962974/10667498962974.png"
   },
   {
-    name: "Scandal Le Parfum Eau de Parfum Intense 80ML",
+    name: "Scandal Le Parfum Eau de Parfum Intense 80ml",
     brand: "Jean Paul Gaultier",
     gender: "feminino",
     category: "perfume",
