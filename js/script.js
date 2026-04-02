@@ -506,7 +506,7 @@ function renderProducts(list) {
   container.innerHTML = '';
 
   list.forEach(p => {
-    const priceBRL = ((p.priceUSD * exchangeRate) * (1.30)).toFixed(2);
+    const priceBRL = ((p.priceUSD * exchangeRate) * (1.40)).toFixed(2);
 
     container.innerHTML += `
       <div class="card">
