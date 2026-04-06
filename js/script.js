@@ -493,7 +493,7 @@ async function fetchExchangeRate() {
   try {
     const response = await fetch('https://api.exchangerate-api.com/v4/latest/USD');
     const data = await response.json();
-    exchangeRate = data.rates.BRL;
+    exchangeRate = 5.35; //data.rates.BRL;
     renderProducts(products);
   } catch (e) {
     console.error('Erro ao buscar câmbio', e);
