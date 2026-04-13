@@ -7,6 +7,13 @@ const slidesData = [
     link: ""
   },
   {
+    image: "https://www.alwataniah.com/cdn/shop/files/sabah-al-ward-banner.jpg?v=1759755360&amp",
+    title: "",
+    description: "",
+    button: "",
+    link: ""
+  },  
+  {
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=2560,quality=90,format=auto,fit=contain/medias/sys_master/images/hfa/h8a/10731745148958/FR-Hero-Jasmine-Desktop/FR-Hero-Jasmine-Desktop.jpg",
     title: "",
     description: "",
@@ -142,6 +149,30 @@ const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/YaraElixirBottle.png?v=1760805808&width=810"
   },
   {
+    name: "Yara Candy 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 22,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Yara-Candy-1_86796aee-3226-4653-ba72-dd51d747c7f4.png?v=1747416617&width=810"
+  },
+  {
+    name: "Yara Moi 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 22,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Yara-Moi-1_81ec2a74-066f-45ef-b35a-465dfda22eac.png?v=1747422182&width=810"
+  },
+  {
+    name: "Yara Tous 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 22,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_5fe75433-0467-4d06-87e9-d9e81ac2da00.png?v=1749487600&width=810"
+  },
+  {
     name: "Sabah Al Ward 100ml",
     brand: "Al Wataniah",
     gender: "feminino",
@@ -266,7 +297,7 @@ const products = [
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 12,
+    priceUSD: 13,
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_SweetTooth_BodyMist.jpg?v=1721735050&width=990"
   },
   {
@@ -274,7 +305,7 @@ const products = [
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 12,
+    priceUSD: 13,
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_CaramelDream_BodyMist.jpg?v=1721734675&width=990"
   },
   {
@@ -282,7 +313,7 @@ const products = [
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 12,
+    priceUSD: 13,
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_CherryBaby_BodyMist_1.jpg?v=1721734859&width=990"
   },
   {
@@ -290,7 +321,7 @@ const products = [
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 12,
+    priceUSD: 13,
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_Me_Espresso_Body_Mist_1.jpg?v=1752068437&width=990"
   },
   {
@@ -386,7 +417,7 @@ const products = [
     brand: "Victoria's Secret",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 15,
+    priceUSD: 16,
     image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/12/00/112592030037_OM_F.jpg"
   },
   {
@@ -394,7 +425,7 @@ const products = [
     brand: "Victoria's Secret",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 15,
+    priceUSD: 16,
     image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592032017_OM_F.jpg"
   },
   {
@@ -410,15 +441,23 @@ const products = [
     brand: "Victoria's Secret",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 20,
+    priceUSD: 21,
     image: "https://www.victoriassecret.com/p/1000x1333/tif/zz/23/09/29/02/112285042017_OM_F.jpg"
+  },
+  {
+    name: "Kit Duo Mini Love Spell 75ml/7.5ml",
+    brand: "Victoria's Secret",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://m.media-amazon.com/images/I/71dL9hgwR-L._AC_SX522_.jpg"
   },
   {
     name: "Pure Seduction Fragrance Mist 250ml 250ml",
     brand: "Victoria's Secret",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 15,
+    priceUSD: 16,
     image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592031340_OM_F.jpg"
   },
   {
@@ -426,7 +465,7 @@ const products = [
     brand: "Victoria's Secret",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 16,
+    priceUSD: 17,
     image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592021340_OM_F.jpg"
   },
   {
@@ -434,8 +473,49 @@ const products = [
     brand: "Victoria's Secret",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 20,
+    priceUSD: 21,
     image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/01/09/01/112579091340_OM_F.jpg"
+  },
+  {
+    name: "Kit Duo Mini Pure Seduction 75ml/7.5ml",
+    brand: "Victoria's Secret",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://m.media-amazon.com/images/I/71ADqzbEvPL._AC_SX522_.jpg"
+  },
+  
+  {
+    name: "Velvet Petals Fragrance Mist 250ml 250ml",
+    brand: "Victoria's Secret",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 16,
+    image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/12/00/112592037928_OM_F.jpg"
+  },
+  {
+    name: "Velvet Petals Fragrance Lotion 236ml",
+    brand: "Victoria's Secret",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 17,
+    image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592027928_OM_F.jpg"
+  },
+  {
+    name: "Velvet Petals Shimmer Fragrance Mist 250ml",
+    brand: "Victoria's Secret",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 21,
+    image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/01/09/01/112579097928_OM_F.jpg"
+  },
+  {
+    name: "Kit Duo Mini Velvet Petals 75ml/7.5ml",
+    brand: "Victoria's Secret",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://m.media-amazon.com/images/I/71lJUGA4URL._AC_SX522_.jpg"
   },
   {
     name: "Libre Eau de Toilette 90ml",
@@ -506,7 +586,12 @@ function renderProducts(list) {
   container.innerHTML = '';
 
   list.forEach(p => {
-    const priceBRL = ((p.priceUSD * exchangeRate) * (1.40)).toFixed(2);
+    const rawPrice = p.priceUSD * exchangeRate * 1.40;
+  const priceBRL = rawPrice.toLocaleString('pt-BR', {
+    style: 'currency',
+    currency: 'BRL'
+  });
+  //  const priceBRL = ((p.priceUSD * exchangeRate) * (1.40)).toFixed(2);
 
     container.innerHTML += `
       <div class="card">
@@ -514,7 +599,7 @@ function renderProducts(list) {
         <h3>${p.name}</h3>
         <h3>${p.brand}</h3>
         <p>${p.gender}</p>
-        <p>R$ ${priceBRL}</p>
+        <p>${priceBRL}</p>
       </div>
     `;
   });
