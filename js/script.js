@@ -61,6 +61,14 @@ const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_89027578-d9b1-4664-a7dc-538f0f110578.png?v=1756361257&width=810"
   },
   {
+    name: "Ansaam Gold 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_97553617-4548-450d-88eb-2fb032306f94.png?v=1749363699&width=810"
+  },
+  {
     name: "Ansaam Silver 100ml",
     brand: "Lattafa",
     gender: "unissex",
@@ -109,12 +117,68 @@ const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/Atheeri-1_f93156cf-73d9-4455-8540-5665a4312efb.png?v=1747416765&width=810"
   },
   {
+    name: "Dalal 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/LattafaDalalEDP100mlSpray.png?v=1763744096&width=810"
+  },
+  {
     name: "Eclaire 100ml",
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
     priceUSD: 25,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Eclaire-1_5803282e-ea5b-4de5-99a5-7d06f5cbae33.png?v=1747415649&width=810"
+  },
+  {
+    name: "Eclaire Body Splash 250ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 13,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_1f7dcc65-2623-41b6-a3cc-a82316541cf1.png?v=1756361560&width=810"
+  },
+  {
+    name: "Eclaire All Over Spray 150ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 13,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/EclaireAlloverspray.png?v=1760220988&width=810"
+  },
+  {
+    name: "Fakhar Black 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 27,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_aa0a5a38-775b-4814-a909-837c1d360d9c.png?v=1747500778&width=810"
+  },
+  {
+    name: "Fakhar Extrait 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 21,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Fakhar-Lattafa-Extrait-01.png?v=1747745010&width=810"
+  },
+  {
+    name: "Fakhar Platin 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 23,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_f62c90bc-f6e9-4202-b755-e33db925e687.png?v=1749465623&width=810"
+  },
+  {
+    name: "Fakhar Women 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 37,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_aef6a220-3fcb-4b87-838d-7f704806476f.png?v=1750614271&width=810"
   },
   {
     name: "Musamam Black Intense 100ml",
@@ -180,6 +244,14 @@ const products = [
     priceUSD: 18,
     image: "https://www.alwataniah.com/cdn/shop/files/sabah-al-ward.png?v=1759755351&width=600"
   },  
+  {
+    name: "Sabah Al Ward Sugar 100ml",
+    brand: "Al Wataniah",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://www.alwataniah.com/cdn/shop/files/02_a9c3573f-c332-487c-8b77-b423e8f59ddf.png?v=1764414364&width=600"
+  }, 
   {
     name: "CK Be Eau de Toilette 200ml",
     brand: "Calvin Klein",
