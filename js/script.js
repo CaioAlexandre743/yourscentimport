@@ -21,6 +21,13 @@ const slidesData = [
     link: ""
   },
   {
+    image: "https://lojadior.vtexassets.com/assets/vtex.file-manager-graphql/images/8b38acb8-f9cd-47e7-b251-be3eda0da9f3___c022eee3f0d9faf1f3778efa41d581d2.jpg",
+    title: "",
+    description: "",
+    button: "",
+    link: ""
+  },  
+  {
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=1920,quality=90,format=avif/medias/sys_master/images/h6f/h52/10732829409310/slideshow-last-of-them/slideshow-last-of-them.png",
     title: "",
     description: "",
@@ -261,6 +268,14 @@ const products = [
     image: "https://calvinklein.vtexassets.com/arquivos/ids/594321/25128-0_0000_1.jpg?v=637915284567400000"
   },
   {
+    name: "Ck One Eau de Toilette 100ml",
+    brand: "Calvin Klein",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://calvinklein.vtexassets.com/arquivos/ids/594325/25392-0_0000_1.jpg?v=637915284582670000"
+  },
+  {
     name: "212 Vip Black Eau de Parfum 100ml",
     brand: "Carolina Herrera",
     gender: "masculino",
@@ -275,6 +290,14 @@ const products = [
     category: "perfume",
     priceUSD: 80,
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h80/hc9/10561719795742/INGR-GG/INGR-GG.jpg"
+  },
+  {
+    name: "Good Girl Blush Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 90,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/hb9/h04/10539499814942/10539499749406/10539499749406.jpg"
   },
   {
     name: "La Bomba Eau de Parfum 80ml",
@@ -307,7 +330,39 @@ const products = [
     category: "perfume",
     priceUSD: 160,
     image: "https://www.chanel.com/images/t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/n-5-eau-de-parfum-spray-3-4fl-oz--packshot-default-125530-9564912943134.jpg"
-  },  
+  }, 
+  {
+    name: "J'adore Eau de Parfum 100ml",
+    brand: "Dior",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 100,
+    image: "https://lojadior.vtexassets.com/arquivos/ids/200898-950-950?v=638853505170100000&width=950&height=950&aspect=true"
+  }, 
+  {
+    name: "J'adore Eau de Toilette 100ml",
+    brand: "Dior",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 105,
+    image: "https://lojadior.vtexassets.com/arquivos/ids/197354-950-950?v=638715137973900000&width=950&height=950&aspect=true"
+  },
+  {
+    name: "J'adore Parfum D'Eau Eau de Parfum 100ml",
+    brand: "Dior",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 118,
+    image: "https://lojadior.vtexassets.com/arquivos/ids/200531-1200-800/3348901597715_02-highlight-jador-parfum-deau.jpg?v=638854181198400000"
+  },
+  {
+    name: "J'adore Infinissime Eau de Parfum 100ml",
+    brand: "Dior",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 110,
+    image: "https://lojadior.vtexassets.com/arquivos/ids/203269-1200-800/3348901773362_02-highlight-jadore-intense-100ml.jpg?v=639064895583700000"
+  },
   {
     name: "Sauvage Eau de Toilette 100ml",
     brand: "Dior",
@@ -445,6 +500,22 @@ const products = [
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=700,quality=90,format=avif/medias/sys_master/images/h1d/h7d/9564759752734/9564759687198/9564759687198.png"
   },
   {
+    name: "La Nuit Trésor Eau de Parfum 100ml",
+    brand: "Lancôme",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 114,
+    image: "https://www.lancome.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-lancome-latam-master-catalog/default/dw83895a68/images/PACKSHOTS/FRAGRANCE/woman/00037-LAC-La-Nuit-Tresor-Eau-De-Parfum/Lancome-Collection-Women's-Day-2016-La-Nuit-Tresor-Eau-De-Parfum-50_ml-000-3605533315224.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=70"
+  },
+  {
+    name: "La Vie Est Belle Eau de Parfum 100ml",
+    brand: "Lancôme",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://www.lancome.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-lancome-latam-master-catalog/default/dwc97ce4dd/images/PACKSHOTS/FRAGRANCE/LVEB/00027-LAC-La-Vie-est-Belle-Eau-de-Parfum/lan_dmi_frag_la-vie-est-belle-edp-50ml_03605532612768_v1.jpg?sw=720&sh=720&sm=cut&sfrm=jpg&q=70"
+  },
+  {
     name: "1 Million Eau de Toilette 100ml",
     brand: "Paco Rabanne",
     gender: "masculino",
@@ -483,6 +554,14 @@ const products = [
     category: "perfume",
     priceUSD: 75,
     image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/h28/h5a/10402052964382/10402052898846/10402052898846.jpg"
+  },
+  {
+    name: "Paradoxe Eau de Parfum 90ml",
+    brand: "Prada",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 110,
+    image: "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1351/2HDZF0Z99/1A1351_2HDZ_F0Z99_P_ML090_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg"
   },
   {
     name: "Ambar Romance Fragrance Mist 250ml",
