@@ -618,7 +618,7 @@ const products = [
     brand: "Yves Saint Laurent",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 120,
+    priceUSD: 125,
     image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw9cab7e65/images/fullsize/FRAG/YSLBWW-28519YSL/YSLB3614274114645/3614274114645.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
   },  
   {
