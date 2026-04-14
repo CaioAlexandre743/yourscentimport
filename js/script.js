@@ -188,6 +188,54 @@ const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_aef6a220-3fcb-4b87-838d-7f704806476f.png?v=1750614271&width=810"
   },
   {
+    name: "Haya 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 26,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Haya-1.png?v=1747421439&width=810"
+  },
+  {
+    name: "Haya Body Splash 250ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 13,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_8cd4cfe9-d5fc-4fe9-ad9d-a994b798957f.png?v=1756361835&width=810"
+  },
+  {
+    name: "Mayar Cherry Intense Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 21,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_a400747a-6731-4eec-b41c-79b2e209a7fc.png?v=1756361945&width=810"
+  },
+  {
+    name: "Mayar Cherry Intense Body Splash 250ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 11,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_cac5e7c8-97a4-4214-8f78-aa2aa5fe4bcd.png?v=1756362001&width=810"
+  },
+  {
+    name: "Mayar Natural Intense Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 21,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Mayar-Natural-Intense-1_2b8dfe9b-6ebd-4d24-99e6-68565cda61d5.png?v=1747416289&width=810"
+  },
+  {
+    name: "Mayar Natural Intense Body Splash 250ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 11,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_836a56b7-6f93-4ff1-a8e6-68a0428ceb4c.png?v=1756362029&width=810"
+  },
+  {
     name: "Musamam Black Intense 100ml",
     brand: "Lattafa",
     gender: "masculino",
@@ -244,6 +292,14 @@ const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_5fe75433-0467-4d06-87e9-d9e81ac2da00.png?v=1749487600&width=810"
   },
   {
+    name: "Durrat Al Aroos Eau de Parfum 85ml",
+    brand: "Al Wataniah",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 17,
+    image: "https://www.alwataniah.com/cdn/shop/files/durrat-al-aroos.png?v=1759830220&width=600"
+  }, 
+  {
     name: "Sabah Al Ward 100ml",
     brand: "Al Wataniah",
     gender: "feminino",
@@ -259,6 +315,38 @@ const products = [
     priceUSD: 25,
     image: "https://www.alwataniah.com/cdn/shop/files/02_a9c3573f-c332-487c-8b77-b423e8f59ddf.png?v=1764414364&width=600"
   }, 
+  {
+    name: "Cloud Eau de Parfum 100ml",
+    brand: "Ariana Grande",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 61,
+    image: "https://arianagrandefragrances.com/cdn/shop/files/cloud.webp?v=1749775674"
+  }, 
+  {
+    name: "Cloud 2.0 Intense Eau de Parfum 100ml",
+    brand: "Ariana Grande",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 62,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/produtos/thumbs/med/7eac192aaa7d4cca0416aa830a25abc4f3501ffa.webp"
+  },
+  {
+    name: "Mod Blush Eau de Parfum 100ml",
+    brand: "Ariana Grande",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 63,
+    image: "https://arianagrandefragrances.com/cdn/shop/files/mod-blush.webp?v=1749775246"
+  },
+  {
+    name: "Mod Vanilla Eau de Parfum 100ml",
+    brand: "Ariana Grande",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 69,
+    image: "https://arianagrandefragrances.com/cdn/shop/files/mod-vanilla.webp?v=1749775445"
+  },
   {
     name: "CK Be Eau de Toilette 200ml",
     brand: "Calvin Klein",
