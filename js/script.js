@@ -47,7 +47,14 @@ const slidesData = [
     description: "",
     button: "",
     link: ""
-  }
+  },
+  {
+    image: "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-smart-band-10/pc/specsbackground.jpg",
+    title: "",
+    description: "",
+    button: "",
+    link: ""
+  }  
 ];
 
 const products = [
@@ -803,7 +810,199 @@ const products = [
     category: "perfume",
     priceUSD: 80,
     image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwee6cbd73/original/90_R740110-R100MLS_RNUL_20_ErosEDP100ml-Eros-Versace-online-store_0_5.jpg?sw=850&q=85&strip=true"
-  }  
+  },
+  {
+    name: "iPhone 17 Pro Max 256GB",
+    brand: "Apple",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 1450,
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17promax-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=WkVhZXB4WmFzZmdNeXA3cHg3WUZFU0tjazZmSzdrSHdxTW9VUlF0akdCdXpMQytuUEM4Wm5vMWRha0N0RzdPQ3pGbHdxTU5oSkkwKzZZOXF0cVNPL1V0RmgycTRGTHI3SUVxVFVFNFI5QzhTREFXd29VYUtwRlRqTkI5dnBWdWo"
+  },
+  {
+    name: "iPhone 17 Pro 256GB",
+    brand: "Apple",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 1280,
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17pro-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=ekJPc2lPUlRuRk50SkcyOVdnU1d0TjFla0N0Znl3UThxdjB3SW91ZDVJd0Z3aHFxUnRBUUlIa1B4eXlTTWdWdW8xUkhYejcxalRvY0FPQVpMcmoxMDlLQzdVZ2V3VnpqcXFKTGxlK1dFUXloSUZXMXhpaFRiaTdERUcxSFVMVW4"
+  },
+  {
+    name: "iPhone 17 256GB",
+    brand: "Apple",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 910,
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=SVhTK013TmU5bXcxZm9yb0hnWkxGZlRhSXFkOFhqdTgvUmc4VitXa2VzZUU5aWg1WE9Xd3BOSWtnNzkvSWZLd0ZGMGUwb1Y3aUJoOFNtZnEvQXJFMEJYVzFZSG9ORXhsSkhTN0hjejcrL1BtdndTWEVueTdGZTlOS1ZyVjMxMWg"
+  },
+  {
+    name: "iPhone 17e 256GB",
+    brand: "Apple",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 599,
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17e-digitalmat-gallery-1-202603?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=V2Q5d3RGR1VSMVluZDJuckR0by9tbTYrc3EwZ1VoVGgyY0J1bS9COCtualdteHpCT3VZMkN0cmZhUU1rOU1zdlFuOTJXc2JVdks4czlZWHJTOHkzNkJTMGN6VkRyenRpcEpmbm0wRWxLNFZtNEJNTzBQNjlJbzJXSko1RXZ0MkY"
+  },
+  {
+    name: "iPhone Air 256GB",
+    brand: "Apple",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 920,
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-unselect-gallery-1-202509?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUpaQVl1bitSNmJWZUdKdi9QZHhsR3J2UHBBV3orM3VMYVQ4cFJXZmQxV3pMQytuUEM4Wm5vMWRha0N0RzdPQ3F2TWlpSzUzejRCZGt2SjJUNGl1VEE4bm1RcmlWRWp2eDN1WHNkSjNmUllkbVpNWnluMHFQejlPZEhiemdDMFA&traceId=1"
+  },
+  {
+    name: "iPhone 16 128GB",
+    brand: "Apple",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 750,
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch?wid=5120&hei=2880&fmt=webp&qlt=90&.v=UXp1U3VDY3IyR1hNdHZwdFdOLzg1V0tFK1lhSCtYSGRqMUdhR284NTN4K2k2SkpnN3c0VXdqTFlOQWw0ako4Z0JQYkhSV3V1dC9oa0s5K3lqMGtUaFlJd01NRTBFU2ZiV2d6YkZCU2Z3bUt4ZUNtWkFZZEcvcU12TFRUUVhVdDU&traceId=1"
+  },
+  {
+    name: "Watch Series 11 46mm",
+    brand: "Apple",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 380,
+    image: "https://www.apple.com/v/apple-watch-series-11/b/images/specs/materials_and_finish_aluminum__bo3c5yvgnjqu_large.jpg"
+  },
+  {
+    name: "Watch Series 11 42mm",
+    brand: "Apple",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 360,
+    image: "https://www.apple.com/v/apple-watch-series-11/b/images/specs/materials_and_finish_aluminum__bo3c5yvgnjqu_large.jpg"
+  },
+  {
+    name: "Watch SE 3 44mm",
+    brand: "Apple",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 300,
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXM63ref_SR_SE_VW_PF+watch-case-44-aluminum-starlight-nc-se3_VW_PF+watch-face-44-aluminum-starlight-se3_VW_PF?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=MGxpWDJOL2oySmF4UCtRR3dIdG9RNXN3bmZMYXBUV0xvcU1EeGl4ejE5cHRoT0VCeWtnTTNtR2pwdko0SloxYnRob1pEZUpwMFp0K2xUT25MeXFxN1haSUdtREZDK3dLZGYzL2JSbk40L0VLK2NDNU83MXIxVTZZNzlCVk9YR2hXTDNtN1U1Q083ZW9USEgwS2dEWkxaRnZGUUdUeGtYN2gySi9ZaWRpZitLckJnajVCaGRzU0pBREM1Q082Uk51NXVkZ2t0VWxQK2o2M01obVdMRmRjamNUVHJQVWZqbWoyZ3dVa012V3JwcGF1Zit1T2haZmdjWVhBSCtyN0JVVw"
+  },
+  {
+    name: "Watch SE 3 40mm",
+    brand: "Apple",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 285,
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MYJ33ref_VW_PF+watch-case-40-aluminum-starlight-nc-se3_VW_PF+watch-face-40-aluminum-starlight-se3_VW_PF?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=L2tSSTJLUmJoejdCeGFuZHQ3bWxKVFh2Y2svR0hOSGs1YWNWeFBUeXNNeVFHa2kzMW15bmN2SExwWlRtbTRDVTlxOFR0OXRwbVdncWxCT0p0NDB0bHpxSVg5ZmpBaEFSRUFDbEpLVHdLeHRnTFdIZTlrbit2a2RHTFgxdXJlaEpKTVZMU0dEZGdpd3M0MUVsdFpnQzhBQnJKZk9weFpCcmg2bG5rV2xMNlVmYlg5SUJPR0VaZnV5YVlTck5WQzFJWitOTEs5T0laM0FBYmtOdWx0aUJtSFdDU2lWOGdDZVM1T3kxaFlvQUtNbw"
+  },
+  {
+    name: "AirPods 4",
+    brand: "Apple",
+    gender: "Com cancelamento de ruído",
+    category: "eletronics",
+    priceUSD: 150,
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-4-anc-select-202409_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=Qklmb1JJend3cVIxSUxIeFBIRk96cUNGMHVRUVpqOEFiUFU4R0xNRVFxdkhJa2hkRmxkTlJIMk9SdFNSaWFNODE1UUxLT2t0cW42N3FvQzVqaGhrVVcvdmFyQU52eG9rbk9Lb1pmQWN1MGgrYWpGdS9XeFgvbS9ITnNYOEhYaG4"
+  },
+  {
+    name: "AirPods Pro 3",
+    brand: "Apple",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 250,
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-3-hero-select-202509?wid=976&hei=916&fmt=jpeg&qlt=90&.v=cmp4MmZ6OWxOeHNNTXh4SzlBNUpEb1RucE9zZTI5eEREaWZpY29lSld3eWVDYXovZDMyN1dXU211bjZoVlVUcWJGcXNRQnFCV0w3WVRjTExvdm1ic1YxRUxFRmRlWDBITzhnRmZ5OTRmaVdKTExiOEFsRmxtQ2Nua0tRSC83MkI"
+  },
+  {
+    name: "AirPods Pro Max 2",
+    brand: "Apple",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 550,
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-hero-select-202409?wid=976&hei=916&fmt=jpeg&qlt=90&.v=WXBZVEZCOUNiUWlBYUtjZmtBc0J2N1V1ZldxRmdZVjlvL2IxaEY3dzY3SG0ybW5TK3prTnlNTURRc1V2clYydHZvdUZlR0V0VUdJSjBWaDVNVG95YkJTUUExTVpiaXRIUnFOM1YxY0hPWFU"
+  },
+  {
+    name: "MacBook Neo 256gb",
+    brand: "Apple",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 700,
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-neo-color-unselect-202603-gallery-1?wid=5120&hei=3280&fmt=webp&qlt=90&.v=TytZbDBUUnRqRElRcFlBSHpmZVVDK3BoR2lIdGdhMDNQSUZrOHIycWd6Vmd1bjBBbHBBMFNjNjVIN0pUcUg2U0tZMGFKbG9yanhQdjZDS1dZUFFhRVE4bm1RcmlWRWp2eDN1WHNkSjNmUmFub3B6RFdCcnJtSHE1TzBCb3pCcis&traceId=1"
+  },
+  {
+    name: "MacBook Neo 512gb",
+    brand: "Apple",
+    gender: "touch-id",
+    category: "eletronics",
+    priceUSD: 840,
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-neo-color-unselect-202603-gallery-1?wid=5120&hei=3280&fmt=webp&qlt=90&.v=TytZbDBUUnRqRElRcFlBSHpmZVVDK3BoR2lIdGdhMDNQSUZrOHIycWd6Vmd1bjBBbHBBMFNjNjVIN0pUcUg2U0tZMGFKbG9yanhQdjZDS1dZUFFhRVE4bm1RcmlWRWp2eDN1WHNkSjNmUmFub3B6RFdCcnJtSHE1TzBCb3pCcis&traceId=1"
+  },
+  {
+    name: "MacBook Air M5 512gb",
+    brand: "Apple",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 1160,
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-air-size-select-202601-13inch?wid=5120&hei=3280&fmt=webp&qlt=90&.v=YTFkSnBPS2tMZFdhaFNRRkx6VnJZZ0dOZysray9HQ25xUFBjc1l1SVBQRG5EMTJnc255akxtMmp5bU5mazhOU2llL1JtdmgzcGVIUDRDUVJnTDZxRi9IeW9zeVB5R1dmem9sYTN4ckVUbEpyanpSTU15V20vUHNpYk1hZWg4QjU&traceId=1"
+  },
+  {
+    name: "Smart Band 10",
+    brand: "Xiaomi",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 38,
+    image: "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-smart-band-10/pc/da025c87518a3b3dc0e788257b681579.jpg?f=webp"
+  },
+  {
+    name: "Smart Band 9 Active",
+    brand: "Xiaomi",
+    gender: "",
+    category: "eletronics",
+    priceUSD: 22,
+    image: "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-smart-band-9-active/pc_active_bg.jpg?f=webp"
+  },
+  {
+    name: "Go 4",
+    brand: "JBL",
+    gender: "Possui várias cores",
+    category: "eletronics",
+    priceUSD: 31,
+    image: "https://www.jbl.com.br/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw45224bd9/JBL_GO_4_HERO_BLACK_48156_x4.png?sw=535&sh=535"
+  },
+  {
+    name: "Clip 5",
+    brand: "JBL",
+    gender: "Possui várias cores",
+    category: "eletronics",
+    priceUSD: 37,
+    image: "https://www.jbl.com.br/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwf4fb1f8d/JBL_CLIP_5_HERO_BLACK_48128_x6.png?sw=535&sh=535"
+  },
+  {
+    name: "Flip 7",
+    brand: "JBL",
+    gender: "Possui várias cores",
+    category: "eletronics",
+    priceUSD: 80,
+    image: "https://www.jbl.com.br/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw3e24fb0a/JBL_FLIP_7_HERO_BLUE_079_x1.png?sw=535&sh=535"
+  },
+  {
+    name: "Wave Beam 2",
+    brand: "JBL",
+    gender: "Possui várias cores",
+    category: "eletronics",
+    priceUSD: 40,
+    image: "https://www.jbl.com.br/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfbc74861/01.JBL_Wave%20Beam%202_Product%20Image_Hero_Black.png?sw=535&sh=535"
+  },
+  {
+    name: "Sense Lite",
+    brand: "JBL",
+    gender: "Possui várias cores",
+    category: "eletronics",
+    priceUSD: 62,
+    image: "https://www.jbl.com.br/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwba6257b2/01.LS_JBL_Sense-Lite_Product-Image_Hero_Black.png?sw=535&sh=535"
+  },
+  {
+    name: "Live 770NC",
+    brand: "JBL",
+    gender: "Possui várias cores",
+    category: "eletronics",
+    priceUSD: 55,
+    image: "https://www.jbl.com.br/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dweda1f6ca/01.JBL_Live_770NC_Product%20Image_Hero_Black.png?sw=535&sh=535"
+  }       
 ];
 
 let exchangeRate = 5;
@@ -812,7 +1011,7 @@ async function fetchExchangeRate() {
   try {
     const response = await fetch('https://api.exchangerate-api.com/v4/latest/USD');
     const data = await response.json();
-    exchangeRate = 5.35; //data.rates.BRL;
+    exchangeRate = 5.30; //data.rates.BRL;
     renderProducts(products);
   } catch (e) {
     console.error('Erro ao buscar câmbio', e);
@@ -849,6 +1048,17 @@ function openModal(src) {
   modalImg.src = src;
   modal.classList.add('active');
 }
+/*
+function filterProducts(filter) {
+  selectedCategory = filter;
+
+  document.querySelectorAll('.category-filters button')
+    .forEach(btn => btn.classList.remove('active'));
+
+  event.target.classList.add('active');
+
+  applyFilters();
+}*/
 
 function filterProducts(filter) {
   if (filter === 'all') return renderProducts(products);

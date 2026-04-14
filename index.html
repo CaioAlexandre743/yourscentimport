@@ -18,12 +18,12 @@
   </header>
 
   <section class="filters">
-    <!--
-    <button onclick="filterProducts('all')">Todos</button>
-    <button onclick="filterProducts('perfume')">Perfumes</button>
-    <button onclick="filterProducts('bebida')">Bebidas</button>
-    <button onclick="filterProducts('eletro')">Eletrônicos</button>
-    -->
+    <div class="category-filters">
+      <button onclick="filterProducts('all')" class="active">Todos</button>
+      <button onclick="filterProducts('perfume')">Perfumes</button>
+      <button onclick="filterProducts('eletronics')">Eletrônicos</button>
+    </div>
+
     <div class="filter-dropdown">
       <button class="filter-btn" onclick="toggleDropdown()">
         Marcas ▼
@@ -32,12 +32,15 @@
       <div id="dropdown-marcas" class="dropdown-content">
         <label><input type="checkbox" value="todas"> Todas</label>
         <label><input type="checkbox" value="Al-Wataniah"> Al Wataniah</label>
+        <label><input type="checkbox" value="Ariana-Grande"> Ariana Grande</label>
+        <label><input type="checkbox" value="Apple"> Apple</label>
         <label><input type="checkbox" value="Calvin-Klein"> Calvin Klein</label>
         <label><input type="checkbox" value="Carolina-Herrera"> Carolina Herrera</label>
         <label><input type="checkbox" value="Chanel"> Chanel</label>
         <label><input type="checkbox" value="Fragrance-by-Sabrina"> Fragrance by Sabrina</label>
         <label><input type="checkbox" value="Gucci"> Gucci</label>
         <label><input type="checkbox" value="Giorgio-Armani"> Giorgio Armani</label>
+        <label><input type="checkbox" value="JBL"> JBL</label>
         <label><input type="checkbox" value="Dior"> Dior</label>
         <label><input type="checkbox" value="Jean-Paul-Gaultier">Jean Paul Gaultier</label>
         <label><input type="checkbox" value="Lancôme"> Lancôme</label>
@@ -46,6 +49,7 @@
         <label><input type="checkbox" value="Prada"> Prada</label>
         <label><input type="checkbox" value="Versace"> Versace</label>
         <label><input type="checkbox" value="Victoria's-Secret"> Victoria's Secret</label>
+        <label><input type="checkbox" value="Xiaomi"> Xiaomi</label>
         <label><input type="checkbox" value="Yves-Saint-Laurent"> Yves Saint Laurent</label>
       </div>
     </div>
@@ -62,6 +66,7 @@
 
   <div class="footer">
     <h3>Valores apenas para simulação!</h3>
+    <h3>Pagamento à vista!</h3>
     <p>O valor é com base no câmbio do dolar e é atualizado a cada acesso. </p>
     <p>O valor final de cada item pode sofrer alterações pois cada loja aplica um câmbio diferente.</p>
     <p>Este valor é apenas para ter como base do a pagar.</p>
