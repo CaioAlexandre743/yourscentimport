@@ -264,6 +264,14 @@ export const products = [
     image: "https://www.alwataniah.com/cdn/shop/files/02_a9c3573f-c332-487c-8b77-b423e8f59ddf.png?v=1764414364&width=600"
   }, 
   {
+    name: "Club de Nuit Intense Man Eau de Toilette 105ml",
+    brand: "ARMAF",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://armaf.com/cdn/shop/files/Q-106DCLUBDENUITINTENSE_M_FIF_900x_f04752b1-087d-4206-8985-e13e96c5896d.webp?v=1762289750&width=700"
+  },
+  {
     name: "Cloud Eau de Parfum 100ml",
     brand: "Ariana Grande",
     gender: "feminino",
@@ -294,7 +302,7 @@ export const products = [
     category: "perfume",
     priceUSD: 69,
     image: "https://arianagrandefragrances.com/cdn/shop/files/mod-vanilla.webp?v=1749775445"
-  },
+  },  
   {
     name: "CK Be Eau de Toilette 200ml",
     brand: "Calvin Klein",
