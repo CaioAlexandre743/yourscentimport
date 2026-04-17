@@ -72,6 +72,30 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/Atheeri-1_f93156cf-73d9-4455-8540-5665a4312efb.png?v=1747416765&width=810"
   },
   {
+    name: "Badee Al Oud Noble Amethyst Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 21,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Badee-Al-Oud-Amethyst-1.png?v=1747422428&width=810"
+  },
+  {
+    name: "Badee Al Oud Noble Blush Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 21,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Badee-Al-Oud-Noble-Blush-1_efc7268e-6d5c-413d-ae1e-ef7c9873bb6e.png?v=1747415567&width=810"
+  },
+  {
+    name: "Badee Al Oud Honor And Glory Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 21,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Badee-Al-Oud-Honor-_-Glory-1_a3e5a0eb-fe3d-4799-8408-2874e3a642fa.png?v=1747415524&width=810"
+  },
+  {
     name: "Dalal 100ml",
     brand: "Lattafa",
     gender: "feminino",
@@ -134,6 +158,54 @@ export const products = [
     category: "perfume",
     priceUSD: 37,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_aef6a220-3fcb-4b87-838d-7f704806476f.png?v=1750614271&width=810"
+  },
+  {
+    name: "Give me Gourmand Berry on Top 75ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_lattafa_give_me_gourmand_berry_on_eau_de_parfum_feminino_75ml_198090_a2d944e7-3541-449e-a5a9-5a3acf390272.avif"
+  },
+  {
+    name: "Give me Gourmand Choco Overdose 75ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_lattafa_give_me_gourmand_choco_overdose_eau_de_parfum_feminino_75ml_198091_03571ee3-4c61-4942-afb1-75c021a32f81.avif"
+  },
+  {
+    name: "Give me Gourmand Cookie Crave 75ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_lattafa_give_me_cookie_crave_eau_de_parfum_feminino_75ml_198092_e05f33bb-daed-46fe-9f9d-2ea8f099ff87.avif"
+  },
+  {
+    name: "Give me Gourmand Mallow Madness 75ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_lattafa_give_me_gourmand_mallow_madness_eau_de_parfum_feminino_75ml_198093_4ef65b39-51f0-40e2-91d2-facc2c9a27ae.avif"
+  },
+  {
+    name: "Give me Gourmand Vanilla Freak 75ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_lattafa_give_me_gourmand_vanilla_freak_eau_de_parfum_feminino_75ml_198094_f352b6cb-cd1d-4003-b096-8a4a6b09a47c.avif"
+  },
+  {
+    name: "Give me Gourmand Whipped Pleasure 75ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_lattafa_give_me_gourmand_whipped_pleasure_eau_de_parfum_feminino_75ml_198095_00d039ea-d318-4a08-b25c-30cbb262ce60.avif"
   },
   {
     name: "Haya 100ml",
@@ -468,7 +540,7 @@ export const products = [
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 13,
+    priceUSD: 14,
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_SweetTooth_BodyMist.jpg?v=1721735050&width=990"
   },
   {
@@ -476,7 +548,7 @@ export const products = [
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 13,
+    priceUSD: 14,
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_CaramelDream_BodyMist.jpg?v=1721734675&width=990"
   },
   {
@@ -484,7 +556,7 @@ export const products = [
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 13,
+    priceUSD: 14,
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_CherryBaby_BodyMist_1.jpg?v=1721734859&width=990"
   },
   {
@@ -492,7 +564,7 @@ export const products = [
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 13,
+    priceUSD: 14,
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_Me_Espresso_Body_Mist_1.jpg?v=1752068437&width=990"
   },
   {
@@ -582,7 +654,23 @@ export const products = [
     category: "perfume",
     priceUSD: 50,
     image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/hd0/hdb/10728990867486/10728990801950/10728990801950.jpg"
-  },  
+  }, 
+  {
+    name: "Lady Million 80ml",
+    brand: "Paco Rabanne",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 65,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/h4d/h43/10488407851038/10488407785502/10488407785502.jpg"
+  }, 
+  {
+    name: "Million Gold For Her 90ml",
+    brand: "Paco Rabanne",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 82,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/h89/h30/10733375389726/10733375324190/10733375324190.jpg"
+  },
   {
     name: "Olympea Eau de Parfum 80ml",
     brand: "Paco Rabanne",
@@ -620,7 +708,7 @@ export const products = [
     brand: "Victoria's Secret",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 16,
+    priceUSD: 17,
     image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592024760_OM_F.jpg"
   },
   {
@@ -644,7 +732,7 @@ export const products = [
     brand: "Victoria's Secret",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 16,
+    priceUSD: 17,
     image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/12/00/112592020037_OM_F.jpg"
   },
   {
@@ -668,7 +756,7 @@ export const products = [
     brand: "Victoria's Secret",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 16,
+    priceUSD: 17,
     image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/12/00/112592028527_OM_F.jpg"
   },
   {
@@ -692,7 +780,7 @@ export const products = [
     brand: "Victoria's Secret",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 16,
+    priceUSD: 17,
     image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592023336_OM_F.jpg"
   },
   {
@@ -716,7 +804,7 @@ export const products = [
     brand: "Victoria's Secret",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 16,
+    priceUSD: 17,
     image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/06/02/112592022017_OM_F.jpg"
   },
   {
@@ -748,7 +836,7 @@ export const products = [
     brand: "Victoria's Secret",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 16,
+    priceUSD: 17,
     image: "https://www.victoriassecret.com/p/1000x1333/png/zz/25/02/20/23/112592024285_OM_F.jpg"
   },
   {
