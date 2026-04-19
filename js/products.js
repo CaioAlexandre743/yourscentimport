@@ -224,6 +224,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_8cd4cfe9-d5fc-4fe9-ad9d-a994b798957f.png?v=1756361835&width=810"
   },
   {
+    name: "Her Confession 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 27,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Her-Confession-1_37f3fdce-b4e7-4c30-969a-f41ff87de13c.png?v=1747415953&width=810"
+  },
+  {
     name: "Mayar Cherry Intense Eau de Parfum 100ml",
     brand: "Lattafa",
     gender: "feminino",
@@ -400,7 +408,7 @@ export const products = [
     image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw7da28fa2/images/hi-res-BR/8411061869406.1_1000px.jpg?sw=1200&sh=1200&sm=fit"
   },
   {
-    name: "Good Girl Eau de Parfum 100ml",
+    name: "Good Girl Eau de Parfum 80ml",
     brand: "Carolina Herrera",
     gender: "feminino",
     category: "perfume",
@@ -408,12 +416,12 @@ export const products = [
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h80/hc9/10561719795742/INGR-GG/INGR-GG.jpg"
   },
   {
-    name: "Good Girl Blush Eau de Parfum 100ml",
+    name: "Good Girl Blush Eau de Parfum 80ml",
     brand: "Carolina Herrera",
     gender: "feminino",
     category: "perfume",
     priceUSD: 90,
-    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/hb9/h04/10539499814942/10539499749406/10539499749406.jpg"
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h4f/hc4/10358881353758/INGR-GG-B/INGR-GG-B.jpg"
   },
   {
     name: "La Bomba Eau de Parfum 80ml",
@@ -422,6 +430,14 @@ export const products = [
     category: "perfume",
     priceUSD: 100,
     image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw0eaf5f31/images/hi-res-BR/Frag/Nova%20pasta/Wesley/_8411061113134_0065219238_5_1000px.jpg?sw=556&sh=680&sm=fit"
+  },
+  {
+    name: "La Bomba Loção Hidratante 200ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 54,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h77/h05/10526887084062/PDP-LABOMBA-CREAM-DETAILS/PDP-LABOMBA-CREAM-DETAILS.jpg"
   },
   {
     name: "Bleu de Chanel Eau de Toilette 100ml",
@@ -447,6 +463,14 @@ export const products = [
     priceUSD: 160,
     image: "https://www.chanel.com/images/t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/n-5-eau-de-parfum-spray-3-4fl-oz--packshot-default-125530-9564912943134.jpg"
   }, 
+  {
+    name: "Addict Eau de Parfum 100ml",
+    brand: "Dior",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 125,
+    image: "https://lojadior.vtexassets.com/arquivos/ids/156016-1200-800/3348901181839_02--highlight-dior--addict-eau-de-parfum.jpg?v=638829152698470000"
+  },
   {
     name: "J'adore Eau de Parfum 100ml",
     brand: "Dior",
@@ -540,7 +564,7 @@ export const products = [
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 14,
+    priceUSD: 15,
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_SweetTooth_BodyMist.jpg?v=1721735050&width=990"
   },
   {
@@ -548,7 +572,7 @@ export const products = [
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 14,
+    priceUSD: 15,
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_CaramelDream_BodyMist.jpg?v=1721734675&width=990"
   },
   {
@@ -556,7 +580,7 @@ export const products = [
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 14,
+    priceUSD: 15,
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_CherryBaby_BodyMist_1.jpg?v=1721734859&width=990"
   },
   {
@@ -564,7 +588,7 @@ export const products = [
     brand: "Fragrance by Sabrina",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 14,
+    priceUSD: 15,
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_Me_Espresso_Body_Mist_1.jpg?v=1752068437&width=990"
   },
   {
