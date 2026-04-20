@@ -7,7 +7,21 @@ export const slidesData = [
     link: ""
   },
   {
+    image: "https://armaf.com/cdn/shop/files/CDN_IM_2_2000x.jpg?v=1765995357",
+    title: "",
+    description: "",
+    button: "",
+    link: ""
+  },  
+  {
     image: "https://www.alwataniah.com/cdn/shop/files/sabah-al-ward-banner.jpg?v=1759755360&amp",
+    title: "",
+    description: "",
+    button: "",
+    link: ""
+  },  
+  {
+    image: "https://www.lancome.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-lancome-br-Library/pt_BR/dw02e6327b/images/2026/SITE/74%20FEVEREIRO%20LAN%20BANNER%20D2C%202880X600%201.jpg?sw=1998&sh=416&sm=cut&q=70",
     title: "",
     description: "",
     button: "",
@@ -48,6 +62,13 @@ export const slidesData = [
     button: "",
     link: ""
   },
+  {
+    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-unselect-gallery-1-202509?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxdFgrSXpWVEhWaW9YTGlWRHFoSHU0L0w1RHFtNzA4ck9mVldadHU2Wno0OGd2S3NaRzcrU0dmYjNHTUFiMnlsWFUxSlgrVWMrMzU1OXo2c2JyNjJZTGhmN0ZBTUZPZUJIbE8rL0krOGtnd2M&traceId=1",
+    title: "",
+    description: "",
+    button: "",
+    link: ""
+  },  
   {
     image: "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-smart-band-10/pc/specsbackground.jpg",
     title: "",

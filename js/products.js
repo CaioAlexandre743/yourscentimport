@@ -280,6 +280,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/Musamam-White-1.png?v=1747416325&width=810"
   },
   {
+    name: "Tharwah Gold 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_7b2f7e1d-2e42-4c34-b998-bc64f72be48f.png?v=1749326219&width=810"
+  },
+  {
     name: "Yara 100ml",
     brand: "Lattafa",
     gender: "feminino",
@@ -350,6 +358,22 @@ export const products = [
     category: "perfume",
     priceUSD: 30,
     image: "https://armaf.com/cdn/shop/files/Q-106DCLUBDENUITINTENSE_M_FIF_900x_f04752b1-087d-4206-8985-e13e96c5896d.webp?v=1762289750&width=700"
+  },
+  {
+    name: "Club de Nuit Woman Eau de Parfum 105ml",
+    brand: "ARMAF",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 29,
+    image: "https://armaf.com/cdn/shop/files/CDN1.png?v=1774468835&width=700"
+  },
+  {
+    name: "Odyssey Mandarin Sky Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 23,
+    image: "https://armaf.com/cdn/shop/files/odysseymandarinsky-bottle.jpg?v=1739111516&width=700"
   },
   {
     name: "Cloud Eau de Parfum 100ml",
