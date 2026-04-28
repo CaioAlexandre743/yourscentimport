@@ -16,6 +16,22 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_89027578-d9b1-4664-a7dc-538f0f110578.png?v=1756361257&width=810"
   },
   {
+    name: "Angham 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 26,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Angham-1_fea96331-1cd0-467d-be6d-56ad073a7f86.png?v=1747415391&width=810"
+  },
+  {
+    name: "Angham Body Splash 250ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 12,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/produtos/thumbs/big/96ec847b86b00b2f7cc846d3e83e187f2bdd7442.webp"
+  },
+  {
     name: "Ansaam Gold 100ml",
     brand: "Lattafa",
     gender: "feminino",
