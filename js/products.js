@@ -16,12 +16,28 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_89027578-d9b1-4664-a7dc-538f0f110578.png?v=1756361257&width=810"
   },
   {
+    name: "Al Noble Safeer 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 26,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_e42b94e8-2b9a-434c-b247-4e12f50c005c.png?v=1756143307&width=810"
+  },
+  {
     name: "Angham 100ml",
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
     priceUSD: 26,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Angham-1_fea96331-1cd0-467d-be6d-56ad073a7f86.png?v=1747415391&width=810"
+  },
+  {
+    name: "Angham Second song 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/IMG-7057.png?v=1769925903&width=810"
   },
   {
     name: "Angham Body Splash 250ml",
@@ -248,6 +264,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/Her-Confession-1_37f3fdce-b4e7-4c30-969a-f41ff87de13c.png?v=1747415953&width=810"
   },
   {
+    name: "His Confession 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 34,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/His-Confession-1_2614a68d-8561-4a94-9c54-7739ae06f986.png?v=1747415996&width=810"
+  },
+  {
     name: "Mayar Cherry Intense Eau de Parfum 100ml",
     brand: "Lattafa",
     gender: "feminino",
@@ -304,6 +328,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_7b2f7e1d-2e42-4c34-b998-bc64f72be48f.png?v=1749326219&width=810"
   },
   {
+    name: "Victoria Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Victoria-1_5951ef1c-61de-4bd1-9d5f-1d2b3d1c18cc.png?v=1747417320&width=810"
+  },
+  {
     name: "Yara 100ml",
     brand: "Lattafa",
     gender: "feminino",
@@ -343,6 +375,14 @@ export const products = [
     priceUSD: 22,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_5fe75433-0467-4d06-87e9-d9e81ac2da00.png?v=1749487600&width=810"
   },
+  {
+    name: "Ameerati 100ml",
+    brand: "Al Wataniah",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 17,
+    image: "https://www.alwataniah.com/cdn/shop/files/ameerati_3bf5e3b0-31f8-4e07-a6e9-f71dccd6131d.png?v=1759829943&width=600"
+  }, 
   {
     name: "Durrat Al Aroos Eau de Parfum 85ml",
     brand: "Al Wataniah",
@@ -573,7 +613,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 105,
-    image: "https://lojadior.vtexassets.com/arquivos/ids/197354-950-950?v=638715137973900000&width=950&height=950&aspect=true"
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_christian_dior_jadore_eau_de_toilette_feminino_100ml_88519_550x550.jpg"
   },
   {
     name: "J'adore Parfum D'Eau Eau de Parfum 100ml",
@@ -688,6 +728,22 @@ export const products = [
     image: "https://armani.vtexassets.com/arquivos/ids/400446-462-650/3614273955553-PERFUME_1.jpg?v=638869788614600000"
   },
   {
+    name: "Acqua Di Gioia Eau de Parfum 100ml",
+    brand: "Giorgio Armani",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 110,
+    image: "https://armani.vtexassets.com/arquivos/ids/430720-462-650/LE645900_NLP_100ML_F_Y_FW2025.jpg?v=639040145123200000"
+  },
+  {
+    name: "My Way Eau de Parfum 90ml",
+    brand: "Giorgio Armani",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 100,
+    image: "https://armani.vtexassets.com/arquivos/ids/188503-462-650/3614272907690-MY-WAY_1.jpg?v=638453241935200000"
+  },
+  {
     name: "Stronger With You Eau de Toilette 100ml",
     brand: "Giorgio Armani",
     gender: "masculino",
@@ -742,6 +798,94 @@ export const products = [
     category: "perfume",
     priceUSD: 80,
     image: "https://www.lancome.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-lancome-latam-master-catalog/default/dwc97ce4dd/images/PACKSHOTS/FRAGRANCE/LVEB/00027-LAC-La-Vie-est-Belle-Eau-de-Parfum/lan_dmi_frag_la-vie-est-belle-edp-50ml_03605532612768_v1.jpg?sw=720&sh=720&sm=cut&sfrm=jpg&q=70"
+  },
+  {
+    name: "Amber Noir Eau de Parfum 80ml",
+    brand: "Orientica",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 56,
+    image: "https://www.orienticaperfumes.com/cdn/shop/files/Amber-Noir-bottle1.png?v=1761538820"
+  },
+  {
+    name: "Amber Rouge Eau de Parfum 80ml",
+    brand: "Orientica",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 52,
+    image: "https://www.orienticaperfumes.com/cdn/shop/files/Amber-rouge_bottle1.png?v=1761538863"
+  }, 
+  {
+    name: "Azure Fantasy Extrait de Parfum 80ml",
+    brand: "Orientica",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 65,
+    image: "https://www.orienticaperfumes.com/cdn/shop/files/Azure-Fantasy.png?v=1761538666"
+  },
+  {
+    name: "Dania Extrait de Parfum 80ml",
+    brand: "Orientica",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 72,
+    image: "https://www.orienticaperfumes.com/cdn/shop/files/Dania.png?v=1761540415"
+  },
+  {
+    name: "Exclusive Royal Amber Extrait de Parfum 80ml",
+    brand: "Orientica",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 56,
+    image: "https://www.orienticaperfumes.com/cdn/shop/files/Royal-Amber.png?v=1761538705"
+  },
+  {
+    name: "Imperial Jade Extrait de Parfum 80ml",
+    brand: "Orientica",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://www.orienticaperfumes.com/cdn/shop/files/2_f452aadc-8411-42f2-9f2c-0ee8d0961c7c.jpg?v=1761540529"
+  },
+  {
+    name: "Oud Saffron Eau de Parfum 80ml",
+    brand: "Orientica",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 51,
+    image: "https://www.orienticaperfumes.com/cdn/shop/files/Oud_saffron1.png?v=1761538901"
+  }, 
+  {
+    name: "Rose Eclat Eau de Parfum 80ml",
+    brand: "Orientica",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 78,
+    image: "https://www.orienticaperfumes.com/cdn/shop/files/Orientica_products_1.png?v=1769786120"
+  },
+  {
+    name: "Royal Amber Eau de Parfum 80ml",
+    brand: "Orientica",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 56,
+    image: "https://www.orienticaperfumes.com/cdn/shop/files/royal-amber_19b23aeb-c29e-4786-b35c-49a4b42972ce.png?v=1761538938"
+  },
+  {
+    name: "Royal Bleu Eau de Parfum 80ml",
+    brand: "Orientica",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 53,
+    image: "https://www.orienticaperfumes.com/cdn/shop/files/Royal-Bleu.png?v=1761538978"
+  },
+  {
+    name: "Velvet Gold Eau de Parfum 80ml",
+    brand: "Orientica",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 55,
+    image: "https://www.orienticaperfumes.com/cdn/shop/files/velvet-gold.png?v=1761539013"
   },
   {
     name: "1 Million Eau de Toilette 100ml",
@@ -806,6 +950,54 @@ export const products = [
     category: "perfume",
     priceUSD: 110,
     image: "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1351/2HDZF0Z99/1A1351_2HDZ_F0Z99_P_ML090_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg"
+  },
+  {
+    name: "Alien Eau de Parfum 90ml",
+    brand: "Thierry Mugler",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 110,
+    image: "https://www.mugler.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-mugler-master-catalog/default/dw150a5257/images/pdp/M010401002/M010401002/3439600056969_alien_90ml_refillable_main_v2.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=70"
+  },
+  {
+    name: "Alien Goddess Eau de Parfum 90ml",
+    brand: "Thierry Mugler",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 110,
+    image: "https://www.mugler.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-mugler-master-catalog/default/dw6e812b95/images/pdp/M020604230/M020604230-update/3614273560405_alien_goddesses_main.jpg?sw=720&sh=720&sm=cut&sfrm=jpg&q=70"
+  },
+  {
+    name: "Angel Eau de Parfum 100ml",
+    brand: "Thierry Mugler",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 120,
+    image: "https://www.mugler.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-mugler-master-catalog/default/dw0b12f324/images/pdp/M010101003/update/3439600056655-angel-eau-de-parfum%E2%80%8B-50ml-refill-main.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=70"
+  },
+  {
+    name: "Angel Loção Corporal 200ml",
+    brand: "Thierry Mugler",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 75,
+    image: "https://www.mugler.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-mugler-master-catalog/default/dwe56959f3/images/pdp/M020604099/M020604099-update/3439600039931-angel-perfuming-body-lotion-main.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=70"
+  },
+  {
+    name: "Angel Elixir Eau de Parfum 100ml",
+    brand: "Thierry Mugler",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 125,
+    image: "https://www.mugler.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-mugler-master-catalog/default/dw40eff6cd/images/pdp/M020604286/update/3614273764933-angel-elixir-eau-de-parfum-florale-50ml-main.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=70"
+  },
+  {
+    name: "Angel Nova Eau de Parfum 100ml",
+    brand: "Thierry Mugler",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 121,
+    image: "https://www.mugler.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-mugler-master-catalog/default/dwfafca898/images/pdp/M020604168/angel-nova-packshots/Mug_Angel%20Nova_Frag_100ml_Product_Front_No%20shadow_3439600049862_New%20pack.jpg?sw=720&sh=720&sm=cut&sfrm=jpg&q=70"
   },
   {
     name: "Aqua Kiss Fragrance Mist 250ml",

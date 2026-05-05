@@ -12,7 +12,14 @@ export const slidesData = [
     description: "",
     button: "",
     link: ""
-  },  
+  }, 
+  {
+    image: "https://www.mugler.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-mugler-us-Library/default/dwdfd8074c/images/homepage/2026/mothers-day-2026-homepage/section5-visual-desk.jpg?sw=2000&sh=785&sm=cut&q=70",
+    title: "",
+    description: "",
+    button: "",
+    link: ""
+  }, 
   {
     image: "https://www.alwataniah.com/cdn/shop/files/sabah-al-ward-banner.jpg?v=1759755360&amp",
     title: "",
