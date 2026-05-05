@@ -422,7 +422,55 @@ export const products = [
     category: "perfume",
     priceUSD: 69,
     image: "https://arianagrandefragrances.com/cdn/shop/files/mod-vanilla.webp?v=1749775445"
+  }, 
+  {
+    name: "Chrome Eau de Toilette 100ml",
+    brand: "Azzaro",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 68,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_azzaro_chrome_eau_de_toilette_masculino_100ml_65060_550x550.jpg"
   },  
+  {
+    name: "Pour Homme Eau de Toilette 100ml",
+    brand: "Azzaro",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_azzaro_pour_homme_eau_de_toilette_masculino_100ml_173928_550x550.jpg"
+  }, 
+  {
+    name: "Sport Eau de Toilette 100ml",
+    brand: "Azzaro",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_azzaro_sport_eau_de_toilette_masculino_100ml_131149_550x550.jpg"
+  }, 
+  {
+    name: "The Most Wanted Eau de Parfum Intense 100ml",
+    brand: "Azzaro",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 85,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_azzaro_the_most_wanted_eau_de_parfum_intense_masculino_100ml_154940_550x550.png"
+  },
+  {
+    name: "Wanted Eau de Toilette 100ml",
+    brand: "Azzaro",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 68,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_azzaro_wanted_eau_de_toilette_masculino_100ml_106911_550x550.jpg"
+  },
+  {
+    name: "Wanted Eau de Parfum 100ml",
+    brand: "Azzaro",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 85,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_azzaro_wanted_eau_de_parfum_masculino_100ml_165228_550x550.png"
+  },
   {
     name: "CK Be Eau de Toilette 200ml",
     brand: "Calvin Klein",
@@ -1151,6 +1199,22 @@ export const products = [
     category: "eletronics",
     priceUSD: 1160,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-air-size-select-202601-13inch?wid=5120&hei=3280&fmt=webp&qlt=90&.v=YTFkSnBPS2tMZFdhaFNRRkx6VnJZZ0dOZysray9HQ25xUFBjc1l1SVBQRG5EMTJnc255akxtMmp5bU5mazhOU2llL1JtdmgzcGVIUDRDUVJnTDZxRi9IeW9zeVB5R1dmem9sYTN4ckVUbEpyanpSTU15V20vUHNpYk1hZWg4QjU&traceId=1"
+  },
+  {
+    name: "Aspirador de Pó S40C",
+    brand: "Xiaomi",
+    gender: "Bivolt",
+    category: "eletronics",
+    priceUSD: 165,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/robo_de_limpeza_xiaomi_robot_vacuum_s40c_bivolt_190114_2529f0aa-10db-42c8-ba46-2c7c52f51873.webp"
+  },
+  {
+    name: "Aspirador de Pó H40",
+    brand: "Xiaomi",
+    gender: "110v",
+    category: "eletronics",
+    priceUSD: 290,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/robo_de_limpeza_xiaomi_robot_vacuum_h40_110v_198604_fc943e9f-3ae7-451d-b24d-4dc7b4e91f9a.avif"
   },
   {
     name: "Smart Band 10",
