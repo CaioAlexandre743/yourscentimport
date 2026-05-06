@@ -384,6 +384,14 @@ export const products = [
     image: "https://www.alwataniah.com/cdn/shop/files/ameerati_3bf5e3b0-31f8-4e07-a6e9-f71dccd6131d.png?v=1759829943&width=600"
   }, 
   {
+    name: "Attar Al Wesal 100ml",
+    brand: "Al Wataniah",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://www.alwataniah.com/cdn/shop/files/attar-al-wesal.png?v=1759830032&width=600"
+  },
+  {
     name: "Durrat Al Aroos Eau de Parfum 85ml",
     brand: "Al Wataniah",
     gender: "feminino",
@@ -800,6 +808,38 @@ export const products = [
     image: "https://www.lancome.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-lancome-latam-master-catalog/default/dwc97ce4dd/images/PACKSHOTS/FRAGRANCE/LVEB/00027-LAC-La-Vie-est-Belle-Eau-de-Parfum/lan_dmi_frag_la-vie-est-belle-edp-50ml_03605532612768_v1.jpg?sw=720&sh=720&sm=cut&sfrm=jpg&q=70"
   },
   {
+    name: "Avant Eau de Parfum 100ml",
+    brand: "Maison Alhambra",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 23,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/produtos/thumbs/big/6861159cf31a8c4c2829a80d6f75b534b82085be.webp"
+  },
+  {
+    name: "Como Moiselle Eau de Parfum 100ml",
+    brand: "Maison Alhambra",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 28,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/produtos/thumbs/big/d06a2bd587bf927f255657d16d395f5652367c2e.webp"
+  },
+  {
+    name: "Delilah Pour Femme Eau de Parfum 100ml",
+    brand: "Maison Alhambra",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 28,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/produtos/thumbs/big/65c1964e30f1eb77603c98ba7e6e7a69464b756a.webp"
+  },  
+  {
+    name: "Rose Seduction Vip Eau de Parfum 100ml",
+    brand: "Maison Alhambra",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.95875.avif"
+  },
+  {
     name: "Amber Noir Eau de Parfum 80ml",
     brand: "Orientica",
     gender: "feminino",
@@ -950,6 +990,46 @@ export const products = [
     category: "perfume",
     priceUSD: 110,
     image: "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1351/2HDZF0Z99/1A1351_2HDZ_F0Z99_P_ML090_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg"
+  },
+  {
+    name: "Polo Black Eau de Toilette 125ml",
+    brand: "Ralph Lauren",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 55,
+    image: "https://www.ralphlaurenfragrances.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ralphlauren-master-catalog/default/dwc460cb9c/images/pdp/RFLE012/New/ralph-lauren-fragrances-polo-black-edt-harm-125ml-bottle-front-carousel.jpg?sw=700&sh=700&sm=cut&sfrm=jpg&q=70"
+  },
+  {
+    name: "Polo Blue Eau de Toilette 125ml",
+    brand: "Ralph Lauren",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://www.ralphlaurenfragrances.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ralphlauren-master-catalog/default/dwfb0ff6e6/images/pdp/RLFE001/ralph-lauren-fragrances-polo-blue-eau-de-toilette-125ml-front.jpg?sw=700&sh=700&sm=cut&sfrm=jpg&q=70"
+  },
+  {
+    name: "Polo Green Eau de Toilette 125ml",
+    brand: "Ralph Lauren",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 75,
+    image: "https://www.ralphlaurenfragrances.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ralphlauren-master-catalog/default/dw2ec40dd2/images/pdp/RLFE016/125/ralph-lauren-fragrances-polo-edt-125ml-bottle-packshot-carousel.jpg?sw=700&sh=700&sm=cut&sfrm=jpg&q=70"
+  },
+  {
+    name: "Polo Red Eau de Toilette 125ml",
+    brand: "Ralph Lauren",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://www.ralphlaurenfragrances.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ralphlauren-master-catalog/default/dw28c8a487/images/2024%20Lando%20Polo%20Red/RLFE006/ralph-lauren-fragrances-polo-red-eau-de-toilette-harm-125ml-front.jpg?sw=700&sh=700&sm=cut&sfrm=jpg&q=70"
+  },
+  {
+    name: "Polo Sport Eau de Toilette 125ml",
+    brand: "Ralph Lauren",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 36,
+    image: "https://www.ralphlaurenfragrances.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ralphlauren-master-catalog/default/dw7c1ba6ad/images/pdp/RLFE022/ralph-lauren-fragrances-polo-black-eau-de-toilette-pdp-product-carousel.jpg?sw=700&sh=700&sm=cut&sfrm=jpg&q=70"
   },
   {
     name: "Alien Eau de Parfum 90ml",
