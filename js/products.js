@@ -320,6 +320,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/Musamam-White-1.png?v=1747416325&width=810"
   },
   {
+    name: "Queen Of Arabia 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 47,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_7f791c1f-3d23-4238-8b47-e00f6cbf173a.png?v=1749465557&width=810"
+  },
+  {
     name: "Tharwah Gold 100ml",
     brand: "Lattafa",
     gender: "feminino",
@@ -424,6 +432,14 @@ export const products = [
     image: "https://armaf.com/cdn/shop/files/Q-106DCLUBDENUITINTENSE_M_FIF_900x_f04752b1-087d-4206-8985-e13e96c5896d.webp?v=1762289750&width=700"
   },
   {
+    name: "Club de Nuit Maleka Eau de Parfum 105ml",
+    brand: "ARMAF",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://armaf.com/cdn/shop/files/CDNMALEKA_900x_678cfb46-d6f1-4ca5-8c50-b3c2b439ce5d.webp?v=1762298770&width=700"
+  },
+  {
     name: "Club de Nuit Woman Eau de Parfum 105ml",
     brand: "ARMAF",
     gender: "feminino",
@@ -520,6 +536,54 @@ export const products = [
     image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_azzaro_wanted_eau_de_parfum_masculino_100ml_165228_550x550.png"
   },
   {
+    name: "Goddess Eau de Parfum 100ml",
+    brand: "Burberry",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 130,
+    image: "https://assets.burberry.com/is/image/Burberryltd/69BD3315-EAFC-4CCB-9DA0-81C0D1F2D33D?$BBY_V3_SL_1$&wid=1500&hei=1500"
+  },
+  {
+    name: "For Men Eau de Toilette 100ml",
+    brand: "Burberry",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 45,
+    image: "https://assets.burberry.com/is/image/Burberryltd/F7D7B5B1-B9FA-4D6C-869A-740CCD455DC7?$BBY_V3_SL_1$&wid=1500&hei=1500"
+  },
+  {
+    name: "Her Eau de Toilette 100ml",
+    brand: "Burberry",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://assets.burberry.com/is/image/Burberryltd/11721DD9-190C-4077-8F1B-C36045617EA1?$BBY_V3_SL_1$&wid=1500&hei=1500"
+  },
+  {
+    name: "Hero Eau de Parfum 100ml",
+    brand: "Burberry",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 100,
+    image: "https://assets.burberry.com/is/image/Burberryltd/12BD6378-5A9E-49EE-8842-C3AD98E0890D?$BBY_V3_SL_1$&wid=1500&hei=1500"
+  },
+  {
+    name: "Mr. Burberry Eau de Toilette 100ml",
+    brand: "Burberry",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://assets.burberry.com/is/image/Burberryltd/C80C6E1E-334E-4446-9320-55A1DCF312BD?$BBY_V3_SL_1$&wid=1500&hei=1500"
+  },
+  {
+    name: "My Eau de Parfum 90ml",
+    brand: "Burberry",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 75,
+    image: "https://assets.burberry.com/is/image/Burberryltd/ABF307E6-33D5-4576-9848-14DE4BB03F70?$BBY_V3_SL_1$&wid=1500&hei=1500"
+  },
+  {
     name: "CK Be Eau de Toilette 200ml",
     brand: "Calvin Klein",
     gender: "masculino",
@@ -536,13 +600,61 @@ export const products = [
     image: "https://calvinklein.vtexassets.com/arquivos/ids/594325/25392-0_0000_1.jpg?v=637915284582670000"
   },
   {
+    name: "212 Eau de Toilette 100ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/hb7/he3/10773134508062/10773134442526/10773134442526.jpg"
+  },
+  {
+    name: "212 Eau de Toilette 100ml",
+    brand: "Carolina Herrera",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/hae/h51/10773115535390/10773115469854/10773115469854.jpg"
+  },
+  {
+    name: "212 Vip Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 59,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h21/h2d/10186233610270/10186233544734/10186233544734.jpg"
+  },
+  {
     name: "212 Vip Black Eau de Parfum 100ml",
     brand: "Carolina Herrera",
     gender: "masculino",
     category: "perfume",
     priceUSD: 60,
-    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw7da28fa2/images/hi-res-BR/8411061869406.1_1000px.jpg?sw=1200&sh=1200&sm=fit"
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h9c/h30/10773098070046/10773098004510/10773098004510.jpg"
   },
+  {
+    name: "212 Vip Rosé Eau de Parfum 80ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 71,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h9b/h27/10773145813022/10773145747486/10773145747486.jpg"
+  },
+  {
+    name: "Bad Boy Eau de Toilette 100ml",
+    brand: "Carolina Herrera",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://anbeauty.vtexassets.com/arquivos/ids/178319/bad-boy-carolina-herrera-eau-de-toilette-perfume-masculino%20100ml%20-2-.webp?v=638912897319630000"
+  },
+  {
+    name: "Bad Boy Cobalt Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 73,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/root/hb0/hc9/9913975177246/CH-BB-COB-7-RESIZE/CH-BB-COB-7-RESIZE.jpg"
+  },  
   {
     name: "Good Girl Eau de Parfum 80ml",
     brand: "Carolina Herrera",
@@ -640,6 +752,14 @@ export const products = [
     image: "https://lojadior.vtexassets.com/arquivos/ids/203269-1200-800/3348901773362_02-highlight-jadore-intense-100ml.jpg?v=639064895583700000"
   },
   {
+    name: "Miss Dior Eau de Parfum 100ml",
+    brand: "Dior",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 115,
+    image: "https://lojadior.vtexassets.com/arquivos/ids/202428-1200-800/3348901571456_02-highlight-md-edp.jpg?v=639040824312930000"
+  },
+  {
     name: "Sauvage Eau de Toilette 100ml",
     brand: "Dior",
     gender: "masculino",
@@ -662,6 +782,30 @@ export const products = [
     category: "perfume",
     priceUSD: 180,
     image: "https://lojadior.vtexassets.com/arquivos/ids/202438-1200-800/3348901640916_02-highlight-sauvage-elixir.jpg?v=639032094406770000"
+  },
+  {
+    name: "Devotion Eau de Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 67,
+    image: "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/modelos/perfume_dolce_gabbana_devotion_eau_de_parfum_feminino_100ml_168575_550x550.png"
+  },
+  {
+    name: "Devotion Pour Homme Eau de Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 65,
+    image: "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/b1c5ddba8d55c06cf8db9215d1b862575dd1c458.webp"
+  },
+  {
+    name: "Light Blue Eau De Toilette 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 65,
+    image: "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/modelos/perfume_dolce_gabbana_light_blue_eau_de_toilette_feminino_100ml_111398_550x550.jpg"
   },
   {
     name: "Sweet Tooth Eau de Parfum 75ml",
@@ -726,6 +870,86 @@ export const products = [
     category: "perfume",
     priceUSD: 15,
     image: "https://fragrancebysabrina.com/cdn/shop/files/SC_Me_Espresso_Body_Mist_1.jpg?v=1752068437&width=990"
+  },
+  {
+    name: "Ghost Spectre Eau de Parfum 80ml",
+    brand: "French Avenue",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 33,
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2024/11/spectre-ghost.jpg.webp"
+  },
+  {
+    name: "Wraith Spectre Eau de Parfum 80ml",
+    brand: "French Avenue",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2024/11/spectre-wraith.jpg.webp"
+  },
+  {
+    name: "Grecia Eau de Parfum 100ml",
+    brand: "French Avenue",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2024/11/grecia-french-avenue.jpg.webp"
+  },
+  {
+    name: "Liquid Brun Eau de Parfum 100ml",
+    brand: "French Avenue",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2024/11/liquid-brun.jpg.webp"
+  },
+  {
+    name: "Veneno Bianco Eau de Parfum 100ml",
+    brand: "French Avenue",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 36,
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2025/04/veneno-blanco-french-avenue.jpg.webp"
+  },
+  {
+    name: "Veneno Scarlet Eau de Parfum 100ml",
+    brand: "French Avenue",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 42,
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2025/09/parfum-veneno-scarlet-french-avenue.jpg.webp"
+  },
+  {
+    name: "Vulcan Baie Eau de Parfum 100ml",
+    brand: "French Avenue",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 33,
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2025/08/vulcan-baie-parfum-french-avenue.jpg.webp"
+  },
+  {
+    name: "Vulcan Black Friday Eau de Parfum 100ml",
+    brand: "French Avenue",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 42,
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2025/12/parfum-vulcan-black-friday.jpg.webp"
+  },
+  {
+    name: "Vulcan Feu Eau de Parfum 100ml",
+    brand: "French Avenue",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 45,
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2025/04/vulcan-feu-french-avenue.jpg.webp"
+  },
+  {
+    name: "Vulcan Sable Eau de Parfum 100ml",
+    brand: "French Avenue",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 32,
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2025/04/vulcan-sable-french-avenue.jpg.webp"
   },
   {
     name: "Acqua Di Gio Eau de Toilette 100ml",
@@ -838,6 +1062,46 @@ export const products = [
     category: "perfume",
     priceUSD: 30,
     image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.95875.avif"
+  },
+  {
+    name: "Pink Bouquet Eau de Toilette 100ml",
+    brand: "Moschino",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 32,
+    image: "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/modelos/perfume_moschino_pink_bouquet_eau_de_toilette_feminino_100ml_67281_550x550.png"
+  },
+  {
+    name: "Pink Fresh Couture Eau de Toilette 100ml",
+    brand: "Moschino",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 45,
+    image: "https://www.moschino.com/cdn/shop/files/Aeffe_2Farticle_imgs_2FEUR6TPINK_20FRESH6T32100_2F171362.jpg?crop=center&v=1739196854&width=960"
+  },
+  {
+    name: "Toy 2 Eau de Parfum 100ml",
+    brand: "Moschino",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 55,
+    image: "https://www.moschino.com/cdn/shop/files/Aeffe_2Farticle_imgs_2FEUR6VTOY_2026V32100_2F171377.jpg?crop=center&v=1739196908&width=960"
+  },
+  {
+    name: "Toy 2 Bubble Gum Eau de Toilette 100ml",
+    brand: "Moschino",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 54,
+    image: "https://www.moschino.com/cdn/shop/files/Aeffe_2Farticle_imgs_2FEUR6X326XTOY2BUBBLEGUM100_2F171404.jpg?crop=center&v=1739197466&width=960"
+  },
+  {
+    name: "Toy boy Eau de Parfum 100ml",
+    brand: "Moschino",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 65,
+    image: "https://www.moschino.com/cdn/shop/files/Aeffe_2Farticle_imgs_2FEUR6WTOYBOY6W10100_2F171392.jpg?crop=center&v=1739196980&width=960"
   },
   {
     name: "Amber Noir Eau de Parfum 80ml",
@@ -976,6 +1240,14 @@ export const products = [
     image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/h91/he7/10729004302366/10729004236830/10729004236830.jpg"
   },
   {
+    name: "Pure XS Eau de Parfum 80ml",
+    brand: "Paco Rabanne",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 73,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/hd9/h2b/10404976623646/10404976558110/10404976558110.jpg"
+  },
+  {
     name: "Pure XS Eau de Toilette 100ml",
     brand: "Paco Rabanne",
     gender: "masculino",
@@ -990,6 +1262,30 @@ export const products = [
     category: "perfume",
     priceUSD: 110,
     image: "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1351/2HDZF0Z99/1A1351_2HDZ_F0Z99_P_ML090_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg"
+  },
+  {
+    name: "Paradoxe Intense Eau de Parfum 90ml",
+    brand: "Prada",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 120,
+    image: "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1352/2HECF0Z99/1A1352_2HEC_F0Z99_P_ML090_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg"
+  },
+  {
+    name: "Paradoxe Radical Essence Eau de Parfum 90ml",
+    brand: "Prada",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 125,
+    image: "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1355/2H0PF0Z99/1A1355_2H0P_F0Z99_P_ML090_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg"
+  },
+  {
+    name: "Paradoxe Virtual Flower Eau de Parfum 90ml",
+    brand: "Prada",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 115,
+    image: "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/med/dd453bace176f38d94668e712ea8f838c3574001.webp"
   },
   {
     name: "Polo Black Eau de Toilette 125ml",
@@ -1471,6 +1767,22 @@ export const products = [
     category: "eletronics",
     priceUSD: 1160,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-air-size-select-202601-13inch?wid=5120&hei=3280&fmt=webp&qlt=90&.v=YTFkSnBPS2tMZFdhaFNRRkx6VnJZZ0dOZysray9HQ25xUFBjc1l1SVBQRG5EMTJnc255akxtMmp5bU5mazhOU2llL1JtdmgzcGVIUDRDUVJnTDZxRi9IeW9zeVB5R1dmem9sYTN4ckVUbEpyanpSTU15V20vUHNpYk1hZWg4QjU&traceId=1"
+  },
+  {
+    name: "Aspirador de Pó S20",
+    brand: "Xiaomi",
+    gender: "Bivolt",
+    category: "eletronics",
+    priceUSD: 170,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/robo_de_limpeza_xiaomi_robot_vacuum_s20_bivolt_176789_550x550.png"
+  },
+  {
+    name: "Aspirador de Pó S40",
+    brand: "Xiaomi",
+    gender: "Bivolt",
+    category: "eletronics",
+    priceUSD: 180,
+    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/robo_de_limpeza_xiaomi_robot_vacuum_s40_bivolt_193364_53dcb945-0c0b-401d-8caa-7b6f53d0a8c9.webp"
   },
   {
     name: "Aspirador de Pó S40C",

@@ -70,6 +70,20 @@ export const slidesData = [
     link: ""
   },
   {
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2025/02/banniere-french-avenue-1400x438.jpg.webp",
+    title: "",
+    description: "",
+    button: "",
+    link: ""
+  },  
+  {
+    image: "https://www.prada.com/content/dam/pradanux/pradasphere/2024/fragrances/07/Paradoxe_Virtual_Flower/hero/banner_DT.jpg/_jcr_content/renditions/cq5dam.web.1680.1680.webp",
+    title: "",
+    description: "",
+    button: "",
+    link: ""
+  },  
+  {
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-unselect-gallery-1-202509?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxdFgrSXpWVEhWaW9YTGlWRHFoSHU0L0w1RHFtNzA4ck9mVldadHU2Wno0OGd2S3NaRzcrU0dmYjNHTUFiMnlsWFUxSlgrVWMrMzU1OXo2c2JyNjJZTGhmN0ZBTUZPZUJIbE8rL0krOGtnd2M&traceId=1",
     title: "",
     description: "",
