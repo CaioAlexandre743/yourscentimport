@@ -1288,6 +1288,46 @@ export const products = [
     image: "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/med/dd453bace176f38d94668e712ea8f838c3574001.webp"
   },
   {
+    name: "Hawas Black Eau de Parfum 100ml",
+    brand: "Rasasi",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 27,
+    image: "https://rasasihawas.com/wp-content/uploads/2025/10/Hawas-Black-for-Men-EDP-Spray-300x300.jpg"
+  },
+  {
+    name: "Hawas Eclat Eau de Parfum 100ml",
+    brand: "Rasasi",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://rasasihawas.com/wp-content/uploads/2025/10/Hawas-ECLAT-Eau-de-Parfum-300x300.jpg"
+  },
+  {
+    name: "Hawas For Her Eau de Parfum 100ml",
+    brand: "Rasasi",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://rasasihawas.com/wp-content/uploads/2025/10/Hawas-For-Her-EDP-100ML.jpg"
+  },
+  {
+    name: "Hawas For Him Eau de Parfum 100ml",
+    brand: "Rasasi",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://rasasihawas.com/wp-content/uploads/2025/10/Men-Eau-de-Parfum-300x300.jpg"
+  },
+  {
+    name: "Hawas Ice For Him Eau de Parfum 100ml",
+    brand: "Rasasi",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://rasasihawas.com/wp-content/uploads/2025/10/Ice-Eau-de-Parfum-300x300.jpg"
+  },
+  {
     name: "Polo Black Eau de Toilette 125ml",
     brand: "Ralph Lauren",
     gender: "masculino",
