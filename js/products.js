@@ -828,7 +828,7 @@ export const products = [
     brand: "Dior",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 80,
+    priceUSD: 90,
     image: "https://lojadior.vtexassets.com/arquivos/ids/196331-1200-800/3348901250146_02-highlight-sauvage-edt.jpg?v=638786829192930000"
   },
   {
@@ -836,7 +836,7 @@ export const products = [
     brand: "Dior",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 80,
+    priceUSD: 100,
     image: "https://lojadior.vtexassets.com/arquivos/ids/196324-1200-800/3348901368254_02-highlight-sauvage-edp.jpg?v=638835193132700000"
   },
   {
