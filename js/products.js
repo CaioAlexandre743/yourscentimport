@@ -45,7 +45,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 12,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/produtos/thumbs/big/96ec847b86b00b2f7cc846d3e83e187f2bdd7442.webp"
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_e9d03d37-af0c-4399-95ed-986f0fb38ee9.png?v=1756361454&width=810"
   },
   {
     name: "Ansaam Gold 100ml",
@@ -62,6 +62,14 @@ export const products = [
     category: "perfume",
     priceUSD: 30,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_219949b2-5408-4498-9a6a-b2e7e3c33e17.png?v=1749363657&width=810"
+  },
+  {
+    name: "Art Of Universe Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_95e6ea50-ba7d-4fde-8082-c749525eb33a.png?v=1747555499&width=810"
   },
   {
     name: "Asad 100ml",
@@ -160,6 +168,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/EclaireAlloverspray.png?v=1760220988&width=810"
   },
   {
+    name: "Emaan Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Emaan-1.png?v=1747421403&width=810"
+  },
+  {
     name: "Fakhar Black 100ml",
     brand: "Lattafa",
     gender: "masculino",
@@ -197,7 +213,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 40,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_lattafa_give_me_gourmand_berry_on_eau_de_parfum_feminino_75ml_198090_a2d944e7-3541-449e-a5a9-5a3acf390272.avif"
+    image: "https://www.lattafa-usa.com/cdn/shop/files/14.png?v=1756513023&width=810"
   },
   {
     name: "Give me Gourmand Choco Overdose 75ml",
@@ -205,7 +221,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 40,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_lattafa_give_me_gourmand_choco_overdose_eau_de_parfum_feminino_75ml_198091_03571ee3-4c61-4942-afb1-75c021a32f81.avif"
+    image: "https://www.lattafa-usa.com/cdn/shop/files/13.png?v=1756513023&width=810"
   },
   {
     name: "Give me Gourmand Cookie Crave 75ml",
@@ -213,7 +229,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 40,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_lattafa_give_me_cookie_crave_eau_de_parfum_feminino_75ml_198092_e05f33bb-daed-46fe-9f9d-2ea8f099ff87.avif"
+    image: "https://www.lattafa-usa.com/cdn/shop/files/cookie_crave.png?v=1756514481&width=810"
   },
   {
     name: "Give me Gourmand Mallow Madness 75ml",
@@ -221,7 +237,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 40,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_lattafa_give_me_gourmand_mallow_madness_eau_de_parfum_feminino_75ml_198093_4ef65b39-51f0-40e2-91d2-facc2c9a27ae.avif"
+    image: "https://www.lattafa-usa.com/cdn/shop/files/15.png?v=1756513023&width=810"
   },
   {
     name: "Give me Gourmand Vanilla Freak 75ml",
@@ -229,7 +245,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 40,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_lattafa_give_me_gourmand_vanilla_freak_eau_de_parfum_feminino_75ml_198094_f352b6cb-cd1d-4003-b096-8a4a6b09a47c.avif"
+    image: "https://www.lattafa-usa.com/cdn/shop/files/6_247f697e-77a4-45a8-92e3-0578b46b2c70.png?v=1756513022&width=810"
   },
   {
     name: "Give me Gourmand Whipped Pleasure 75ml",
@@ -237,7 +253,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 40,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_lattafa_give_me_gourmand_whipped_pleasure_eau_de_parfum_feminino_75ml_198095_00d039ea-d318-4a08-b25c-30cbb262ce60.avif"
+    image: "https://www.lattafa-usa.com/cdn/shop/files/4_123eed08-6e96-4ef5-a5b1-3d4970772d9e.png?v=1756513022&width=810"
   },
   {
     name: "Haya 100ml",
@@ -270,6 +286,38 @@ export const products = [
     category: "perfume",
     priceUSD: 34,
     image: "https://www.lattafa-usa.com/cdn/shop/files/His-Confession-1_2614a68d-8561-4a94-9c54-7739ae06f986.png?v=1747415996&width=810"
+  },
+  {
+    name: "Kids Happy Brush Eau de Parfum 75ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 10,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_0a18f043-2c2c-4508-b19d-17558921befe.png?v=1749371182&width=810"
+  },
+  {
+    name: "Kids Happy Time Eau de Parfum 75ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 10,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_8975b93a-f2d1-420b-823f-44328b5c146c.png?v=1749371231&width=810"
+  },
+  {
+    name: "Kids Sing Eau de Parfum 75ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 10,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_0c9535d0-d0e8-48a3-8fd5-93bb2b2da689.png?v=1749371368&width=810"
+  },
+  {
+    name: "Kids Stop Wait Go Eau de Parfum 75ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 14,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_81201445-1898-4216-a0c8-dcfac6052780.png?v=1749371325&width=810"
   },
   {
     name: "Mayar Cherry Intense Eau de Parfum 100ml",
@@ -320,12 +368,28 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/Musamam-White-1.png?v=1747416325&width=810"
   },
   {
+    name: "Nebras 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 23,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_fec4173e-be08-4afa-9cf2-4e9e2285d48f.png?v=1747550775&width=810"
+  },
+  {
     name: "Queen Of Arabia 100ml",
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
     priceUSD: 47,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_7f791c1f-3d23-4238-8b47-e00f6cbf173a.png?v=1749465557&width=810"
+  },
+  {
+    name: "Sakeena Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Sakeena-1.png?v=1747422013&width=810"
   },
   {
     name: "Tharwah Gold 100ml",
@@ -469,7 +533,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 62,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/produtos/thumbs/med/7eac192aaa7d4cca0416aa830a25abc4f3501ffa.webp"
+    image: "https://epocacosmeticos.vteximg.com.br/arquivos/ids/1067234-800-800/17581455825658.jpg?v=638939102985030000"
   },
   {
     name: "Mod Blush Eau de Parfum 100ml",
@@ -493,7 +557,7 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 68,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_azzaro_chrome_eau_de_toilette_masculino_100ml_65060_550x550.jpg"
+    image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/testproduct.png"
   },  
   {
     name: "Pour Homme Eau de Toilette 100ml",
@@ -501,7 +565,7 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 30,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_azzaro_pour_homme_eau_de_toilette_masculino_100ml_173928_550x550.jpg"
+    image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/products/57ea6122ee747_57179f6093604-aph-100ml-face-png.png"
   }, 
   {
     name: "Sport Eau de Toilette 100ml",
@@ -509,7 +573,7 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 25,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_azzaro_sport_eau_de_toilette_masculino_100ml_131149_550x550.jpg"
+    image: "https://fimgs.net/mdimg/perfume-thumbs/375x500.61697.jpg"
   }, 
   {
     name: "The Most Wanted Eau de Parfum Intense 100ml",
@@ -517,7 +581,7 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 85,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_azzaro_the_most_wanted_eau_de_parfum_intense_masculino_100ml_154940_550x550.png"
+    image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/products/60b89c1fe1db7_azp-tmw-100ml-semi-face-jpg.jpeg"
   },
   {
     name: "Wanted Eau de Toilette 100ml",
@@ -525,7 +589,7 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 68,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_azzaro_wanted_eau_de_toilette_masculino_100ml_106911_550x550.jpg"
+    image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/products/60b88f0387c91_wanted-100ml-jpg.jpeg"
   },
   {
     name: "Wanted Eau de Parfum 100ml",
@@ -533,7 +597,7 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 85,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_azzaro_wanted_eau_de_parfum_masculino_100ml_165228_550x550.png"
+    image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/products/5a689179cc5c2_bottle-collector-jpg.jpg"
   },
   {
     name: "Goddess Eau de Parfum 100ml",
@@ -1000,12 +1064,68 @@ export const products = [
     image: "https://media.gucci.com/style/HEXFBFBFB_South_0_160_640x640/1643739311/670035_99999_0099_001_100_0000_Light.jpg"
   },
   {
+    name: "La Belle Eau de Parfum 100ml",
+    brand: "Jean Paul Gaultier",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 71,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h67/h4f/10052008673310/visuel-ingredient-la-belle-eau-de-parfum-jean-paul-gaultier/visuel-ingredient-la-belle-eau-de-parfum-jean-paul-gaultier.jpg"
+  },
+  {
+    name: "La Belle Paradise Garden Eau de Parfum 100ml",
+    brand: "Jean Paul Gaultier",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 88,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h50/h6c/9910637035550/ingredients-la-belle-paradise-garden-eau-de-parfum-jean-paul-gaultier/ingredients-la-belle-paradise-garden-eau-de-parfum-jean-paul-gaultier.jpg"
+  },
+  {
+    name: "Le Beau Eau de Toilette 125ml",
+    brand: "Jean Paul Gaultier",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 64,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/hc7/hab/9855534170142/le-beau-eau-de-toilette-ingredients-jean-paul-gaultier.jpeg/le-beau-eau-de-toilette-ingredients-jean-paul-gaultier.jpeg.jpg"
+  },
+  {
+    name: "Le Beau Le Parfum Intense 125ml",
+    brand: "Jean Paul Gaultier",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 95,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/hb9/h53/9855530106910/LE%20BEAU%20LE%20PARFUM%20ingredients_600x727/LE-BEAU-LE-PARFUM-ingredients-600x727.jpg"
+  },  
+  {
+    name: "Le Male Eau de Toilette 125ml",
+    brand: "Jean Paul Gaultier",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 60,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h71/h3e/9855535284254/le-male-eau-de-toilette-ingredients-jean-paul-gaultier.jpeg/le-male-eau-de-toilette-ingredients-jean-paul-gaultier.jpeg.jpg"
+  },
+  {
+    name: "Le Male Elixir Parfum 125ml",
+    brand: "Jean Paul Gaultier",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 94,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h4f/hfa/9855541706782/ingredients-le-male-elixir/ingredients-le-male-elixir.jpg"
+  },
+  {
+    name: "Le Male Le Parfum 125ml",
+    brand: "Jean Paul Gaultier",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h5f/hd3/10121423749150/image%20646/image-646.jpg"
+  },
+  {
     name: "Scandal Eau de Parfum 80ml",
     brand: "Jean Paul Gaultier",
     gender: "feminino",
     category: "perfume",
     priceUSD: 75,
-    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=700,quality=90,format=avif/medias/sys_master/images/hda/h5a/10667499028510/10667498962974/10667498962974.png"
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/ha4/h15/10667505582110/scandal-eau-de-parfum-repack-ingredients-jean-paul-gaultier/scandal-eau-de-parfum-repack-ingredients-jean-paul-gaultier.jpg"
   },
   {
     name: "Scandal Le Parfum Eau de Parfum Intense 80ml",
@@ -1013,7 +1133,15 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 82,
-    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=700,quality=90,format=avif/medias/sys_master/images/h1d/h7d/9564759752734/9564759687198/9564759687198.png"
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h7e/h38/9855543541790/visuel-ingredients-scandal-le-parfum-mb.png%20(1)/visuel-ingredients-scandal-le-parfum-mb.png-1-.jpg"
+  },
+  {
+    name: "Scandal Pour Homme Eau de Toillet 125ml",
+    brand: "Jean Paul Gaultier",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 65,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h38/hce/10405589909534/ingredients-scandal-pour-homme-edt-jean-paul-gaultier/ingredients-scandal-pour-homme-edt-jean-paul-gaultier.jpg"
   },
   {
     name: "La Nuit Trésor Eau de Parfum 100ml",
@@ -1037,7 +1165,7 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 23,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/produtos/thumbs/big/6861159cf31a8c4c2829a80d6f75b534b82085be.webp"
+    image: "https://acdn-us.mitiendanube.com/stores/001/216/674/products/avant-6f3d0170b8f437de2917272023472425-1024-1024.webp"
   },
   {
     name: "Como Moiselle Eau de Parfum 100ml",
@@ -1045,7 +1173,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 28,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/produtos/thumbs/big/d06a2bd587bf927f255657d16d395f5652367c2e.webp"
+    image: "https://acdn-us.mitiendanube.com/stores/001/487/363/products/fotos-site-63-8fd4376ccd35ffb6af17703190277984-640-0.webp"
   },
   {
     name: "Delilah Pour Femme Eau de Parfum 100ml",
@@ -1053,7 +1181,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 28,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/produtos/thumbs/big/65c1964e30f1eb77603c98ba7e6e7a69464b756a.webp"
+    image: "https://acdn-us.mitiendanube.com/stores/001/487/363/products/whatsapp-image-2024-03-20-at-10-05-36-d6c64e36789ac7566917109399486561-640-0.webp"
   },  
   {
     name: "Rose Seduction Vip Eau de Parfum 100ml",
@@ -1061,7 +1189,47 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 30,
-    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.95875.avif"
+    image: "https://dcdn-us.mitiendanube.com/stores/006/509/834/products/maison-16-2-d8eb2b5c2078209da317703031455201-1024-1024.png"
+  },
+  {
+    name: "Daisy Eau de Toilette 100ml",
+    brand: "Marc Jacobs",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 94,
+    image: "https://marcjacobs.bynder.com/match/Product_Style_Code/31655513034/NRF/000/Sequence/MAIN/?preset=PDP_CAROUSEL_1600"
+  },
+  {
+    name: "Daisy Wild Eau de Parfum 100ml",
+    brand: "Marc Jacobs",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 110,
+    image: "https://marcjacobs.bynder.com/match/Product_Style_Code/3616303466060/NRF/000/Sequence/MAIN/?preset=PDP_CAROUSEL_1600"
+  },
+  {
+    name: "Honey Eau de Parfum 100ml",
+    brand: "Marc Jacobs",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 60,
+    image: "https://fimgs.net/mdimg/perfume/o.18272.jpg"
+  },
+  {
+    name: "Perfect Eau de Parfum 100ml",
+    brand: "Marc Jacobs",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 110,
+    image: "https://marcjacobs.bynder.com/match/Product_Style_Code/3614227086227/NRF/000/Sequence/MAIN/?preset=PDP_CAROUSEL_1600"
+  },
+  {
+    name: "Perfect Intense Eau de Parfum 100ml",
+    brand: "Marc Jacobs",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 103,
+    image: "https://marcjacobs.bynder.com/match/Product_Style_Code/3616302779994/NRF/000/Sequence/MAIN/?preset=PDP_CAROUSEL_1600"
   },
   {
     name: "Pink Bouquet Eau de Toilette 100ml",

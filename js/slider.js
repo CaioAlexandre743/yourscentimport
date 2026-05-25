@@ -75,6 +75,13 @@ export const slidesData = [
     description: "",
     button: "",
     link: ""
+  },
+  {
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=1920,quality=90,format=avif/medias/sys_master/images/hb1/h79/10686246223902/slideshow-SC-ELIXIR/slideshow-SC-ELIXIR.jpg",
+    title: "",
+    description: "",
+    button: "",
+    link: ""
   },  
   {
     image: "https://www.prada.com/content/dam/pradanux/pradasphere/2024/fragrances/07/Paradoxe_Virtual_Flower/hero/banner_DT.jpg/_jcr_content/renditions/cq5dam.web.1680.1680.webp",
