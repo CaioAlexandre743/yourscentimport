@@ -797,7 +797,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 105,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/perfume_christian_dior_jadore_eau_de_toilette_feminino_100ml_88519_550x550.jpg"
+    image: "https://lojadior.vtexassets.com/arquivos/ids/197358-1200-800/3348901296632_02-highlight-jadore.jpg?v=639131613287370000"
   },
   {
     name: "J'adore Parfum D'Eau Eau de Parfum 100ml",
@@ -853,7 +853,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 67,
-    image: "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/modelos/perfume_dolce_gabbana_devotion_eau_de_parfum_feminino_100ml_168575_550x550.png"
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/611f5e6a-fd48-45f2-bcd6-867ec930ad70/7waspk/std/0x0/COVER"
   },
   {
     name: "Devotion Pour Homme Eau de Parfum 100ml",
@@ -861,7 +861,7 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 65,
-    image: "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/b1c5ddba8d55c06cf8db9215d1b862575dd1c458.webp"
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/55bc5001-0045-4e77-bc33-48692504de15/ywsoag/std/720x940/cover_ingre?format=auto"
   },
   {
     name: "Light Blue Eau De Toilette 100ml",
@@ -869,7 +869,15 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 65,
-    image: "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/modelos/perfume_dolce_gabbana_light_blue_eau_de_toilette_feminino_100ml_111398_550x550.jpg"
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/a9ebc5c2-abad-43cc-a496-0674c7e52bb3/jbptyw/std/765x1040/cover?format=auto"
+  },
+  {
+    name: "Light Blue Eau De Toilette 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 59,
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/17084394-a7c3-4ae3-9b6a-dda7e3d6c419/psfkbm/std/765x1040/cover?format=auto"
   },
   {
     name: "Sweet Tooth Eau de Parfum 75ml",
@@ -1064,6 +1072,46 @@ export const products = [
     image: "https://media.gucci.com/style/HEXFBFBFB_South_0_160_640x640/1643739311/670035_99999_0099_001_100_0000_Light.jpg"
   },
   {
+    name: "Flora Gorgeous Gardenia Eau de Parfum 100ml",
+    brand: "Gucci",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 98,
+    image: "https://media.gucci.com/style/HEXFBFBFB_South_0_160_640x640/1614617112/667343_99999_0099_001_100_0000_Light.jpg"
+  },
+  {
+    name: "Flora Gorgeous Gardenia Intense Eau de Parfum 100ml",
+    brand: "Gucci",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 120,
+    image: "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/6400bff37e0dec2a6b040c495e319e9c90056a28.webp"
+  },
+  {
+    name: "Flora Gorgeous Jasmine Eau de Parfum 100ml",
+    brand: "Gucci",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 115,
+    image: "https://media.gucci.com/style/HEXFBFBFB_South_0_160_640x640/1657799103/701224_99999_0099_001_100_0000_Light.jpg"
+  },
+  {
+    name: "Flora Gorgeous Magnolia Eau de Parfum 100ml",
+    brand: "Gucci",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 110,
+    image: "https://media.gucci.com/style/HEXFBFBFB_South_0_160_640x640/1688578224/757363_99999_0099_001_100_0000_Light.jpg"
+  },
+  {
+    name: "Flora Gorgeous Orchid Eau de Parfum 100ml",
+    brand: "Gucci",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 158,
+    image: "https://media.gucci.com/style/HEXFBFBFB_South_0_160_640x640/1717777056/792056_99999_0099_001_100_0000_Light.jpg"
+  },
+  {
     name: "La Belle Eau de Parfum 100ml",
     brand: "Jean Paul Gaultier",
     gender: "feminino",
@@ -1144,12 +1192,20 @@ export const products = [
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h38/hce/10405589909534/ingredients-scandal-pour-homme-edt-jean-paul-gaultier/ingredients-scandal-pour-homme-edt-jean-paul-gaultier.jpg"
   },
   {
+    name: "Idôle Power Intense Eau de Parfum 100ml",
+    brand: "Lancôme",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 105,
+    image: "https://www.lancome.com.br/on/demandware.static/-/Sites-lancome-br-Library/pt_BR/dwb2a75f93/images/2025/07_JULHO/perfume-feminino-idole-power-eau-de-parfum-intense-lancome-descricao-1.jpg"
+  },
+  {
     name: "La Nuit Trésor Eau de Parfum 100ml",
     brand: "Lancôme",
     gender: "feminino",
     category: "perfume",
     priceUSD: 114,
-    image: "https://www.lancome.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-lancome-latam-master-catalog/default/dw83895a68/images/PACKSHOTS/FRAGRANCE/woman/00037-LAC-La-Nuit-Tresor-Eau-De-Parfum/Lancome-Collection-Women's-Day-2016-La-Nuit-Tresor-Eau-De-Parfum-50_ml-000-3605533315224.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=70"
+    image: "https://www.lancome.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-lancome-latam-master-catalog/default/dwcbbb63ed/images/PACKSHOTS/FRAGRANCE/woman/00037-LAC-La-Nuit-Tresor-Eau-De-Parfum/3605533315224_LNT-EDP-ing.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=70"
   },
   {
     name: "La Vie Est Belle Eau de Parfum 100ml",
@@ -1157,7 +1213,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 80,
-    image: "https://www.lancome.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-lancome-latam-master-catalog/default/dwc97ce4dd/images/PACKSHOTS/FRAGRANCE/LVEB/00027-LAC-La-Vie-est-Belle-Eau-de-Parfum/lan_dmi_frag_la-vie-est-belle-edp-50ml_03605532612768_v1.jpg?sw=720&sh=720&sm=cut&sfrm=jpg&q=70"
+    image: "https://www.lancome.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-lancome-latam-master-catalog/pt_BR/dw382de1a9/images/fragance/LVEB/LABR00027-LAC/3605533286555.03.jpg?sw=720&sh=720&sm=cut&sfrm=jpg&q=70"
   },
   {
     name: "Avant Eau de Parfum 100ml",
