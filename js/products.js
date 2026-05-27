@@ -600,6 +600,38 @@ export const products = [
     image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/products/5a689179cc5c2_bottle-collector-jpg.jpg"
   },
   {
+    name: "Fantasy Eau de Parfum 100ml",
+    brand: "Britney Spears",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://m.media-amazon.com/images/I/61Lgj54cqDL._SX466_.jpg"
+  },
+  {
+    name: "Fantasy Circus Eau de Parfum 100ml",
+    brand: "Britney Spears",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 24,
+    image: "https://m.media-amazon.com/images/I/61Se7YOcWFL._SX466_.jpg"
+  },
+  {
+    name: "Fantasy Intense Eau de Parfum 100ml",
+    brand: "Britney Spears",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 28,
+    image: "https://m.media-amazon.com/images/I/61ydgmb2tTL._SX466_.jpg"
+  },
+  {
+    name: "Fantasy Midnight Eau de Parfum 100ml",
+    brand: "Britney Spears",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 23,
+    image: "https://m.media-amazon.com/images/I/61pQp+93-ZL._SX466_.jpg"
+  },
+  {
     name: "Goddess Eau de Parfum 100ml",
     brand: "Burberry",
     gender: "feminino",
