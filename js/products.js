@@ -480,12 +480,28 @@ export const products = [
     image: "https://www.alwataniah.com/cdn/shop/files/sabah-al-ward.png?v=1759755351&width=600"
   },  
   {
+    name: "Sabah Al Ward Garden of Eden 100ml",
+    brand: "Al Wataniah",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://www.alwataniah.com/cdn/shop/files/6_838c8c1a-b5c2-42d1-9483-2dd72435d779.png?v=1778761732&width=600"
+  },
+  {
     name: "Sabah Al Ward Sugar 100ml",
     brand: "Al Wataniah",
     gender: "feminino",
     category: "perfume",
     priceUSD: 25,
     image: "https://www.alwataniah.com/cdn/shop/files/02_a9c3573f-c332-487c-8b77-b423e8f59ddf.png?v=1764414364&width=600"
+  }, 
+  {
+    name: "Shagaf Al Ward 100ml",
+    brand: "Al Wataniah",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 16,
+    image: "https://www.alwataniah.com/cdn/shop/files/shagaf-al-ward.png?v=1759755041&width=600"
   }, 
   {
     name: "Club de Nuit Intense Man Eau de Toilette 105ml",
