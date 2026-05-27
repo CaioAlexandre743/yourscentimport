@@ -1909,7 +1909,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 1450,
+    priceUSD: 1400,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17promax-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=WkVhZXB4WmFzZmdNeXA3cHg3WUZFU0tjazZmSzdrSHdxTW9VUlF0akdCdXpMQytuUEM4Wm5vMWRha0N0RzdPQ3pGbHdxTU5oSkkwKzZZOXF0cVNPL1V0RmgycTRGTHI3SUVxVFVFNFI5QzhTREFXd29VYUtwRlRqTkI5dnBWdWo"
   },
   {
@@ -1917,7 +1917,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 1280,
+    priceUSD: 1240,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17pro-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=ekJPc2lPUlRuRk50SkcyOVdnU1d0TjFla0N0Znl3UThxdjB3SW91ZDVJd0Z3aHFxUnRBUUlIa1B4eXlTTWdWdW8xUkhYejcxalRvY0FPQVpMcmoxMDlLQzdVZ2V3VnpqcXFKTGxlK1dFUXloSUZXMXhpaFRiaTdERUcxSFVMVW4"
   },
   {
@@ -1925,7 +1925,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 910,
+    priceUSD: 790,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=SVhTK013TmU5bXcxZm9yb0hnWkxGZlRhSXFkOFhqdTgvUmc4VitXa2VzZUU5aWg1WE9Xd3BOSWtnNzkvSWZLd0ZGMGUwb1Y3aUJoOFNtZnEvQXJFMEJYVzFZSG9ORXhsSkhTN0hjejcrL1BtdndTWEVueTdGZTlOS1ZyVjMxMWg"
   },
   {
@@ -1933,7 +1933,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 599,
+    priceUSD: 580,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17e-digitalmat-gallery-1-202603?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=V2Q5d3RGR1VSMVluZDJuckR0by9tbTYrc3EwZ1VoVGgyY0J1bS9COCtualdteHpCT3VZMkN0cmZhUU1rOU1zdlFuOTJXc2JVdks4czlZWHJTOHkzNkJTMGN6VkRyenRpcEpmbm0wRWxLNFZtNEJNTzBQNjlJbzJXSko1RXZ0MkY"
   },
   {
@@ -1941,7 +1941,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 920,
+    priceUSD: 945,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-unselect-gallery-1-202509?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUpaQVl1bitSNmJWZUdKdi9QZHhsR3J2UHBBV3orM3VMYVQ4cFJXZmQxV3pMQytuUEM4Wm5vMWRha0N0RzdPQ3F2TWlpSzUzejRCZGt2SjJUNGl1VEE4bm1RcmlWRWp2eDN1WHNkSjNmUllkbVpNWnluMHFQejlPZEhiemdDMFA&traceId=1"
   },
   {
@@ -1949,7 +1949,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 750,
+    priceUSD: 700,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch?wid=5120&hei=2880&fmt=webp&qlt=90&.v=UXp1U3VDY3IyR1hNdHZwdFdOLzg1V0tFK1lhSCtYSGRqMUdhR284NTN4K2k2SkpnN3c0VXdqTFlOQWw0ako4Z0JQYkhSV3V1dC9oa0s5K3lqMGtUaFlJd01NRTBFU2ZiV2d6YkZCU2Z3bUt4ZUNtWkFZZEcvcU12TFRUUVhVdDU&traceId=1"
   },
   {
@@ -1957,7 +1957,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 380,
+    priceUSD: 385,
     image: "https://www.apple.com/v/apple-watch-series-11/b/images/specs/materials_and_finish_aluminum__bo3c5yvgnjqu_large.jpg"
   },
   {
@@ -1965,7 +1965,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 360,
+    priceUSD: 350,
     image: "https://www.apple.com/v/apple-watch-series-11/b/images/specs/materials_and_finish_aluminum__bo3c5yvgnjqu_large.jpg"
   },
   {
@@ -2013,7 +2013,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 700,
+    priceUSD: 665,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-neo-color-unselect-202603-gallery-1?wid=5120&hei=3280&fmt=webp&qlt=90&.v=TytZbDBUUnRqRElRcFlBSHpmZVVDK3BoR2lIdGdhMDNQSUZrOHIycWd6Vmd1bjBBbHBBMFNjNjVIN0pUcUg2U0tZMGFKbG9yanhQdjZDS1dZUFFhRVE4bm1RcmlWRWp2eDN1WHNkSjNmUmFub3B6RFdCcnJtSHE1TzBCb3pCcis&traceId=1"
   },
   {
@@ -2021,15 +2021,15 @@ export const products = [
     brand: "Apple",
     gender: "touch-id",
     category: "eletronics",
-    priceUSD: 840,
+    priceUSD: 770,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-neo-color-unselect-202603-gallery-1?wid=5120&hei=3280&fmt=webp&qlt=90&.v=TytZbDBUUnRqRElRcFlBSHpmZVVDK3BoR2lIdGdhMDNQSUZrOHIycWd6Vmd1bjBBbHBBMFNjNjVIN0pUcUg2U0tZMGFKbG9yanhQdjZDS1dZUFFhRVE4bm1RcmlWRWp2eDN1WHNkSjNmUmFub3B6RFdCcnJtSHE1TzBCb3pCcis&traceId=1"
   },
   {
     name: "MacBook Air M5 512gb",
     brand: "Apple",
-    gender: "",
+    gender: "13.6''",
     category: "eletronics",
-    priceUSD: 1160,
+    priceUSD: 1073,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-air-size-select-202601-13inch?wid=5120&hei=3280&fmt=webp&qlt=90&.v=YTFkSnBPS2tMZFdhaFNRRkx6VnJZZ0dOZysray9HQ25xUFBjc1l1SVBQRG5EMTJnc255akxtMmp5bU5mazhOU2llL1JtdmgzcGVIUDRDUVJnTDZxRi9IeW9zeVB5R1dmem9sYTN4ckVUbEpyanpSTU15V20vUHNpYk1hZWg4QjU&traceId=1"
   },
   {

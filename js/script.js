@@ -6,8 +6,8 @@ let exchangeRate = 5;
 
 async function fetchExchangeRate() {
   try {
-    const response = await fetch('https://api.exchangerate-api.com/v4/latest/USD');
-    const data = await response.json();
+    //const response = await fetch('https://api.exchangerate-api.com/v4/latest/USD');
+    //const data = await response.json();
     exchangeRate = 5.35; //data.rates.BRL;
     renderProducts(products);
   } catch (e) {
@@ -22,7 +22,7 @@ function renderProducts(list) {
 
   list.forEach(p => {
     const rawPrice = p.priceUSD * exchangeRate * 1.40;
-  const priceBRL = rawPrice.toLocaleString('pt-BR', {
+    const priceBRL = rawPrice.toLocaleString('pt-BR', {
     style: 'currency',
     currency: 'BRL'
   });
