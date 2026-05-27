@@ -1909,7 +1909,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 1400,
+    priceUSD: 1395,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17promax-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=WkVhZXB4WmFzZmdNeXA3cHg3WUZFU0tjazZmSzdrSHdxTW9VUlF0akdCdXpMQytuUEM4Wm5vMWRha0N0RzdPQ3pGbHdxTU5oSkkwKzZZOXF0cVNPL1V0RmgycTRGTHI3SUVxVFVFNFI5QzhTREFXd29VYUtwRlRqTkI5dnBWdWo"
   },
   {
@@ -1917,7 +1917,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 1240,
+    priceUSD: 1235,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17pro-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=ekJPc2lPUlRuRk50SkcyOVdnU1d0TjFla0N0Znl3UThxdjB3SW91ZDVJd0Z3aHFxUnRBUUlIa1B4eXlTTWdWdW8xUkhYejcxalRvY0FPQVpMcmoxMDlLQzdVZ2V3VnpqcXFKTGxlK1dFUXloSUZXMXhpaFRiaTdERUcxSFVMVW4"
   },
   {
@@ -1925,7 +1925,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 790,
+    priceUSD: 785,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=SVhTK013TmU5bXcxZm9yb0hnWkxGZlRhSXFkOFhqdTgvUmc4VitXa2VzZUU5aWg1WE9Xd3BOSWtnNzkvSWZLd0ZGMGUwb1Y3aUJoOFNtZnEvQXJFMEJYVzFZSG9ORXhsSkhTN0hjejcrL1BtdndTWEVueTdGZTlOS1ZyVjMxMWg"
   },
   {
@@ -1933,7 +1933,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 580,
+    priceUSD: 575,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17e-digitalmat-gallery-1-202603?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=V2Q5d3RGR1VSMVluZDJuckR0by9tbTYrc3EwZ1VoVGgyY0J1bS9COCtualdteHpCT3VZMkN0cmZhUU1rOU1zdlFuOTJXc2JVdks4czlZWHJTOHkzNkJTMGN6VkRyenRpcEpmbm0wRWxLNFZtNEJNTzBQNjlJbzJXSko1RXZ0MkY"
   },
   {
@@ -1941,7 +1941,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 945,
+    priceUSD: 940,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-unselect-gallery-1-202509?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUpaQVl1bitSNmJWZUdKdi9QZHhsR3J2UHBBV3orM3VMYVQ4cFJXZmQxV3pMQytuUEM4Wm5vMWRha0N0RzdPQ3F2TWlpSzUzejRCZGt2SjJUNGl1VEE4bm1RcmlWRWp2eDN1WHNkSjNmUllkbVpNWnluMHFQejlPZEhiemdDMFA&traceId=1"
   },
   {
@@ -1949,7 +1949,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 700,
+    priceUSD: 695,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch?wid=5120&hei=2880&fmt=webp&qlt=90&.v=UXp1U3VDY3IyR1hNdHZwdFdOLzg1V0tFK1lhSCtYSGRqMUdhR284NTN4K2k2SkpnN3c0VXdqTFlOQWw0ako4Z0JQYkhSV3V1dC9oa0s5K3lqMGtUaFlJd01NRTBFU2ZiV2d6YkZCU2Z3bUt4ZUNtWkFZZEcvcU12TFRUUVhVdDU&traceId=1"
   },
   {
@@ -1973,7 +1973,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 300,
+    priceUSD: 295,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXM63ref_SR_SE_VW_PF+watch-case-44-aluminum-starlight-nc-se3_VW_PF+watch-face-44-aluminum-starlight-se3_VW_PF?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=MGxpWDJOL2oySmF4UCtRR3dIdG9RNXN3bmZMYXBUV0xvcU1EeGl4ejE5cHRoT0VCeWtnTTNtR2pwdko0SloxYnRob1pEZUpwMFp0K2xUT25MeXFxN1haSUdtREZDK3dLZGYzL2JSbk40L0VLK2NDNU83MXIxVTZZNzlCVk9YR2hXTDNtN1U1Q083ZW9USEgwS2dEWkxaRnZGUUdUeGtYN2gySi9ZaWRpZitLckJnajVCaGRzU0pBREM1Q082Uk51NXVkZ2t0VWxQK2o2M01obVdMRmRjamNUVHJQVWZqbWoyZ3dVa012V3JwcGF1Zit1T2haZmdjWVhBSCtyN0JVVw"
   },
   {
@@ -1981,7 +1981,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 285,
+    priceUSD: 270,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MYJ33ref_VW_PF+watch-case-40-aluminum-starlight-nc-se3_VW_PF+watch-face-40-aluminum-starlight-se3_VW_PF?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=L2tSSTJLUmJoejdCeGFuZHQ3bWxKVFh2Y2svR0hOSGs1YWNWeFBUeXNNeVFHa2kzMW15bmN2SExwWlRtbTRDVTlxOFR0OXRwbVdncWxCT0p0NDB0bHpxSVg5ZmpBaEFSRUFDbEpLVHdLeHRnTFdIZTlrbit2a2RHTFgxdXJlaEpKTVZMU0dEZGdpd3M0MUVsdFpnQzhBQnJKZk9weFpCcmg2bG5rV2xMNlVmYlg5SUJPR0VaZnV5YVlTck5WQzFJWitOTEs5T0laM0FBYmtOdWx0aUJtSFdDU2lWOGdDZVM1T3kxaFlvQUtNbw"
   },
   {
@@ -1989,7 +1989,7 @@ export const products = [
     brand: "Apple",
     gender: "Com cancelamento de ruído",
     category: "eletronics",
-    priceUSD: 150,
+    priceUSD: 179,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-4-anc-select-202409_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=Qklmb1JJend3cVIxSUxIeFBIRk96cUNGMHVRUVpqOEFiUFU4R0xNRVFxdkhJa2hkRmxkTlJIMk9SdFNSaWFNODE1UUxLT2t0cW42N3FvQzVqaGhrVVcvdmFyQU52eG9rbk9Lb1pmQWN1MGgrYWpGdS9XeFgvbS9ITnNYOEhYaG4"
   },
   {
@@ -1997,7 +1997,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 250,
+    priceUSD: 240,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-3-hero-select-202509?wid=976&hei=916&fmt=jpeg&qlt=90&.v=cmp4MmZ6OWxOeHNNTXh4SzlBNUpEb1RucE9zZTI5eEREaWZpY29lSld3eWVDYXovZDMyN1dXU211bjZoVlVUcWJGcXNRQnFCV0w3WVRjTExvdm1ic1YxRUxFRmRlWDBITzhnRmZ5OTRmaVdKTExiOEFsRmxtQ2Nua0tRSC83MkI"
   },
   {
@@ -2045,7 +2045,7 @@ export const products = [
     brand: "Xiaomi",
     gender: "Bivolt",
     category: "eletronics",
-    priceUSD: 180,
+    priceUSD: 159,
     image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/robo_de_limpeza_xiaomi_robot_vacuum_s40_bivolt_193364_53dcb945-0c0b-401d-8caa-7b6f53d0a8c9.webp"
   },
   {
@@ -2053,7 +2053,7 @@ export const products = [
     brand: "Xiaomi",
     gender: "Bivolt",
     category: "eletronics",
-    priceUSD: 165,
+    priceUSD: 145,
     image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/robo_de_limpeza_xiaomi_robot_vacuum_s40c_bivolt_190114_2529f0aa-10db-42c8-ba46-2c7c52f51873.webp"
   },
   {
@@ -2061,7 +2061,7 @@ export const products = [
     brand: "Xiaomi",
     gender: "110v",
     category: "eletronics",
-    priceUSD: 290,
+    priceUSD: 280,
     image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/robo_de_limpeza_xiaomi_robot_vacuum_h40_110v_198604_fc943e9f-3ae7-451d-b24d-4dc7b4e91f9a.avif"
   },
   {
@@ -2069,7 +2069,7 @@ export const products = [
     brand: "Xiaomi",
     gender: "",
     category: "eletronics",
-    priceUSD: 38,
+    priceUSD: 35,
     image: "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-smart-band-10/pc/da025c87518a3b3dc0e788257b681579.jpg?f=webp"
   },
   {
