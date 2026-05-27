@@ -1464,6 +1464,38 @@ export const products = [
     image: "https://www.orienticaperfumes.com/cdn/shop/files/velvet-gold.png?v=1761539013"
   },
   {
+    name: "Ibisco Nirvana Extrait de Parfum 65ml",
+    brand: "Paris Corner",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 28,
+    image: "https://www.pariscornerperfumes.com/cdn/shop/files/IBISCONIRVANA01_1.jpg?v=1726486739&width=823"
+  },
+  {
+    name: "Khair Confection Eau de Parfum 100ml",
+    brand: "Paris Corner",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 37,
+    image: "https://www.pariscornerperfumes.com/cdn/shop/files/KHAIRCONFECTION01.jpg?v=1726730340&width=823"
+  },
+  {
+    name: "Marshmallow Blush Eau de Parfum 100ml",
+    brand: "Paris Corner",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://www.pariscornerperfumes.com/cdn/shop/files/WhatsApp_Image_2025-01-21_at_1.14.07_PM.jpg?v=1737450898&width=823"
+  },
+  {
+    name: "MAWJ moscow mule Eau de Parfum 100ml",
+    brand: "Paris Corner",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 26,
+    image: "https://www.pariscornerperfumes.com/cdn/shop/files/MOSCOWMULECOM1.jpg?v=1726486519&width=823"
+  },
+  {
     name: "1 Million Eau de Toilette 100ml",
     brand: "Paco Rabanne",
     gender: "masculino",
