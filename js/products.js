@@ -1544,6 +1544,22 @@ export const products = [
     image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/h91/he7/10729004302366/10729004236830/10729004236830.jpg"
   },
   {
+    name: "Phantom Eau de Toilette 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 68,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h8a/h06/10697971269662/10697971204126/10697971204126.jpg"
+  },
+  {
+    name: "Phantom Elixir Parfum Intense 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 71,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/hc1/hea/10697973727262/10697973661726/10697973661726.jpg"
+  },
+  {
     name: "Pure XS Eau de Parfum 80ml",
     brand: "Paco Rabanne",
     gender: "feminino",
