@@ -502,7 +502,23 @@ export const products = [
     category: "perfume",
     priceUSD: 16,
     image: "https://www.alwataniah.com/cdn/shop/files/shagaf-al-ward.png?v=1759755041&width=600"
+  },
+  {
+    name: "Club de Nuit Lionheart Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://armaf.com/cdn/shop/files/Lionheart..png?v=1765209131&width=700"
   }, 
+  {
+    name: "Club de Nuit Lionheart Woman Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 33,
+    image: "https://armaf.com/cdn/shop/files/CLUBDENUITLIONHEARTWOMAN...png?v=1765210005&width=700"
+  },
   {
     name: "Club de Nuit Intense Man Eau de Toilette 105ml",
     brand: "ARMAF",
@@ -528,12 +544,28 @@ export const products = [
     image: "https://armaf.com/cdn/shop/files/CDN1.png?v=1774468835&width=700"
   },
   {
+    name: "Island Bliss Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 36,
+    image: "https://armaf.com/cdn/shop/files/armafislandbliss.png?v=1744392136&width=700"
+  },  
+  {
     name: "Odyssey Mandarin Sky Eau de Parfum 100ml",
     brand: "ARMAF",
     gender: "masculino",
     category: "perfume",
     priceUSD: 23,
     image: "https://armaf.com/cdn/shop/files/odysseymandarinsky-bottle.jpg?v=1739111516&width=700"
+  },
+  {
+    name: "Yum Yum Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 38,
+    image: "https://armaf.com/cdn/shop/files/Untitleddesign_71.png?v=1748451245&width=700"
   },
   {
     name: "Cloud Eau de Parfum 100ml",
