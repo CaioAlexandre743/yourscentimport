@@ -2055,6 +2055,14 @@ export const products = [
     category: "perfume",
     priceUSD: 125,
     image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw9cab7e65/images/fullsize/FRAG/YSLBWW-28519YSL/YSLB3614274114645/3614274114645.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+  },
+  {
+    name: "bright crystal Eau de Toilette 100ml",
+    brand: "Versace",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 60,
+    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwdf350bf9/images/hi-res-BR/_70041BE8-7FCC-4A6B-AA6D-6E1756A3FABF__crisgra.jpg?sw=1200&sh=1200&sm=fit"
   },  
   {
     name: "Eros Eau de Toilette 100ml",
@@ -2071,6 +2079,30 @@ export const products = [
     category: "perfume",
     priceUSD: 80,
     image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwee6cbd73/original/90_R740110-R100MLS_RNUL_20_ErosEDP100ml-Eros-Versace-online-store_0_5.jpg?sw=850&q=85&strip=true"
+  },
+  {
+    name: "Eros Energy Pour Homme Eau de Parfum 100ml",
+    brand: "Versace",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 82,
+    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw0850aada/images/hi-res-BR/Frag/Nova%20pasta/8011003890804_1_1000px.jpg?sw=556&sh=680&sm=fit"
+  },
+  {
+    name: "Eros Flame Eau de Parfum 100ml",
+    brand: "Versace",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 75,
+    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwcd53b35c/images/hi-res-BR/8011003845354_01_1500px.jpg?sw=1200&sh=1200&sm=fit"
+  },
+  {
+    name: "Eros Najim Eau de Parfum 100ml",
+    brand: "Versace",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 77,
+    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw799ca260/images/hi-res-BR/Frag/Nova%20pasta/Maria%20Helena%202.0/New%20Folder/MA%202.0/MA%203.0/8011003895755-1.png?sw=556&sh=680&sm=fit"
   },
   {
     name: "iPhone 17 Pro Max 256GB",
