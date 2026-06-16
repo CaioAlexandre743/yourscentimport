@@ -1309,7 +1309,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 80,
-    image: "https://www.lancome.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-lancome-latam-master-catalog/pt_BR/dw382de1a9/images/fragance/LVEB/LABR00027-LAC/3605533286555.03.jpg?sw=720&sh=720&sm=cut&sfrm=jpg&q=70"
+    image: "https://www.lancome.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-lancome-latam-master-catalog/pt_BR/dw382de1a9/images/fragance/LVEB/LABR00027-LAC/3605533286555.03.jpg?sw=258&sh=258&sm=cut&sfrm=jpg&q=70"
   },
   {
     name: "Avant Eau de Parfum 100ml",
@@ -1342,6 +1342,30 @@ export const products = [
     category: "perfume",
     priceUSD: 30,
     image: "https://dcdn-us.mitiendanube.com/stores/006/509/834/products/maison-16-2-d8eb2b5c2078209da317703031455201-1024-1024.png"
+  },
+  {
+    name: "Red Carpet Eau de Parfum 100ml",
+    brand: "Maison Asrar",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://acdn-us.mitiendanube.com/stores/006/985/961/products/new-brand-40-37c896646edc38012517682268023823-1024-1024.webp"
+  },
+  {
+    name: "Runway Girl Eau de Parfum 100ml",
+    brand: "Maison Asrar",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://acdn-us.mitiendanube.com/stores/006/985/961/products/copia-de-copia-2-c3b141548ff4d0106b17646992232675-1024-1024.webp"
+  },
+  {
+    name: "Smokey Eyes Eau de Parfum 100ml",
+    brand: "Maison Asrar",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://acdn-us.mitiendanube.com/stores/006/985/961/products/new-brand-42-e6dd55e2e20795ca4417682271208002-1024-1024.webp"
   },
   {
     name: "Daisy Eau de Toilette 100ml",
