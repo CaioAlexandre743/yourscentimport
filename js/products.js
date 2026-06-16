@@ -1,5 +1,61 @@
 export const products = [
   {
+    name: "Deep Vita C Capsule Cream 55g",
+    brand: "Medicube",
+    gender: "Creme Hidratante Facial",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/71m8aGBgXqL._AC_SX522_.jpg"
+  },
+  {
+    name: "Deep Vita C Pad 150G 70un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 23,
+    image: "https://m.media-amazon.com/images/I/71QBdNbIPPL._AC_SX522_.jpg"
+  },
+  {
+    name: "Kojic Acid Turmeric Pad 70un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 24,
+    image: "https://m.media-amazon.com/images/I/71PToiLK5AL._AC_SX522_.jpg"
+  },
+  {
+    name: "PDRN Pink Collagen Toning Gel Pad 120ml 70un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 22,
+    image: "https://m.media-amazon.com/images/I/61lZFElGdBL._AC_SX679_.jpg"
+  },
+  {
+    name: "Red Succinic Acid Peeling Pad 155g 70un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 21,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_677251-CBT111651468502_062026-F.webp"
+  },
+  {
+    name: "Zero Pore Pad 2.0 70un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 24,
+    image: "https://m.media-amazon.com/images/I/71Mcspt-6AL._AC_SX522_.jpg"
+  }, 
+  {
+    name: "Zero Pore Pad Mild 70un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 25,
+    image: "https://m.media-amazon.com/images/I/61xQad-MXYL._AC_SX522_.jpg"
+  }, 
+  {
     name: "Afeef 100ml",
     brand: "Lattafa",
     gender: "unissex",
