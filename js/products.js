@@ -8,12 +8,20 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/71m8aGBgXqL._AC_SX522_.jpg"
   },
   {
-    name: "Deep Vita C Pad 150G 70un",
+    name: "Deep Vita C Pad 150g 70un",
     brand: "Medicube",
     gender: "Almofadas Tônicas",
     category: "selfcare",
     priceUSD: 23,
     image: "https://m.media-amazon.com/images/I/71QBdNbIPPL._AC_SX522_.jpg"
+  },
+  {
+    name: "Exosome Cica Calming Pad 150ml 100un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 25,
+    image: "https://www.drogasil.com.br/_next/image?url=https%3A%2F%2Fproduct-data.raiadrogasil.io%2Fimages%2F17074439.webp&w=828&q=75"
   },
   {
     name: "Kojic Acid Turmeric Pad 70un",
