@@ -320,6 +320,22 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_81201445-1898-4216-a0c8-dcfac6052780.png?v=1749371325&width=810"
   },
   {
+    name: "King Of Arabia Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 32,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_f99cafbc-8099-4624-a156-2441c35fe142.png?v=1749465596&width=810"
+  },
+  {
+    name: "Layaan Eau de Parfum 75ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_56ca40c3-8a27-4c18-93a1-3e43627efcc9.png?v=1759429729&width=810"
+  },
+  {
     name: "Mayar Cherry Intense Eau de Parfum 100ml",
     brand: "Lattafa",
     gender: "feminino",
