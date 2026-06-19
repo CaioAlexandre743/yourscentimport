@@ -1,68 +1,4 @@
-export const products = [
-  {
-    name: "Deep Vita C Capsule Cream 55g",
-    brand: "Medicube",
-    gender: "Creme Hidratante Facial",
-    category: "selfcare",
-    priceUSD: 20,
-    image: "https://m.media-amazon.com/images/I/71m8aGBgXqL._AC_SX522_.jpg"
-  },
-  {
-    name: "Deep Vita C Pad 150g 70un",
-    brand: "Medicube",
-    gender: "Almofadas Tônicas",
-    category: "selfcare",
-    priceUSD: 23,
-    image: "https://m.media-amazon.com/images/I/71QBdNbIPPL._AC_SX522_.jpg"
-  },
-  {
-    name: "Exosome Cica Calming Pad 150ml 100un",
-    brand: "Medicube",
-    gender: "Almofadas Tônicas",
-    category: "selfcare",
-    priceUSD: 25,
-    image: "https://www.drogasil.com.br/_next/image?url=https%3A%2F%2Fproduct-data.raiadrogasil.io%2Fimages%2F17074439.webp&w=828&q=75"
-  },
-  {
-    name: "Kojic Acid Turmeric Pad 70un",
-    brand: "Medicube",
-    gender: "Almofadas Tônicas",
-    category: "selfcare",
-    priceUSD: 24,
-    image: "https://m.media-amazon.com/images/I/71PToiLK5AL._AC_SX522_.jpg"
-  },
-  {
-    name: "PDRN Pink Collagen Toning Gel Pad 120ml 70un",
-    brand: "Medicube",
-    gender: "Almofadas Tônicas",
-    category: "selfcare",
-    priceUSD: 22,
-    image: "https://m.media-amazon.com/images/I/61lZFElGdBL._AC_SX679_.jpg"
-  },
-  {
-    name: "Red Succinic Acid Peeling Pad 155g 70un",
-    brand: "Medicube",
-    gender: "Almofadas Tônicas",
-    category: "selfcare",
-    priceUSD: 21,
-    image: "https://http2.mlstatic.com/D_NQ_NP_2X_677251-CBT111651468502_062026-F.webp"
-  },
-  {
-    name: "Zero Pore Pad 2.0 70un",
-    brand: "Medicube",
-    gender: "Almofadas Tônicas",
-    category: "selfcare",
-    priceUSD: 24,
-    image: "https://m.media-amazon.com/images/I/71Mcspt-6AL._AC_SX522_.jpg"
-  }, 
-  {
-    name: "Zero Pore Pad Mild 70un",
-    brand: "Medicube",
-    gender: "Almofadas Tônicas",
-    category: "selfcare",
-    priceUSD: 25,
-    image: "https://m.media-amazon.com/images/I/61xQad-MXYL._AC_SX522_.jpg"
-  }, 
+export const products = [   
   {
     name: "Afeef 100ml",
     brand: "Lattafa",
@@ -1272,6 +1208,38 @@ export const products = [
     image: "https://media.gucci.com/style/HEXFBFBFB_South_0_160_640x640/1717777056/792056_99999_0099_001_100_0000_Light.jpg"
   },
   {
+    name: "Divine Couture Eau de Parfum 100ml",
+    brand: "Jean Paul Gaultier",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 111,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/hd1/h32/10694110609438/ingredient-gaultier-divine-couture/ingredient-gaultier-divine-couture.jpg"
+  },
+  {
+    name: "Divine Eau de Parfum 100ml",
+    brand: "Jean Paul Gaultier",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 95,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h3f/h40/10546921799710/ingredient-gaultier-divine-edp-repack/ingredient-gaultier-divine-edp-repack.jpg"
+  },
+  {
+    name: "Divine Elixir Parfum 100ml",
+    brand: "Jean Paul Gaultier",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 110,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h54/hfa/10476880789534/ingredient-gaultier-divine-elixir/ingredient-gaultier-divine-elixir.jpg"
+  },
+  {
+    name: "Divine Le Parfum Eau de Parfum 100ml",
+    brand: "Jean Paul Gaultier",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 100,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/haf/h2b/10053134745630/ingredients-gaultier-divine-le-parfum-jean-paul-gaultier/ingredients-gaultier-divine-le-parfum-jean-paul-gaultier.jpg"
+  },
+  {
     name: "La Belle Eau de Parfum 100ml",
     brand: "Jean Paul Gaultier",
     gender: "feminino",
@@ -1344,7 +1312,15 @@ export const products = [
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h7e/h38/9855543541790/visuel-ingredients-scandal-le-parfum-mb.png%20(1)/visuel-ingredients-scandal-le-parfum-mb.png-1-.jpg"
   },
   {
-    name: "Scandal Pour Homme Eau de Toillet 125ml",
+    name: "Scandal Absolu Parfum 100ml",
+    brand: "Jean Paul Gaultier",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 75,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h67/h6c/9942820651038/pdp-ingredients-scansal-pour-homme-absolu.png/pdp-ingredients-scansal-pour-homme-absolu.png.jpg"
+  },
+  {
+    name: "Scandal Pour Homme Eau de Toillet 100ml",
     brand: "Jean Paul Gaultier",
     gender: "masculino",
     category: "perfume",
@@ -2207,6 +2183,86 @@ export const products = [
     category: "perfume",
     priceUSD: 77,
     image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw799ca260/images/hi-res-BR/Frag/Nova%20pasta/Maria%20Helena%202.0/New%20Folder/MA%202.0/MA%203.0/8011003895755-1.png?sw=556&sh=680&sm=fit"
+  },
+  {
+    name: "Deep Moist 440ml",
+    brand: "&honey",
+    gender: "Shampoo",
+    category: "selfcare",
+    priceUSD: 34,
+    image: "https://epocacosmeticos.vteximg.com.br/arquivos/ids/1193567-450-450/4589546890758-01.jpg?v=638979494744600000"
+  },
+  {
+    name: "Milky Precious Ex Repair 500ml",
+    brand: "&honey",
+    gender: "Shampoo",
+    category: "selfcare",
+    priceUSD: 34,
+    image: "https://epocacosmeticos.vteximg.com.br/arquivos/ids/1190925-450-450/4589546897122-2.jpg?v=638978730797030000"
+  },
+  {
+    name: "Deep Vita C Capsule Cream 55g",
+    brand: "Medicube",
+    gender: "Creme Hidratante Facial",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/71m8aGBgXqL._AC_SX522_.jpg"
+  },
+  {
+    name: "Deep Vita C Pad 150g 70un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 23,
+    image: "https://m.media-amazon.com/images/I/71QBdNbIPPL._AC_SX522_.jpg"
+  },
+  {
+    name: "Exosome Cica Calming Pad 150ml 100un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 25,
+    image: "https://www.drogasil.com.br/_next/image?url=https%3A%2F%2Fproduct-data.raiadrogasil.io%2Fimages%2F17074439.webp&w=828&q=75"
+  },
+  {
+    name: "Kojic Acid Turmeric Pad 70un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 24,
+    image: "https://m.media-amazon.com/images/I/71PToiLK5AL._AC_SX522_.jpg"
+  },
+  {
+    name: "PDRN Pink Collagen Toning Gel Pad 120ml 70un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 22,
+    image: "https://m.media-amazon.com/images/I/61lZFElGdBL._AC_SX679_.jpg"
+  },
+  {
+    name: "Red Succinic Acid Peeling Pad 155g 70un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 21,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_677251-CBT111651468502_062026-F.webp"
+  },
+  {
+    name: "Zero Pore Pad 2.0 70un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 24,
+    image: "https://m.media-amazon.com/images/I/71Mcspt-6AL._AC_SX522_.jpg"
+  }, 
+  {
+    name: "Zero Pore Pad Mild 70un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 25,
+    image: "https://m.media-amazon.com/images/I/61xQad-MXYL._AC_SX522_.jpg"
   },
   {
     name: "iPhone 17 Pro Max 256GB",
