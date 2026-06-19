@@ -4,7 +4,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 50,
+    priceUSD: 60,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Afeef-1.png?v=1747414788&width=810"
   },  
   {
@@ -108,7 +108,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 68,
+    priceUSD: 50,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Atheeri-1_f93156cf-73d9-4455-8540-5665a4312efb.png?v=1747416765&width=810"
   },
   {
@@ -140,7 +140,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 40,
+    priceUSD: 36,
     image: "https://www.lattafa-usa.com/cdn/shop/files/LattafaDalalEDP100mlSpray.png?v=1763744096&width=810"
   },
   {
@@ -396,7 +396,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 47,
+    priceUSD: 46,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_7f791c1f-3d23-4238-8b47-e00f6cbf173a.png?v=1749465557&width=810"
   },
   {
@@ -484,9 +484,17 @@ export const products = [
     brand: "Al Wataniah",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 17,
+    priceUSD: 15,
     image: "https://www.alwataniah.com/cdn/shop/files/durrat-al-aroos.png?v=1759830220&width=600"
   }, 
+  {
+    name: "Durrat Al Aroos Love Eau de Parfum 85ml",
+    brand: "Al Wataniah",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 17,
+    image: "https://acdn-us.mitiendanube.com/stores/001/487/363/products/durrat-al-aroos-love-day-imports-de4d267643a6dcb36717727421754511-1024-1024.webp"
+  },
   {
     name: "Sabah Al Ward 100ml",
     brand: "Al Wataniah",
@@ -558,6 +566,14 @@ export const products = [
     category: "perfume",
     priceUSD: 29,
     image: "https://armaf.com/cdn/shop/files/CDN1.png?v=1774468835&width=700"
+  },
+  {
+    name: "Infinity Gold Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://armaf.com/cdn/shop/files/armafinfinityw.png?v=1744392202&width=600"
   },
   {
     name: "Island Bliss Eau de Parfum 100ml",
@@ -1382,6 +1398,14 @@ export const products = [
     category: "perfume",
     priceUSD: 30,
     image: "https://dcdn-us.mitiendanube.com/stores/006/509/834/products/maison-16-2-d8eb2b5c2078209da317703031455201-1024-1024.png"
+  },
+  {
+    name: "Fakhama Eau de Parfum 100ml",
+    brand: "Maison Asrar",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 32,
+    image: "https://acdn-us.mitiendanube.com/stores/001/487/363/products/inserir-um-pouquinho-de-texto-73-628c8f3616fec9515617567604299567-1024-1024.webp"
   },
   {
     name: "Red Carpet Eau de Parfum 100ml",
