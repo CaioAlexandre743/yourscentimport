@@ -36,7 +36,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 30,
+    priceUSD: 28,
     image: "https://www.lattafa-usa.com/cdn/shop/files/IMG-7057.png?v=1769925903&width=810"
   },
   {
@@ -136,6 +136,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/Badee-Al-Oud-Honor-_-Glory-1_a3e5a0eb-fe3d-4799-8408-2874e3a642fa.png?v=1747415524&width=810"
   },
   {
+    name: "Badee Al Oud Sublime Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Badee-Al-Oud-Sublime-1.png?v=1747421363&width=810"
+  },
+  {
     name: "Dalal 100ml",
     brand: "Lattafa",
     gender: "feminino",
@@ -212,7 +220,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 40,
+    priceUSD: 35,
     image: "https://www.lattafa-usa.com/cdn/shop/files/14.png?v=1756513023&width=810"
   },
   {
@@ -220,7 +228,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 40,
+    priceUSD: 35,
     image: "https://www.lattafa-usa.com/cdn/shop/files/13.png?v=1756513023&width=810"
   },
   {
@@ -228,7 +236,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 40,
+    priceUSD: 35,
     image: "https://www.lattafa-usa.com/cdn/shop/files/cookie_crave.png?v=1756514481&width=810"
   },
   {
@@ -236,7 +244,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 40,
+    priceUSD: 35,
     image: "https://www.lattafa-usa.com/cdn/shop/files/15.png?v=1756513023&width=810"
   },
   {
@@ -244,7 +252,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 40,
+    priceUSD: 35,
     image: "https://www.lattafa-usa.com/cdn/shop/files/6_247f697e-77a4-45a8-92e3-0578b46b2c70.png?v=1756513022&width=810"
   },
   {
@@ -252,7 +260,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 40,
+    priceUSD: 35,
     image: "https://www.lattafa-usa.com/cdn/shop/files/4_123eed08-6e96-4ef5-a5b1-3d4970772d9e.png?v=1756513022&width=810"
   },
   {
@@ -964,7 +972,7 @@ export const products = [
     brand: "Dolce & Gabbana",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 67,
+    priceUSD: 60,
     image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/611f5e6a-fd48-45f2-bcd6-867ec930ad70/7waspk/std/0x0/COVER"
   },
   {
