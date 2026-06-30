@@ -20,8 +20,16 @@ export const products = [
     brand: "Lattafa",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 26,
-    image: "https://www.lattafa-usa.com/cdn/shop/files/1_e42b94e8-2b9a-434c-b247-4e12f50c005c.png?v=1756143307&width=810"
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/61pWQFgSFsL._AC_SX522_.jpg"
+  },
+  {
+    name: "Al Noble Wazeer 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/71iNg1GmoLL._AC_SX522_.jpg"
   },
   {
     name: "Angham 100ml",
@@ -294,6 +302,30 @@ export const products = [
     category: "perfume",
     priceUSD: 34,
     image: "https://www.lattafa-usa.com/cdn/shop/files/His-Confession-1_2614a68d-8561-4a94-9c54-7739ae06f986.png?v=1747415996&width=810"
+  },
+  {
+    name: "Khamrah 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 22,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Khamrah-1_0ffa4f52-30e3-4dea-9399-9bae4b8cb4af.png?v=1747421472&width=810"
+  },
+  {
+    name: "Khamrah Dukhan 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 23,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Khamrah-Dukhan-1_a62cb1af-0737-4709-86c2-f275a5f5b023.png?v=1747416848&width=810"
+  },
+  {
+    name: "Khamrah Waha 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 52,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/Untitled_design_2.jpg?v=1778780553&width=810"
   },
   {
     name: "Kids Happy Brush Eau de Parfum 75ml",
