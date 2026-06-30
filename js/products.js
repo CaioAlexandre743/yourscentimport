@@ -2233,6 +2233,30 @@ export const products = [
     image: "https://epocacosmeticos.vteximg.com.br/arquivos/ids/1190925-450-450/4589546897122-2.jpg?v=638978730797030000"
   },
   {
+    name: "Shot Tightening Booster 15ml",
+    brand: "Celimax",
+    gender: "",
+    category: "selfcare",
+    priceUSD: 16,
+    image: "https://m.media-amazon.com/images/I/51utpRckeQL._AC_SX522_.jpg"
+  },
+  {
+    name: "Collagen Jelly Cream 110ml",
+    brand: "Medicube",
+    gender: "Creme Hidratante Facial",
+    category: "selfcare",
+    priceUSD: 21,
+    image: "https://m.media-amazon.com/images/I/61I8aNAiMQL._AC_SX522_.jpg"
+  },
+  {
+    name: "Collagen Night Wrapping Mask 75ml",
+    brand: "Medicube",
+    gender: "Máscara Facial",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/61occWCJN-L._AC_SX522_.jpg"
+  },
+  {
     name: "Deep Vita C Capsule Cream 55g",
     brand: "Medicube",
     gender: "Creme Hidratante Facial",
@@ -2257,12 +2281,36 @@ export const products = [
     image: "https://www.drogasil.com.br/_next/image?url=https%3A%2F%2Fproduct-data.raiadrogasil.io%2Fimages%2F17074439.webp&w=828&q=75"
   },
   {
+    name: "Hyaluronic Moisturizing Capsule 55g",
+    brand: "Medicube",
+    gender: "Creme Hidratante Facial",
+    category: "selfcare",
+    priceUSD: 24,
+    image: "https://m.media-amazon.com/images/I/61aBwml98eL._AC_SX522_.jpg"
+  },
+  {
     name: "Kojic Acid Turmeric Pad 70un",
     brand: "Medicube",
     gender: "Almofadas Tônicas",
     category: "selfcare",
     priceUSD: 24,
     image: "https://m.media-amazon.com/images/I/71PToiLK5AL._AC_SX522_.jpg"
+  },
+  {
+    name: "PDRN Pink Peptide 30ml",
+    brand: "Medicube",
+    gender: "Sérum Facial",
+    category: "selfcare",
+    priceUSD: 21,
+    image: "https://m.media-amazon.com/images/I/61OewnOw5jL._AC_SX522_.jpg"
+  },
+  {
+    name: "PDRN Pink Collagen Capsule Cream 55g",
+    brand: "Medicube",
+    gender: "Creme Hidratante Facial",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/611FUTyHdCL._AC_SX522_.jpg"
   },
   {
     name: "PDRN Pink Collagen Toning Gel Pad 120ml 70un",
@@ -2295,6 +2343,38 @@ export const products = [
     category: "selfcare",
     priceUSD: 25,
     image: "https://m.media-amazon.com/images/I/61xQad-MXYL._AC_SX522_.jpg"
+  },
+  {
+    name: "Triple Collagen Toner 140ml",
+    brand: "Medicube",
+    gender: "Tônico Facial",
+    category: "selfcare",
+    priceUSD: 17,
+    image: "https://m.media-amazon.com/images/I/51KZ2Q0dZ9L._AC_SX679_.jpg"
+  },
+  {
+    name: "Triple Collagen 50ml",
+    brand: "Medicube",
+    gender: "Creme Facial",
+    category: "selfcare",
+    priceUSD: 21,
+    image: "https://m.media-amazon.com/images/I/61qcv-tUtDL._AC_SX522_.jpg"
+  },
+  {
+    name: "TXA Niacinamide 15 30ml",
+    brand: "Medicube",
+    gender: "Sérum Facial",
+    category: "selfcare",
+    priceUSD: 21,
+    image: "https://m.media-amazon.com/images/I/61hJlq6WVmL._AC_SX522_.jpg"
+  },
+  {
+    name: "3H Relief 50ml",
+    brand: "Medicube",
+    gender: "Creme Facial",
+    category: "selfcare",
+    priceUSD: 25,
+    image: "https://m.media-amazon.com/images/I/613DYFUIseL._AC_SX522_.jpg"
   },
   {
     name: "iPhone 17 Pro Max 256GB",
