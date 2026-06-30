@@ -408,11 +408,19 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_836a56b7-6f93-4ff1-a8e6-68a0428ceb4c.png?v=1756362029&width=810"
   },
   {
+    name: "Musamam 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://www.giraofertas.com.br/wp-content/uploads/2024/04/Musamam-Lattafa-Eau-de-Parfum-01-510x510.jpg"
+  },
+  {
     name: "Musamam Black Intense 100ml",
     brand: "Lattafa",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 40,
+    priceUSD: 38,
     image: "https://www.lattafa-usa.com/cdn/shop/files/LattafaMusamamBlackIntenseEDP100mlSpray.png?v=1763742607&width=810"
   },
   {
