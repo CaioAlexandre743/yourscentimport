@@ -1064,6 +1064,14 @@ export const products = [
     image: "https://fragrancebysabrina.com/cdn/shop/files/D8HisyVU.jpg?v=1756296901&width=990"
   },
   {
+    name: "Sweet Tooth Lemon Pie Eau de Parfum 75ml",
+    brand: "Fragrance by Sabrina",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://fragrancebysabrina.com/cdn/shop/files/Sabrina_Carpenter_75ml_BOTTLE_CARTON_Lemon_Pie_1.jpg?v=1773418996&width=990"
+  },
+  {
     name: "Sweet Tooth Me Expresso Eau de Parfum 75ml",
     brand: "Fragrance by Sabrina",
     gender: "feminino",
