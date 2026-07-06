@@ -1384,7 +1384,7 @@ export const products = [
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h7e/h38/9855543541790/visuel-ingredients-scandal-le-parfum-mb.png%20(1)/visuel-ingredients-scandal-le-parfum-mb.png-1-.jpg"
   },
   {
-    name: "Scandal Absolu Parfum 100ml",
+    name: "Scandal Pour Homme Absolu Parfum 100ml",
     brand: "Jean Paul Gaultier",
     gender: "masculino",
     category: "perfume",
@@ -1398,6 +1398,30 @@ export const products = [
     category: "perfume",
     priceUSD: 65,
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h38/hce/10405589909534/ingredients-scandal-pour-homme-edt-jean-paul-gaultier/ingredients-scandal-pour-homme-edt-jean-paul-gaultier.jpg"
+  },
+  {
+    name: "Scandal Pour Homme Elixir Parfum 100ml",
+    brand: "Jean Paul Gaultier",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 93,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h48/h74/10674013569054/ingredients-scandal-pour-homme-elixir-jean-paul-gaultier%20(1)/ingredients-scandal-pour-homme-elixir-jean-paul-gaultier-1-.png"
+  },
+  {
+    name: "Scandal Pour Homme Intense Eau de Parfum 100ml",
+    brand: "Jean Paul Gaultier",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 83,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h4f/hcc/10409153331230/ingredients-scandal-pour-homme-intense-jean-paul-gaultier/ingredients-scandal-pour-homme-intense-jean-paul-gaultier.jpg"
+  },
+  {
+    name: "Scandal Pour Homme Le Parfum Intense 100ml",
+    brand: "Jean Paul Gaultier",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/hb8/hcb/10425192874014/ingredients-scandal-pour-homme-le-parfum-jean-paul-gaultier/ingredients-scandal-pour-homme-le-parfum-jean-paul-gaultier.jpg"
   },
   {
     name: "Idôle Power Intense Eau de Parfum 100ml",
@@ -2289,6 +2313,22 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/51utpRckeQL._AC_SX522_.jpg"
   },
   {
+    name: "Azelaic Acid Exosome Shot 7500 30ml",
+    brand: "Medicube",
+    gender: "Serum Facial",
+    category: "selfcare",
+    priceUSD: 24,
+    image: "https://m.media-amazon.com/images/I/71DWV7A9oIL._AC_SX522_.jpg"
+  },
+  {
+    name: "Azelaic Acid Niacinamide Deep Clean 120g",
+    brand: "Medicube",
+    gender: "Limpador Facial",
+    category: "selfcare",
+    priceUSD: 23,
+    image: "https://m.media-amazon.com/images/I/61uDHmtjl2L._AC_SX522_.jpg"
+  },
+  {
     name: "Collagen Jelly Cream 110ml",
     brand: "Medicube",
     gender: "Creme Hidratante Facial",
@@ -2345,12 +2385,36 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/71PToiLK5AL._AC_SX522_.jpg"
   },
   {
-    name: "PDRN Pink Peptide 30ml",
+    name: "Kojic Acid Turmeric Vita Capsule 53g",
     brand: "Medicube",
-    gender: "Sérum Facial",
+    gender: "Creme Facial",
     category: "selfcare",
-    priceUSD: 21,
-    image: "https://m.media-amazon.com/images/I/61OewnOw5jL._AC_SX522_.jpg"
+    priceUSD: 25,
+    image: "https://m.media-amazon.com/images/I/71Ns2bmaDML._AC_SX522_.jpg"
+  },
+  {
+    name: "One Day Exosome Shot 2000 30ml",
+    brand: "Medicube",
+    gender: "Serúm Facial",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/71bfHCGMlEL._AC_SX522_.jpg"
+  },
+  {
+    name: "One Day Exosome Shot 7500 30ml",
+    brand: "Medicube",
+    gender: "Serúm Facial",
+    category: "selfcare",
+    priceUSD: 22,
+    image: "https://m.media-amazon.com/images/I/71I6MkG0fyL._AC_SX522_.jpg"
+  },
+  {
+    name: "PDRN Pink Cica Soothing Toner 250ml",
+    brand: "Medicube",
+    gender: "Tônico Facial",
+    category: "selfcare",
+    priceUSD: 23,
+    image: "https://m.media-amazon.com/images/I/61+erZFz8mL._AC_SX679_.jpg"
   },
   {
     name: "PDRN Pink Collagen Capsule Cream 55g",
@@ -2361,12 +2425,28 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/611FUTyHdCL._AC_SX522_.jpg"
   },
   {
-    name: "PDRN Pink Collagen Toning Gel Pad 120ml 70un",
+    name: "PDRN Pink Collagen Toning Gel Pad 120ml",
     brand: "Medicube",
     gender: "Almofadas Tônicas",
     category: "selfcare",
     priceUSD: 22,
     image: "https://m.media-amazon.com/images/I/61lZFElGdBL._AC_SX679_.jpg"
+  },
+  {
+    name: "PDRN Pink Glutathione Serum Mist 100ml",
+    brand: "Medicube",
+    gender: "Serum Facial",
+    category: "selfcare",
+    priceUSD: 21,
+    image: "https://m.media-amazon.com/images/I/61kTmwyGr6L._AC_SX522_.jpg"
+  },
+  {
+    name: "PDRN Pink Peptide 30ml",
+    brand: "Medicube",
+    gender: "Sérum Facial",
+    category: "selfcare",
+    priceUSD: 21,
+    image: "https://m.media-amazon.com/images/I/61OewnOw5jL._AC_SX522_.jpg"
   },
   {
     name: "Red Succinic Acid Peeling Pad 155g 70un",
@@ -2377,20 +2457,12 @@ export const products = [
     image: "https://http2.mlstatic.com/D_NQ_NP_2X_677251-CBT111651468502_062026-F.webp"
   },
   {
-    name: "Zero Pore Pad 2.0 70un",
+    name: "Retinol NMN Boosting 30ml",
     brand: "Medicube",
-    gender: "Almofadas Tônicas",
+    gender: "Serum Facial",
     category: "selfcare",
-    priceUSD: 24,
-    image: "https://m.media-amazon.com/images/I/71Mcspt-6AL._AC_SX522_.jpg"
-  }, 
-  {
-    name: "Zero Pore Pad Mild 70un",
-    brand: "Medicube",
-    gender: "Almofadas Tônicas",
-    category: "selfcare",
-    priceUSD: 25,
-    image: "https://m.media-amazon.com/images/I/61xQad-MXYL._AC_SX522_.jpg"
+    priceUSD: 22,
+    image: "https://m.media-amazon.com/images/I/71xcmJzh5SL._AC_SX522_.jpg"
   },
   {
     name: "Triple Collagen Toner 140ml",
@@ -2415,6 +2487,38 @@ export const products = [
     category: "selfcare",
     priceUSD: 21,
     image: "https://m.media-amazon.com/images/I/61hJlq6WVmL._AC_SX522_.jpg"
+  },
+  {
+    name: "Zero Pore Blackhead Mud Mask 100g",
+    brand: "Medicube",
+    gender: "Máscara Facial",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/71MV5+RNA+L._AC_SX522_.jpg"
+  },
+  {
+    name: "Zero Pore One Day 50ml",
+    brand: "Medicube",
+    gender: "Creme Facial",
+    category: "selfcare",
+    priceUSD: 23,
+    image: "https://m.media-amazon.com/images/I/71OWsqENlnL._AC_SX522_.jpg"
+  },
+  {
+    name: "Zero Pore Pad 2.0 70un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 24,
+    image: "https://m.media-amazon.com/images/I/71Mcspt-6AL._AC_SX522_.jpg"
+  }, 
+  {
+    name: "Zero Pore Pad Mild 70un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 25,
+    image: "https://m.media-amazon.com/images/I/61xQad-MXYL._AC_SX522_.jpg"
   },
   {
     name: "3H Relief 50ml",
