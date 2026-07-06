@@ -2313,6 +2313,14 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/51utpRckeQL._AC_SX522_.jpg"
   },
   {
+    name: "Age-R Booster Pro",
+    brand: "Medicube",
+    gender: "Rejuvenescedor Facial",
+    category: "selfcare",
+    priceUSD: 190,
+    image: "https://m.media-amazon.com/images/I/61kpEoE3+bL._AC_SX679_.jpg"
+  },
+  {
     name: "Azelaic Acid Exosome Shot 7500 30ml",
     brand: "Medicube",
     gender: "Serum Facial",
