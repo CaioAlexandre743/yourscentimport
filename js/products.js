@@ -12,7 +12,7 @@ export const products = [
     brand: "Lattafa",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 20,
+    priceUSD: 21,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_89027578-d9b1-4664-a7dc-538f0f110578.png?v=1756361257&width=810"
   },
   {
@@ -20,7 +20,7 @@ export const products = [
     brand: "Lattafa",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 20,
+    priceUSD: 21,
     image: "https://m.media-amazon.com/images/I/61pWQFgSFsL._AC_SX522_.jpg"
   },
   {
@@ -28,7 +28,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 20,
+    priceUSD: 21,
     image: "https://m.media-amazon.com/images/I/71iNg1GmoLL._AC_SX522_.jpg"
   },
   {
@@ -36,7 +36,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 26,
+    priceUSD: 27,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Angham-1_fea96331-1cd0-467d-be6d-56ad073a7f86.png?v=1747415391&width=810"
   },
   {
@@ -44,7 +44,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 28,
+    priceUSD: 29,
     image: "https://www.lattafa-usa.com/cdn/shop/files/IMG-7057.png?v=1769925903&width=810"
   },
   {
@@ -52,7 +52,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 12,
+    priceUSD: 13,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_e9d03d37-af0c-4399-95ed-986f0fb38ee9.png?v=1756361454&width=810"
   },
   {
@@ -60,7 +60,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 25,
+    priceUSD: 26,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_97553617-4548-450d-88eb-2fb032306f94.png?v=1749363699&width=810"
   },
   {
@@ -68,7 +68,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 30,
+    priceUSD: 31,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_219949b2-5408-4498-9a6a-b2e7e3c33e17.png?v=1749363657&width=810"
   },
   {
@@ -76,7 +76,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 30,
+    priceUSD: 31,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_95e6ea50-ba7d-4fde-8082-c749525eb33a.png?v=1747555499&width=810"
   },
   {
@@ -84,7 +84,7 @@ export const products = [
     brand: "Lattafa",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 26,
+    priceUSD: 27,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Asad-1_ceed76c7-7a80-46b3-b372-68cc309137f4.png?v=1747421311&width=810"
   },
   {
@@ -92,7 +92,7 @@ export const products = [
     brand: "Lattafa",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 30,
+    priceUSD: 32,
     image: "https://www.lattafa-usa.com/cdn/shop/files/ASADELIXIRBOTTLE.png?v=1760805808&width=810"
   },
   {
@@ -100,7 +100,7 @@ export const products = [
     brand: "Lattafa",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 30,
+    priceUSD: 31,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Asad-Bourbon-1.png?v=1747416709&width=810"
   },
   {
@@ -108,7 +108,7 @@ export const products = [
     brand: "Lattafa",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 20,
+    priceUSD: 21,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Asad-Zanzibar-1_ab5df442-9906-4109-81d1-a21265914bfd.png?v=1747415448&width=810"
   },
   {
@@ -116,7 +116,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 50,
+    priceUSD: 51,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Atheeri-1_f93156cf-73d9-4455-8540-5665a4312efb.png?v=1747416765&width=810"
   },
   {
@@ -124,7 +124,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 21,
+    priceUSD: 22,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Badee-Al-Oud-Amethyst-1.png?v=1747422428&width=810"
   },
   {
@@ -132,7 +132,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 21,
+    priceUSD: 22,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Badee-Al-Oud-Noble-Blush-1_efc7268e-6d5c-413d-ae1e-ef7c9873bb6e.png?v=1747415567&width=810"
   },
   {
@@ -140,7 +140,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 21,
+    priceUSD: 22,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Badee-Al-Oud-Honor-_-Glory-1_a3e5a0eb-fe3d-4799-8408-2874e3a642fa.png?v=1747415524&width=810"
   },
   {
@@ -148,7 +148,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 20,
+    priceUSD: 22,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Badee-Al-Oud-Sublime-1.png?v=1747421363&width=810"
   },
   {
@@ -156,7 +156,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 36,
+    priceUSD: 37,
     image: "https://www.lattafa-usa.com/cdn/shop/files/LattafaDalalEDP100mlSpray.png?v=1763744096&width=810"
   },
   {
@@ -2321,6 +2321,14 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/61kpEoE3+bL._AC_SX679_.jpg"
   },
   {
+    name: "Age-R Booster Pro Mini",
+    brand: "Medicube",
+    gender: "Rejuvenescedor Facial",
+    category: "selfcare",
+    priceUSD: 110,
+    image: "https://m.media-amazon.com/images/I/513yy77woDL._AC_SX522_.jpg"
+  },
+  {
     name: "Azelaic Acid Exosome Shot 7500 30ml",
     brand: "Medicube",
     gender: "Serum Facial",
@@ -2417,12 +2425,28 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/71I6MkG0fyL._AC_SX522_.jpg"
   },
   {
+    name: "PDRN Lip Sleeping Mask 10g",
+    brand: "Medicube",
+    gender: "Máscara Labial",
+    category: "selfcare",
+    priceUSD: 14,
+    image: "https://m.media-amazon.com/images/I/61FT5YE-+lL._AC_SX522_.jpg"
+  },
+  {
     name: "PDRN Pink Cica Soothing Toner 250ml",
     brand: "Medicube",
     gender: "Tônico Facial",
     category: "selfcare",
     priceUSD: 23,
     image: "https://m.media-amazon.com/images/I/61+erZFz8mL._AC_SX679_.jpg"
+  },
+  {
+    name: "PDRN Pink Collagen Gel Mask 4un",
+    brand: "Medicube",
+    gender: "Máscara Facial",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/61An0jiJFvL._AC_SX522_.jpg"
   },
   {
     name: "PDRN Pink Collagen Capsule Cream 55g",
@@ -2497,6 +2521,14 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/61hJlq6WVmL._AC_SX522_.jpg"
   },
   {
+    name: "TXA Niacinamide Capsule 55g",
+    brand: "Medicube",
+    gender: "Creme Facial",
+    category: "selfcare",
+    priceUSD: 21,
+    image: "https://m.media-amazon.com/images/I/71mB8IXpT+L._AC_SX522_.jpg"
+  },
+  {
     name: "Zero Pore Blackhead Mud Mask 100g",
     brand: "Medicube",
     gender: "Máscara Facial",
@@ -2511,6 +2543,14 @@ export const products = [
     category: "selfcare",
     priceUSD: 23,
     image: "https://m.media-amazon.com/images/I/71OWsqENlnL._AC_SX522_.jpg"
+  },
+  {
+    name: "Zero Pore Pad 2.0 50ml",
+    brand: "Medicube",
+    gender: "Creme Facial",
+    category: "selfcare",
+    priceUSD: 22,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_887492-MLA106723151534_022026-F.webp"
   },
   {
     name: "Zero Pore Pad 2.0 70un",
