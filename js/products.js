@@ -592,6 +592,14 @@ export const products = [
     image: "https://armaf.com/cdn/shop/files/CLUBDENUITLIONHEARTWOMAN...png?v=1765210005&width=700"
   },
   {
+    name: "Club de Nuit Iconic Eau de Parfum 105ml",
+    brand: "ARMAF",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://armaf.com/cdn/shop/files/35721_6.png?v=1767893940&width=600"
+  },
+  {
     name: "Club de Nuit Intense Man Eau de Toilette 105ml",
     brand: "ARMAF",
     gender: "masculino",
@@ -630,7 +638,39 @@ export const products = [
     category: "perfume",
     priceUSD: 36,
     image: "https://armaf.com/cdn/shop/files/armafislandbliss.png?v=1744392136&width=700"
-  },  
+  },
+  {
+    name: "Island Breeze Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 33,
+    image: "https://armaf.com/cdn/shop/files/islandbliss_900x_f77557f2-593e-41e6-85fb-8facf61de479.webp?v=1762464766&width=600"
+  },
+  {
+    name: "Miss Magnifiq Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 27,
+    image: "https://armaf.com/cdn/shop/files/Untitled_design_-_2025-09-24T035821.025.png?v=1758668332&width=600"
+  },
+  {
+    name: "Odyssey Candee Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 21,
+    image: "https://armaf.com/cdn/shop/files/armafbeach_11.png?v=1744408386&width=600"
+  },
+  {
+    name: "Odyssey Limoni Fresh Edition Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://armaf.com/cdn/shop/files/product-17270-ezgif.com-webp-to-jpg-converter.jpg?v=1757612766&width=600"
+  },
   {
     name: "Odyssey Mandarin Sky Eau de Parfum 100ml",
     brand: "ARMAF",
@@ -638,6 +678,14 @@ export const products = [
     category: "perfume",
     priceUSD: 23,
     image: "https://armaf.com/cdn/shop/files/odysseymandarinsky-bottle.jpg?v=1739111516&width=700"
+  },
+  {
+    name: "The Lion's Club Feroce Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 33,
+    image: "https://armaf.com/cdn/shop/files/70.png?v=1758572312&width=600"
   },
   {
     name: "Yum Yum Eau de Parfum 100ml",
@@ -1720,14 +1768,6 @@ export const products = [
     image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/he9/h52/10732105695262/10732105629726/10732105629726.png"
   },
   {
-    name: "Black XS Eau de Toilette 100ml",
-    brand: "Paco Rabanne",
-    gender: "masculino",
-    category: "perfume",
-    priceUSD: 80,
-    image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/h67/h56/10490763968542/10490763903006/10490763903006.jpg"
-  },
-  {
     name: "Fame Eau de Parfum 80ml",
     brand: "Paco Rabanne",
     gender: "feminino",
@@ -1752,12 +1792,60 @@ export const products = [
     image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h9b/hb1/10733389676574/10733389611038/10733389611038.png"
   },
   {
+    name: "Invictus Aqua Eau de Toilette 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 90,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h89/hd5/10972049604638/10972049539102/10972049539102.jpg"
+  }, 
+  {
     name: "Invictus Eau de Toilette 100ml",
     brand: "Paco Rabanne",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 50,
-    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h41/h49/10728993128478/10728993062942/10728993062942.jpg"
+    priceUSD: 51,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h34/h4d/10972043214878/10972043149342/10972043149342.jpg"
+  }, 
+   {
+    name: "Invictus Elixir Parfum 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 83,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h82/h30/10738388598814/10738388533278/10738388533278.jpg"
+  }, 
+  {
+    name: "Invictus Parfum 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 75,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h31/h50/10779236433950/10779236368414/10779236368414.jpg"
+  },
+  {
+    name: "Invictus Victory Eau de Parfum 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 83,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/hfd/h5a/10972048130078/10972048064542/10972048064542.jpg"
+  }, 
+  {
+    name: "Invictus Victory Absolu Parfum Intense 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 77,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h6f/hd1/10728995684382/10728995618846/10728995618846.jpg"
+  }, 
+  {
+    name: "Invictus Victory Elixir Parfum Intense 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 93,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h1d/hdb/10972045377566/10972045312030/10972045312030.jpg"
   }, 
   {
     name: "Lady Million 80ml",
@@ -1766,7 +1854,15 @@ export const products = [
     category: "perfume",
     priceUSD: 65,
     image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/h4d/h43/10488407851038/10488407785502/10488407785502.jpg"
-  }, 
+  },
+  {
+    name: "Lady Million Royal 80ml",
+    brand: "Paco Rabanne",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 69,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/hed/h28/10429650927646/10429650862110/10429650862110.jpg"
+  },
   {
     name: "Million Gold For Her 90ml",
     brand: "Paco Rabanne",
@@ -1776,12 +1872,60 @@ export const products = [
     image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h17/h28/10733374898206/10733374832670/10733374832670.png"
   },
   {
+    name: "Million Gold For Her Parfum 90ml",
+    brand: "Paco Rabanne",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 105,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h34/h17/10560884899870/10560884834334/10560884834334.jpg"
+  },
+  {
+    name: "Million Gold For Her Pure Diamonds 90ml",
+    brand: "Paco Rabanne",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 130,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h7c/hb0/10718566285342/10718566219806/10718566219806.jpg"
+  },
+  {
+    name: "Olympea Absolu Parfum Intense 80ml",
+    brand: "Paco Rabanne",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 73,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/haf/h1f/10779230797854/10779230732318/10779230732318.jpg"
+  },
+  {
     name: "Olympea Eau de Parfum 80ml",
     brand: "Paco Rabanne",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 71,
-    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h45/h92/10729003909150/10729003843614/10729003843614.jpg"
+    priceUSD: 69,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/hf2/h18/10779227357214/10779227291678/10779227291678.jpg"
+  },
+  {
+    name: "Olympea Flora Eau de Parfum 80ml",
+    brand: "Paco Rabanne",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 65,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/hc5/h7c/10779239120926/10779239055390/10779239055390.jpg"
+  },
+  {
+    name: "Olympea Elixir Eau de Parfum 80ml",
+    brand: "Paco Rabanne",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 89,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/hac/h3b/10738391842846/10738391777310/10738391777310.jpg"
+  },
+  {
+    name: "Olympea Parfum 80ml",
+    brand: "Paco Rabanne",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 76,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h94/he9/10779233550366/10779233484830/10779233484830.jpg"
   },
   {
     name: "Phantom Eau de Toilette 100ml",
@@ -1822,6 +1966,14 @@ export const products = [
     category: "perfume",
     priceUSD: 73,
     image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/hd9/h2b/10404976623646/10404976558110/10404976558110.jpg"
+  },
+  {
+    name: "Black XS Eau de Toilette 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/h67/h56/10490763968542/10490763903006/10490763903006.jpg"
   },
   {
     name: "Pure XS Eau de Toilette 100ml",
