@@ -868,7 +868,7 @@ export const products = [
     brand: "Calvin Klein",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 30,
+    priceUSD: 25,
     image: "https://calvinklein.vtexassets.com/arquivos/ids/594325/25392-0_0000_1.jpg?v=637915284582670000"
   },
   {
@@ -1412,7 +1412,7 @@ export const products = [
     brand: "Jean Paul Gaultier",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 70,
+    priceUSD: 85,
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h5f/hd3/10121423749150/image%20646/image-646.jpg"
   },
   {
