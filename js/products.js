@@ -160,6 +160,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/LattafaDalalEDP100mlSpray.png?v=1763744096&width=810"
   },
   {
+    name: "Dynasty Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 24,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_a9b996dc-705c-47bc-878c-064ae56f411c.png?v=1756143026&width=810"
+  },
+  {
     name: "Eclaire 100ml",
     brand: "Lattafa",
     gender: "unissex",
@@ -464,6 +472,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_7b2f7e1d-2e42-4c34-b998-bc64f72be48f.png?v=1749326219&width=810"
   },
   {
+    name: "The Kingdom Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/The-Kingdom-Men-1_ecd1b262-1319-4fee-846b-8b6f30939677.png?v=1747416549&width=810"
+  },
+  {
     name: "Victoria Eau de Parfum 100ml",
     brand: "Lattafa",
     gender: "unissex",
@@ -557,7 +573,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 35,
-    image: "https://www.alwataniah.com/cdn/shop/files/6_838c8c1a-b5c2-42d1-9483-2dd72435d779.png?v=1778761732&width=600"
+    image: "https://www.alwataniah.com/cdn/shop/files/Sabah_Al_Ward_Garden_Of_Eden_Perfume.png?v=1781765585&width=600"
   },
   {
     name: "Sabah Al Ward Sugar 100ml",
@@ -1804,7 +1820,7 @@ export const products = [
     brand: "Paco Rabanne",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 51,
+    priceUSD: 57,
     image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h34/h4d/10972043214878/10972043149342/10972043149342.jpg"
   }, 
    {
@@ -2449,12 +2465,28 @@ export const products = [
     image: "https://epocacosmeticos.vteximg.com.br/arquivos/ids/1193567-450-450/4589546890758-01.jpg?v=638979494744600000"
   },
   {
+    name: "Melty Moist Repair 400ml",
+    brand: "&honey",
+    gender: "Shampoo",
+    category: "selfcare",
+    priceUSD: 33,
+    image: "https://m.media-amazon.com/images/I/61YpwV6DtrL._AC_SX522_.jpg"
+  },
+  {
     name: "Milky Precious Ex Repair 500ml",
     brand: "&honey",
     gender: "Shampoo",
     category: "selfcare",
     priceUSD: 34,
     image: "https://epocacosmeticos.vteximg.com.br/arquivos/ids/1190925-450-450/4589546897122-2.jpg?v=638978730797030000"
+  },
+  {
+    name: "Pore + Dark Spot Brightening Cream 35ml",
+    brand: "Celimax",
+    gender: "Creme clareador",
+    category: "selfcare",
+    priceUSD: 15,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_764033-MLA83445235244_042025-F.webp"
   },
   {
     name: "Shot Tightening Booster 15ml",

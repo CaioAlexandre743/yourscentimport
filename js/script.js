@@ -48,7 +48,13 @@ window.openModal = function(src) {
 
 window.filterProducts = function(filter) {
   if (filter === 'all') return renderProducts(products);
-  const filtered = products.filter(p => p.category === filter);
+  var filtered;
+
+  if ((filter === 'feminino') || (filter === 'masculino')) {
+    filtered = products.filter(p => p.gender === filter);
+  } else {
+    filtered = products.filter(p => p.category === filter);
+  }  
   renderProducts(filtered);
 }
 
