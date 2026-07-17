@@ -120,6 +120,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/Atheeri-1_f93156cf-73d9-4455-8540-5665a4312efb.png?v=1747416765&width=810"
   },
   {
+    name: "Badee Al Oud Glory Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_5a4baf04-76ee-43c9-9751-4ac43d7aba74.png?v=1747556003&width=810"
+  },
+  {
     name: "Badee Al Oud Noble Amethyst Eau de Parfum 100ml",
     brand: "Lattafa",
     gender: "unissex",
@@ -448,6 +456,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_fec4173e-be08-4afa-9cf2-4e9e2285d48f.png?v=1747550775&width=810"
   },
   {
+    name: "Opulent Dubai Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_7d5801be-0a5e-4ac4-bffc-3bee4a3c7a6b.png?v=1756143162&width=810"
+  },
+  {
     name: "Queen Of Arabia 100ml",
     brand: "Lattafa",
     gender: "feminino",
@@ -558,6 +574,22 @@ export const products = [
     category: "perfume",
     priceUSD: 17,
     image: "https://acdn-us.mitiendanube.com/stores/001/487/363/products/durrat-al-aroos-love-day-imports-de4d267643a6dcb36717727421754511-1024-1024.webp"
+  },
+  {
+    name: "Lazuli Eau de Parfum 100ml",
+    brand: "Al Wataniah",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://www.alwataniah.com/cdn/shop/files/azuli.png?v=1759668665&width=600"
+  },
+  {
+    name: "Oud Mystery Intense Eau de Parfum 100ml",
+    brand: "Al Wataniah",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 19,
+    image: "https://www.alwataniah.com/cdn/shop/files/oud-mystery-intense.png?v=1759755628&width=600"
   },
   {
     name: "Sabah Al Ward 100ml",
@@ -1285,7 +1317,15 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 70,
-    image: "https://assets-cf.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/L5617100_NLP_100ML_F_FW2025.jpg"
+    image: "https://www.giorgioarmanibeauty-usa.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-armani-us-Library/default/dw8237a625/images/pdp/stronger-with-you/comparison/EA-SWY-EDT_Pack-with-Ingredients.jpg?q=100"
+  },
+  {
+    name: "Stronger With You Absolutely Eau de Parfum 100ml",
+    brand: "Giorgio Armani",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 110,
+    image: "https://www.giorgioarmanibeauty-usa.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-armani-us-Library/default/dwfb777dae/images/pdp/stronger-with-you/comparison/EA-SWY-Absolutely_Pack-with-Ingredients.jpg?q=100"
   },
   {
     name: "Stronger With You Intensely Eau de Parfum 100ml",
@@ -1293,7 +1333,15 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 80,
-    image: "https://assets-cf.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/L8717500_NLP_100ML_F_FW2025.jpg"
+    image: "https://www.giorgioarmanibeauty-usa.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-armani-us-Library/default/dw76b40442/images/pdp/stronger-with-you/comparison/EA-SWY-Intensely_Pack-with-Ingredients.jpg?q=100"
+  },
+  {
+    name: "Stronger With You Parfum 100ml",
+    brand: "Giorgio Armani",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 120,
+    image: "https://www.giorgioarmanibeauty-usa.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-armani-us-Library/default/dw7ff415ed/images/pdp/stronger-with-you/comparison/EA-SWY-Parfum_Pack-with-Ingredients.jpg?q=100"
   },
   {
     name: "Bloom Eau de Parfum 100ml",
@@ -1624,6 +1672,14 @@ export const products = [
     image: "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/modelos/perfume_moschino_pink_bouquet_eau_de_toilette_feminino_100ml_67281_550x550.png"
   },
   {
+    name: "Fresh Couture Eau de Toilette 100ml",
+    brand: "Moschino",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://www.moschino.com/cdn/shop/files/Aeffe_2Farticle_imgs_2FEUR6RFRESH6R32100_2F171338.jpg?crop=center&v=1739196886&width=960"
+  },
+  {
     name: "Pink Fresh Couture Eau de Toilette 100ml",
     brand: "Moschino",
     gender: "feminino",
@@ -1646,6 +1702,14 @@ export const products = [
     category: "perfume",
     priceUSD: 54,
     image: "https://www.moschino.com/cdn/shop/files/Aeffe_2Farticle_imgs_2FEUR6X326XTOY2BUBBLEGUM100_2F171404.jpg?crop=center&v=1739197466&width=960"
+  },
+  {
+    name: "Toy 2 Pearl Eau de Parfum 100ml",
+    brand: "Moschino",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 56,
+    image: "https://www.moschino.com/cdn/shop/files/Aeffe_2Farticle_imgs_2FEUR6Y32100_2F330639.jpg?crop=center&v=1739198915&width=960"
   },
   {
     name: "Toy boy Eau de Parfum 100ml",
@@ -2409,13 +2473,69 @@ export const products = [
     image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw9cab7e65/images/fullsize/FRAG/YSLBWW-28519YSL/YSLB3614274114645/3614274114645.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
   },
   {
-    name: "bright crystal Eau de Toilette 100ml",
+    name: "bright crystal Eau de Toilette 90ml",
     brand: "Versace",
     gender: "feminino",
     category: "perfume",
     priceUSD: 60,
-    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwdf350bf9/images/hi-res-BR/_70041BE8-7FCC-4A6B-AA6D-6E1756A3FABF__crisgra.jpg?sw=1200&sh=1200&sm=fit"
-  },  
+    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw6b9a1a76/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_W_04.jpg"
+  },
+  {
+    name: "Crystal Emerald Eau de Parfum 90ml",
+    brand: "Versace",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 110,
+    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw27fceea5/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_W_01.jpg"
+  },
+  {
+    name: "Dylan Blue Pour Femme Eau de Parfum 100ml",
+    brand: "Versace",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 77,
+    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwfc13e0f1/original/90_R702032-R100MLS_RNUL_20_Dylan~Blue~Pour~Femme~EDP~100~ml-Accessories-Versace-online-store_1_1.jpg?sw=850&q=85&strip=true"
+  },
+  {
+    name: "Dylan Blush Pink Eau de Parfum 100ml",
+    brand: "Versace",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 111,
+    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwfeccecc0/original/90_R702332-R100MLS_RNUL_20_Dylan~Blush~Pink~EDP~100~ml-Fragrances~~Body~Care-Versace-online-store_1_0.jpg?sw=850&q=85&strip=true"
+  },
+  {
+    name: "Dylan Purple Pour Femme Eau de Parfum 100ml",
+    brand: "Versace",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 82,
+    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw0bbc6df7/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_W_02.jpg"
+  },
+  {
+    name: "Dylan Turquoise Pour Femme Eau de Toilette 100ml",
+    brand: "Versace",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwf9740184/original/90_R702132-R100MLS_RNUL_20_Dylan~Turquoise~EDT~100~ml-Accessories-Versace-online-store_0_1.jpg?sw=850&q=85&strip=true"
+  },
+  {
+    name: "Dylan Blue Pour Homme Eau de Toilette 100ml",
+    brand: "Versace",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 77,
+    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw8240a011/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_M_02.jpg"
+  },
+  {
+    name: "Eau Fraiche Eau de Toilette 100ml",
+    brand: "Versace",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw38036602/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_M_04.jpg"
+  },
   {
     name: "Eros Eau de Toilette 100ml",
     brand: "Versace",
@@ -2430,7 +2550,7 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 80,
-    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwee6cbd73/original/90_R740110-R100MLS_RNUL_20_ErosEDP100ml-Eros-Versace-online-store_0_5.jpg?sw=850&q=85&strip=true"
+    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw45768c31/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_M_03.jpg"
   },
   {
     name: "Eros Energy Pour Homme Eau de Parfum 100ml",
@@ -2438,7 +2558,7 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 82,
-    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw0850aada/images/hi-res-BR/Frag/Nova%20pasta/8011003890804_1_1000px.jpg?sw=556&sh=680&sm=fit"
+    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw6fcbab29/original/90_R742010-R100MLS_RNUL_20_ErosEnergyEDP100ml-Eros~Energy-Versace-online-store_1_2.jpg?sw=850&q=85&strip=true"
   },
   {
     name: "Eros Flame Eau de Parfum 100ml",
@@ -2446,7 +2566,7 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 75,
-    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwcd53b35c/images/hi-res-BR/8011003845354_01_1500px.jpg?sw=1200&sh=1200&sm=fit"
+    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dwa8255602/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_M_01.jpg"
   },
   {
     name: "Eros Najim Eau de Parfum 100ml",
@@ -2765,7 +2885,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 1395,
+    priceUSD: 1230,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17promax-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=WkVhZXB4WmFzZmdNeXA3cHg3WUZFU0tjazZmSzdrSHdxTW9VUlF0akdCdXpMQytuUEM4Wm5vMWRha0N0RzdPQ3pGbHdxTU5oSkkwKzZZOXF0cVNPL1V0RmgycTRGTHI3SUVxVFVFNFI5QzhTREFXd29VYUtwRlRqTkI5dnBWdWo"
   },
   {
@@ -2773,7 +2893,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 1235,
+    priceUSD: 1150,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17pro-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=ekJPc2lPUlRuRk50SkcyOVdnU1d0TjFla0N0Znl3UThxdjB3SW91ZDVJd0Z3aHFxUnRBUUlIa1B4eXlTTWdWdW8xUkhYejcxalRvY0FPQVpMcmoxMDlLQzdVZ2V3VnpqcXFKTGxlK1dFUXloSUZXMXhpaFRiaTdERUcxSFVMVW4"
   },
   {
@@ -2781,23 +2901,15 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 785,
+    priceUSD: 950,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=SVhTK013TmU5bXcxZm9yb0hnWkxGZlRhSXFkOFhqdTgvUmc4VitXa2VzZUU5aWg1WE9Xd3BOSWtnNzkvSWZLd0ZGMGUwb1Y3aUJoOFNtZnEvQXJFMEJYVzFZSG9ORXhsSkhTN0hjejcrL1BtdndTWEVueTdGZTlOS1ZyVjMxMWg"
-  },
-  {
-    name: "iPhone 17e 256GB",
-    brand: "Apple",
-    gender: "",
-    category: "eletronics",
-    priceUSD: 575,
-    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17e-digitalmat-gallery-1-202603?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=V2Q5d3RGR1VSMVluZDJuckR0by9tbTYrc3EwZ1VoVGgyY0J1bS9COCtualdteHpCT3VZMkN0cmZhUU1rOU1zdlFuOTJXc2JVdks4czlZWHJTOHkzNkJTMGN6VkRyenRpcEpmbm0wRWxLNFZtNEJNTzBQNjlJbzJXSko1RXZ0MkY"
   },
   {
     name: "iPhone Air 256GB",
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 940,
+    priceUSD: 945,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-unselect-gallery-1-202509?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUpaQVl1bitSNmJWZUdKdi9QZHhsR3J2UHBBV3orM3VMYVQ4cFJXZmQxV3pMQytuUEM4Wm5vMWRha0N0RzdPQ3F2TWlpSzUzejRCZGt2SjJUNGl1VEE4bm1RcmlWRWp2eDN1WHNkSjNmUllkbVpNWnluMHFQejlPZEhiemdDMFA&traceId=1"
   },
   {
