@@ -988,8 +988,32 @@ export const products = [
     brand: "Carolina Herrera",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 90,
+    priceUSD: 86,
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h4f/hc4/10358881353758/INGR-GG-B/INGR-GG-B.jpg"
+  },
+  {
+    name: "Good Girl Blush Elixir Eau de Parfum 80ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 90,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h4e/hc7/10358881419294/INGR-GG-BE/INGR-GG-BE.jpg"
+  },
+  {
+    name: "Very Good Girl Eau de Parfum 80ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h0f/hc8/10358881484830/INGR-GG-V/INGR-GG-V.jpg"
+  },
+  {
+    name: "Very Good Girl Elixir Eau de Parfum 80ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 90,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/hbc/h25/10366047879198/FRAG-VGGE-Editorial-Gallery-03-4/FRAG-VGGE-Editorial-Gallery-03-4.jpg"
   },
   {
     name: "La Bomba Eau de Parfum 80ml",
@@ -997,7 +1021,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 100,
-    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw0eaf5f31/images/hi-res-BR/Frag/Nova%20pasta/Wesley/_8411061113134_0065219238_5_1000px.jpg?sw=556&sh=680&sm=fit"
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/hc8/h56/10969478463518/Editorial_LaBomba_Ingredient/Editorial-LaBomba-Ingredient.jpg"
   },
   {
     name: "La Bomba Loção Hidratante 200ml",
