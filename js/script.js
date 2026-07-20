@@ -50,7 +50,7 @@ window.filterProducts = function(filter) {
   if (filter === 'all') return renderProducts(products);
   var filtered;
 
-  if ((filter === 'feminino') || (filter === 'masculino')) {
+  if ((filter === 'feminino') || (filter === 'masculino') || (filter === 'unissex')) {
     filtered = products.filter(p => p.gender === filter);
   } else {
     filtered = products.filter(p => p.category === filter);

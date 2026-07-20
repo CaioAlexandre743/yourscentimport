@@ -1,4 +1,12 @@
-export const products = [   
+export const products = [  
+  {
+    name: "Bahiya Garnet Arabiyat Prestige Eau de Parfum 100ml",
+    brand: "Arabiyat",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 48,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.113759.avif"
+  },  
   {
     name: "Afeef 100ml",
     brand: "Lattafa",
@@ -464,6 +472,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_7d5801be-0a5e-4ac4-bffc-3bee4a3c7a6b.png?v=1756143162&width=810"
   },
   {
+    name: "Pisa Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_60a38398-ea52-430f-9137-fa446e93aa54.png?v=1747548376&width=810"
+  },
+  {
     name: "Queen Of Arabia 100ml",
     brand: "Lattafa",
     gender: "feminino",
@@ -502,6 +518,14 @@ export const products = [
     category: "perfume",
     priceUSD: 30,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Victoria-1_5951ef1c-61de-4bd1-9d5f-1d2b3d1c18cc.png?v=1747417320&width=810"
+  },
+  {
+    name: "Vintage Radio Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_e79a03d9-b9c0-4660-b6eb-3a1ff39f02f0.png?v=1749326347&width=810"
   },
   {
     name: "Yara 100ml",
@@ -622,6 +646,22 @@ export const products = [
     category: "perfume",
     priceUSD: 16,
     image: "https://www.alwataniah.com/cdn/shop/files/shagaf-al-ward.png?v=1759755041&width=600"
+  },  
+  {
+    name: "Club de Nuit Iconic Eau de Parfum 105ml",
+    brand: "ARMAF",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://armaf.com/cdn/shop/files/35721_6.png?v=1767893940&width=600"
+  },
+  {
+    name: "Club de Nuit Intense Man Eau de Toilette 105ml",
+    brand: "ARMAF",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://armaf.com/cdn/shop/files/Q-106DCLUBDENUITINTENSE_M_FIF_900x_f04752b1-087d-4206-8985-e13e96c5896d.webp?v=1762289750&width=700"
   },
   {
     name: "Club de Nuit Lionheart Eau de Parfum 100ml",
@@ -640,28 +680,60 @@ export const products = [
     image: "https://armaf.com/cdn/shop/files/CLUBDENUITLIONHEARTWOMAN...png?v=1765210005&width=700"
   },
   {
-    name: "Club de Nuit Iconic Eau de Parfum 105ml",
-    brand: "ARMAF",
-    gender: "masculino",
-    category: "perfume",
-    priceUSD: 35,
-    image: "https://armaf.com/cdn/shop/files/35721_6.png?v=1767893940&width=600"
-  },
-  {
-    name: "Club de Nuit Intense Man Eau de Toilette 105ml",
-    brand: "ARMAF",
-    gender: "masculino",
-    category: "perfume",
-    priceUSD: 30,
-    image: "https://armaf.com/cdn/shop/files/Q-106DCLUBDENUITINTENSE_M_FIF_900x_f04752b1-087d-4206-8985-e13e96c5896d.webp?v=1762289750&width=700"
-  },
-  {
     name: "Club de Nuit Maleka Eau de Parfum 105ml",
     brand: "ARMAF",
     gender: "feminino",
     category: "perfume",
     priceUSD: 35,
     image: "https://armaf.com/cdn/shop/files/CDNMALEKA_900x_678cfb46-d6f1-4ca5-8c50-b3c2b439ce5d.webp?v=1762298770&width=700"
+  },
+  {
+    name: "Club de Nuit Milestone Eau de Parfum 105ml",
+    brand: "ARMAF",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 28,
+    image: "https://armaf.com/cdn/shop/files/CDN_Milestone_1.png?v=1775849162&width=600"
+  },
+  {
+    name: "Club de Nuit Precieux I Eau de Parfum 55ml",
+    brand: "ARMAF",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://armaf.com/cdn/shop/files/55.png?v=1758574164&width=600"
+  },
+  {
+    name: "Club de Nuit Precieux IV Eau de Parfum 55ml",
+    brand: "ARMAF",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 54,
+    image: "https://armaf.com/cdn/shop/files/image-2025-09-17T084529.224_1_900x_c53a105f-0b5f-44e5-aeb2-22417c136476.webp?v=1763769810&width=600"
+  },
+  {
+    name: "Club de Nuit Sillage Eau de Parfum 105ml",
+    brand: "ARMAF",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 28,
+    image: "https://armaf.com/cdn/shop/files/club_de_nuit_sillage_36.webp?v=1781304017&width=600"
+  },
+  {
+    name: "Club de Nuit Untold Eau de Parfum 105ml",
+    brand: "ARMAF",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://armaf.com/cdn/shop/files/image-2022-12-05T152232.929_76c8d1c7-16b6-4e7c-b70f-e8b6e35ab5f3.jpg?v=1752061921&width=600"
+  },
+  {
+    name: "Club de Nuit Urban Man Elixir Eau de Parfum 105ml",
+    brand: "ARMAF",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://armaf.com/cdn/shop/files/66.png?v=1758576197&width=600"
   },
   {
     name: "Club de Nuit Woman Eau de Parfum 105ml",
@@ -704,12 +776,28 @@ export const products = [
     image: "https://armaf.com/cdn/shop/files/Untitled_design_-_2025-09-24T035821.025.png?v=1758668332&width=600"
   },
   {
+    name: "Odyssey Artisto Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 33,
+    image: "https://armaf.com/cdn/shop/files/ODYSSEYARTISTO2_f490a3fd-b87b-4f1d-9926-656cc50fb12e.png?v=1767893651&width=600"
+  },
+  {
     name: "Odyssey Candee Eau de Parfum 100ml",
     brand: "ARMAF",
     gender: "feminino",
     category: "perfume",
     priceUSD: 21,
     image: "https://armaf.com/cdn/shop/files/armafbeach_11.png?v=1744408386&width=600"
+  },
+  {
+    name: "Odyssey Go Mango Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://armaf.com/cdn/shop/files/ODYSSEYGOMANGO2.png?v=1767893488&width=600"
   },
   {
     name: "Odyssey Limoni Fresh Edition Eau de Parfum 100ml",
@@ -728,12 +816,36 @@ export const products = [
     image: "https://armaf.com/cdn/shop/files/odysseymandarinsky-bottle.jpg?v=1739111516&width=700"
   },
   {
+    name: "Odyssey Mandarin Sky Elixir Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 33,
+    image: "https://armaf.com/cdn/shop/files/Untitleddesign_74.png?v=1749140075&width=600"
+  },
+  {
+    name: "Odyssey Mega Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 22,
+    image: "https://armaf.com/cdn/shop/files/image-2023-05-19T085855.929.jpg?v=1739111579&width=600"
+  },
+  {
     name: "The Lion's Club Feroce Eau de Parfum 100ml",
     brand: "ARMAF",
     gender: "masculino",
     category: "perfume",
     priceUSD: 33,
     image: "https://armaf.com/cdn/shop/files/70.png?v=1758572312&width=600"
+  },
+  {
+    name: "The Lion's Club Rugir Eau de Parfum 100ml",
+    brand: "ARMAF",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://armaf.com/cdn/shop/files/72.png?v=1758572192&width=600"
   },
   {
     name: "Yum Yum Eau de Parfum 100ml",
@@ -922,14 +1034,6 @@ export const products = [
   {
     name: "212 Eau de Toilette 100ml",
     brand: "Carolina Herrera",
-    gender: "feminino",
-    category: "perfume",
-    priceUSD: 70,
-    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/hb7/he3/10773134508062/10773134442526/10773134442526.jpg"
-  },
-  {
-    name: "212 Eau de Toilette 100ml",
-    brand: "Carolina Herrera",
     gender: "masculino",
     category: "perfume",
     priceUSD: 70,
@@ -952,12 +1056,36 @@ export const products = [
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h9c/h30/10773098070046/10773098004510/10773098004510.jpg"
   },
   {
+    name: "212 Vip Black Elixir Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 73,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=1000%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/ha3/h56/10773160493086/10773160427550/10773160427550.jpg"
+  },
+  {
+    name: "212 Eau de Toilette 100ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/hb7/he3/10773134508062/10773134442526/10773134442526.jpg"
+  },
+  {
     name: "212 Vip Rosé Eau de Parfum 80ml",
     brand: "Carolina Herrera",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 71,
+    priceUSD: 73,
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h9b/h27/10773145813022/10773145747486/10773145747486.jpg"
+  },
+  {
+    name: "212 Vip Rosé Elixir Eau de Parfum 80ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 78,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=1000%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/ha0/hde/10773118189598/10773118124062/10773118124062.jpg"
   },
   {
     name: "Bad Boy Eau de Toilette 100ml",
@@ -1158,6 +1286,22 @@ export const products = [
     category: "perfume",
     priceUSD: 59,
     image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/17084394-a7c3-4ae3-9b6a-dda7e3d6c419/psfkbm/std/765x1040/cover?format=auto"
+  },
+  {
+    name: "K Eau de Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 66,
+    image: "https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dw4a6f06a4/images/zoom/VP001UVP000_9V000_1.jpg?sw=517&sh=659"
+  },
+  {
+    name: "Q Eau de Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 56,
+    image: "https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dwb32be5ed/images/zoom/VP003BVP000_9V000_1.jpg?sw=517&sh=659"
   },
   {
     name: "Sweet Tooth Eau de Parfum 75ml",
