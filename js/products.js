@@ -568,6 +568,70 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_5fe75433-0467-4d06-87e9-d9e81ac2da00.png?v=1749487600&width=810"
   },
   {
+    name: "9am Dive Eau de Parfum 100ml",
+    brand: "Afnan",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 24,
+    image: "https://afnan.com/cdn/shop/files/9am_Dive_-_1080X1080-2_1_1.png?v=1776345500&width=1000"
+  },
+  {
+    name: "9am Pour Femme Eau de Parfum 100ml",
+    brand: "Afnan",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://afnan.com/cdn/shop/files/22_9AM.jpg?v=1727708698&width=800"
+  },
+  {
+    name: "9pm Eau de Parfum 100ml",
+    brand: "Afnan",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 23,
+    image: "https://afnan.com/cdn/shop/files/24_9PM.jpg?v=1776345501&width=1000"
+  },
+  {
+    name: "9pm Night Out Extrait de Parfum 100ml",
+    brand: "Afnan",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 43,
+    image: "https://afnan.com/cdn/shop/files/73.png?v=1768480402&width=800"
+  },
+  {
+    name: "9pm Pour Femme Eau de Parfum 100ml",
+    brand: "Afnan",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://afnan.com/cdn/shop/files/30-9PM_Femme.jpg?v=1727708684&width=800"
+  },
+  {
+    name: "Souvenir Desert Rose Eau de Parfum 100ml",
+    brand: "Afnan",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://afnan.com/cdn/shop/files/06-SouvenirDesert.jpg?v=1727708150&width=800"
+  }, 
+  {
+    name: "Souvenir Floral Bouquet Eau de Parfum 100ml",
+    brand: "Afnan",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 31,
+    image: "https://afnan.com/cdn/shop/files/08-SouvenirFloral.jpg?v=1727708167&width=800"
+  },
+  {
+    name: "Supremacy Collectors Eau de Parfum 100ml",
+    brand: "Afnan",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 49,
+    image: "https://afnan.com/cdn/shop/files/STILL_Afnan_Collectors_04_CLEAN_SQUARE_01_1.png?v=1776345506&width=1000"
+  },
+  {
     name: "Ameerati 100ml",
     brand: "Al Wataniah",
     gender: "feminino",

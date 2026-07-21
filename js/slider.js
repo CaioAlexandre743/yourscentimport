@@ -77,6 +77,13 @@ export const slidesData = [
     link: ""
   },
   {
+    image: "https://afnan.com/cdn/shop/files/Hero-web_1_3.png?v=1776686158&width=1600",
+    title: "",
+    description: "",
+    button: "",
+    link: ""
+  },  
+  {
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=1920,quality=90,format=avif/medias/sys_master/images/hb1/h79/10686246223902/slideshow-SC-ELIXIR/slideshow-SC-ELIXIR.jpg",
     title: "",
     description: "",
