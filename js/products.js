@@ -2785,6 +2785,94 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/51utpRckeQL._AC_SX522_.jpg"
   },
   {
+    name: "CER-100 Collagen Ceramide Coating Protein 100ml",
+    brand: "Elizavecca",
+    gender: "Creme Capilar",
+    category: "selfcare",
+    priceUSD: 15,
+    image: "https://m.media-amazon.com/images/I/61vnBaCwh+L._AC_SX522_.jpg"
+  },
+  {
+    name: "CER-100 Collagen Coating Hair Muscle 500ml",
+    brand: "Elizavecca",
+    gender: "Shampoo",
+    category: "selfcare",
+    priceUSD: 24,
+    image: "https://m.media-amazon.com/images/I/51kaKrmlqtL._AC_SX522_.jpg"
+  },
+  {
+    name: "CER-100 para Cachos 120ml",
+    brand: "Elizavecca",
+    gender: "Creme Capilar",
+    category: "selfcare",
+    priceUSD: 19,
+    image: "https://m.media-amazon.com/images/I/71bfrUsw9IL._AC_SX522_.jpg"
+  },
+  {
+    name: "CER-100 Proteína Ionizada e Colágeno 50ml",
+    brand: "Elizavecca",
+    gender: "Máscara Capilar",
+    category: "selfcare",
+    priceUSD: 12,
+    image: "https://m.media-amazon.com/images/I/51jKsblolfL._AC_SX522_.jpg"
+  },
+  {
+    name: "Máscara Capilar Profissional 230g",
+    brand: "Fino",
+    gender: "Máscara Capilar",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/616ZVETfpuL._AC_SX522_.jpg"
+  },
+  {
+    name: "Premium Touch 550ml",
+    brand: "Fino",
+    gender: "Shampoo",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/51IUUksIUFL._AC_SY741_.jpg"
+  },
+  {
+    name: "Premium Touch Hair Oil 70ml",
+    brand: "Fino",
+    gender: "Óleo Capilar",
+    category: "selfcare",
+    priceUSD: 19,
+    image: "https://m.media-amazon.com/images/I/41F5rEkszdL._AC_SY879_.jpg"
+  },
+  {
+    name: "Premium Touch Hair Oil Serum Airy Smooth 70ml",
+    brand: "Fino",
+    gender: "Óleo Capilar",
+    category: "selfcare",
+    priceUSD: 17,
+    image: "https://m.media-amazon.com/images/I/51oNq9Xh14L._AC_SX522_.jpg"
+  },
+  {
+    name: "Grow Turn Exosome Brush Ampoule 100ml",
+    brand: "Lilyeve",
+    gender: "Tratamento Capilar",
+    category: "selfcare",
+    priceUSD: 30,
+    image: "https://m.media-amazon.com/images/I/518v56fAvDL._AC_SY741_.jpg"
+  },
+  {
+    name: "Scalp Turn Cica PDRN Brush Ampoule 100ml",
+    brand: "Lilyeve",
+    gender: "Tratamento Capilar",
+    category: "selfcare",
+    priceUSD: 31,
+    image: "https://epocacosmeticos.vteximg.com.br/arquivos/ids/2363407-450-450/8809964311694--2.jpg?v=639166180863930000"
+  },
+  {
+    name: "Scalp Turn Cica PDRN Deep Clean 500ml",
+    brand: "Lilyeve",
+    gender: "Shampoo",
+    category: "selfcare",
+    priceUSD: 36,
+    image: "https://m.media-amazon.com/images/I/51YFUIEZ+XL._SX466_.jpg"
+  },
+  {
     name: "Age-R Booster Pro",
     brand: "Medicube",
     gender: "Rejuvenescedor Facial",
