@@ -1560,6 +1560,22 @@ export const products = [
     image: "https://media.gucci.com/style/HEXFBFBFB_South_0_160_640x640/1717777056/792056_99999_0099_001_100_0000_Light.jpg"
   },
   {
+    name: "L'Eau D'Issey Eau de Toilette 100ml",
+    brand: "Issey Miyake",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://m.media-amazon.com/images/I/61ap2RwmkkL._AC_SX522_.jpg"
+  },
+  {
+    name: "L'Eau D'Issey Pour Homme Eau de Toilette 125ml",
+    brand: "Issey Miyake",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 45,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.721.avif"
+  },
+  {
     name: "Divine Couture Eau de Parfum 100ml",
     brand: "Jean Paul Gaultier",
     gender: "feminino",
