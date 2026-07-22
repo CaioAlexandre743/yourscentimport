@@ -2823,7 +2823,7 @@ export const products = [
     category: "perfume",
     priceUSD: 77,
     image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw799ca260/images/hi-res-BR/Frag/Nova%20pasta/Maria%20Helena%202.0/New%20Folder/MA%202.0/MA%203.0/8011003895755-1.png?sw=556&sh=680&sm=fit"
-  },
+  },    
   {
     name: "Deep Moist 440ml",
     brand: "&honey",
@@ -2831,6 +2831,14 @@ export const products = [
     category: "selfcare",
     priceUSD: 34,
     image: "https://epocacosmeticos.vteximg.com.br/arquivos/ids/1193567-450-450/4589546890758-01.jpg?v=638979494744600000"
+  },
+  {
+    name: "Deep Moist Hair Oil 100ml",
+    brand: "&honey",
+    gender: "Óleo Capilar",
+    category: "selfcare",
+    priceUSD: 33,
+    image: "https://elausa.com.br/media/catalog/product/cache/6b43fd4dce2c19d548b80844c5c1dd03/s/t/step_3_hair_deep_moist.jpg"
   },
   {
     name: "Melty Moist Repair 400ml",
@@ -2841,12 +2849,60 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/61YpwV6DtrL._AC_SX522_.jpg"
   },
   {
+    name: "Melty Moist Repair Hair pack 130g",
+    brand: "&honey",
+    gender: "Máscara Capilar",
+    category: "selfcare",
+    priceUSD: 39,
+    image: "https://elausa.com.br/media/catalog/product/cache/6b43fd4dce2c19d548b80844c5c1dd03/m/e/melty.jpg"
+  },
+  {
     name: "Milky Precious Ex Repair 500ml",
     brand: "&honey",
     gender: "Shampoo",
     category: "selfcare",
     priceUSD: 34,
     image: "https://epocacosmeticos.vteximg.com.br/arquivos/ids/1190925-450-450/4589546897122-2.jpg?v=638978730797030000"
+  },
+  {
+    name: "Milky Precious Ex Repair Hair Oil 105ml",
+    brand: "&honey",
+    gender: "Óleo Capilar",
+    category: "selfcare",
+    priceUSD: 33,
+    image: "https://elausa.com.br/media/catalog/product/cache/6b43fd4dce2c19d548b80844c5c1dd03/m/i/milky_oil.jpg"
+  },
+  {
+    name: "Milky Precious Ex Repair Hair Pack 130g",
+    brand: "&honey",
+    gender: "Máscara Capilar",
+    category: "selfcare",
+    priceUSD: 39,
+    image: "https://elausa.com.br/media/catalog/product/cache/6b43fd4dce2c19d548b80844c5c1dd03/s/t/step_1.5_milk.jpg"
+  },
+  {
+    name: "Moist Shine Hair Oil 100ml",
+    brand: "&honey",
+    gender: "Óleo Capilar",
+    category: "selfcare",
+    priceUSD: 33,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_878285-MLB82036844334_022025-F--honey-moist-shine-hair-oil-30--100ml-original.webp"
+  },
+  {
+    name: "Osmanthus Honey Deep Moist 500ml",
+    brand: "&honey",
+    gender: "Gel de Banho",
+    category: "selfcare",
+    priceUSD: 27,
+    image: "https://elausa.com.br/media/catalog/product/cache/6b43fd4dce2c19d548b80844c5c1dd03/b/o/body_wash.jpg"
+  },
+  {
+    name: "Pixie Moist Silky Hair Oil 100ml",
+    brand: "&honey",
+    gender: "Óleo Capilar",
+    category: "selfcare",
+    priceUSD: 36,
+    image: "https://elausa.com.br/media/catalog/product/cache/6b43fd4dce2c19d548b80844c5c1dd03/_/h/_honey_-_pixie_moist_silky_-_hair_oil_step_3.0_100ml.png"
   },
   {
     name: "Pore + Dark Spot Brightening Cream 35ml",
