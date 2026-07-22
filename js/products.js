@@ -1808,12 +1808,28 @@ export const products = [
     image: "https://www.lancome.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-lancome-latam-master-catalog/pt_BR/dw382de1a9/images/fragance/LVEB/LABR00027-LAC/3605533286555.03.jpg?sw=258&sh=258&sm=cut&sfrm=jpg&q=70"
   },
   {
+    name: "Athena Eau de Parfum 100ml",
+    brand: "Maison Alhambra",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 22,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.103018.avif"
+  },
+  {
     name: "Avant Eau de Parfum 100ml",
     brand: "Maison Alhambra",
     gender: "masculino",
     category: "perfume",
     priceUSD: 23,
-    image: "https://acdn-us.mitiendanube.com/stores/001/216/674/products/avant-6f3d0170b8f437de2917272023472425-1024-1024.webp"
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.92621.avif"
+  },
+  {
+    name: "Chants Tenderina Eau de Parfum 100ml",
+    brand: "Maison Alhambra",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 18,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.89034.avif"
   },
   {
     name: "Como Moiselle Eau de Parfum 100ml",
@@ -1824,13 +1840,37 @@ export const products = [
     image: "https://acdn-us.mitiendanube.com/stores/001/487/363/products/fotos-site-63-8fd4376ccd35ffb6af17703190277984-640-0.webp"
   },
   {
+    name: "Delilah Blanc Eau de Parfum 100ml",
+    brand: "Maison Alhambra",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 22,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.109599.avif"
+  },
+  {
     name: "Delilah Pour Femme Eau de Parfum 100ml",
     brand: "Maison Alhambra",
     gender: "feminino",
     category: "perfume",
     priceUSD: 28,
     image: "https://acdn-us.mitiendanube.com/stores/001/487/363/products/whatsapp-image-2024-03-20-at-10-05-36-d6c64e36789ac7566917109399486561-640-0.webp"
-  },  
+  }, 
+  {
+    name: "L'Intrude Eau de Parfum 100ml",
+    brand: "Maison Alhambra",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 16,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.93651.avif"
+  },
+  {
+    name: "La Vivacité Eau de Parfum 100ml",
+    brand: "Maison Alhambra",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 18,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.100488.avif"
+  }, 
   {
     name: "Rose Seduction Vip Eau de Parfum 100ml",
     brand: "Maison Alhambra",
