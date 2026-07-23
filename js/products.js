@@ -3446,7 +3446,7 @@ export const products = [
     gender: "Bivolt",
     category: "eletronics",
     priceUSD: 170,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/robo_de_limpeza_xiaomi_robot_vacuum_s20_bivolt_176789_550x550.png"
+    image: "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/55/51/5551_robo-aspirador-de-po-inteligente-s20-xiaomi-branco-prin_z1_638593409521257448.webp"
   },
   {
     name: "Aspirador de Pó S40",
@@ -3454,7 +3454,7 @@ export const products = [
     gender: "Bivolt",
     category: "eletronics",
     priceUSD: 159,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/robo_de_limpeza_xiaomi_robot_vacuum_s40_bivolt_193364_53dcb945-0c0b-401d-8caa-7b6f53d0a8c9.webp"
+    image: "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/24/85/24850_robo-aspirador-de-po-inteligente-s40-xiaomi-mapeamento-lds-prin_z1_638993210202671586.webp"
   },
   {
     name: "Aspirador de Pó S40C",
@@ -3462,7 +3462,7 @@ export const products = [
     gender: "Bivolt",
     category: "eletronics",
     priceUSD: 145,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/robo_de_limpeza_xiaomi_robot_vacuum_s40c_bivolt_190114_2529f0aa-10db-42c8-ba46-2c7c52f51873.webp"
+    image: "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/13/57/13576_robo-aspirador-de-po-inteligente-s40c-xiaomi-prin_z1_638888032775545391.webp"
   },
   {
     name: "Aspirador de Pó H40",
@@ -3470,7 +3470,7 @@ export const products = [
     gender: "110v",
     category: "eletronics",
     priceUSD: 280,
-    image: "https://media-production-bucket.us-southeast-1.linodeobjects.com/com/media/fotos/modelos/robo_de_limpeza_xiaomi_robot_vacuum_h40_110v_198604_fc943e9f-3ae7-451d-b24d-4dc7b4e91f9a.avif"
+    image: "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/24/84/24848_robo-aspirador-de-po-xiaomi-h40-c-base-de-autolimpeza-220v-prin_z1_638993214783074876.webp"
   },
   {
     name: "Smart Band 10",
