@@ -8,6 +8,14 @@ export const products = [
     image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.113759.avif"
   },  
   {
+    name: "Raneen Eau de Parfum 80ml",
+    brand: "Asdaaf",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.106906.avif"
+  },
+  {
     name: "Afeef 100ml",
     brand: "Lattafa",
     gender: "unissex",
