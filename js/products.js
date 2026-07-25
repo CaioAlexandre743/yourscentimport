@@ -16,6 +16,14 @@ export const products = [
     image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.106906.avif"
   },
   {
+    name: "Reem Eau de Parfum 100ml",
+    brand: "Asdaaf",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 21,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.137949.avif?t=1784451742"
+  },
+  {
     name: "Afeef 100ml",
     brand: "Lattafa",
     gender: "unissex",
@@ -132,7 +140,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 51,
+    priceUSD: 50,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Atheeri-1_f93156cf-73d9-4455-8540-5665a4312efb.png?v=1747416765&width=810"
   },
   {
@@ -302,6 +310,14 @@ export const products = [
     category: "perfume",
     priceUSD: 35,
     image: "https://www.lattafa-usa.com/cdn/shop/files/4_123eed08-6e96-4ef5-a5b1-3d4970772d9e.png?v=1756513022&width=810"
+  },
+  {
+    name: "Habik for Women Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_84eefc4a-71d7-441a-9559-23cae2c9efc3.png?v=1756361803&width=810"
   },
   {
     name: "Haya 100ml",
@@ -510,6 +526,14 @@ export const products = [
     category: "perfume",
     priceUSD: 35,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Sakeena-1.png?v=1747422013&width=810"
+  },
+  {
+    name: "Taureau de Combat Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/TaureauDeCombatBottle.png?v=1760580414&width=810"
   },
   {
     name: "Tharwah Gold 100ml",
@@ -1024,6 +1048,38 @@ export const products = [
     image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/products/5a689179cc5c2_bottle-collector-jpg.jpg"
   },
   {
+    name: "Eilish Eau de Parfum 100ml",
+    brand: "Billie Eilish",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 68,
+    image: "https://store.billieeilish.com/cdn/shop/files/Eilish_editorial_1.jpg?v=1777503608&width=800"
+  },
+  {
+    name: "Eilish No.2 Eau de Parfum 100ml",
+    brand: "Billie Eilish",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 57,
+    image: "https://store.billieeilish.com/cdn/shop/files/EilishNo2_editorial_2.jpg?v=1777503272&width=800"
+  },
+  {
+    name: "Eilish No.3 Eau de Parfum 100ml",
+    brand: "Billie Eilish",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 78,
+    image: "https://store.billieeilish.com/cdn/shop/files/Eilish_No._3_Key_Notes_1.jpg?v=1777503810&width=1600"
+  },
+  {
+    name: "Your Turn Eau de Parfum 100ml",
+    brand: "Billie Eilish",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 71,
+    image: "https://store.billieeilish.com/cdn/shop/files/YourTurn_editorial_2.jpg?v=1778010555&width=800"
+  },
+  {
     name: "Fantasy Eau de Parfum 100ml",
     brand: "Britney Spears",
     gender: "feminino",
@@ -1120,12 +1176,12 @@ export const products = [
     image: "https://calvinklein.vtexassets.com/arquivos/ids/594325/25392-0_0000_1.jpg?v=637915284582670000"
   },
   {
-    name: "212 Men Eau de Toilette 100ml",
+    name: "212 Eau de Toilette 100ml",
     brand: "Carolina Herrera",
     gender: "masculino",
     category: "perfume",
     priceUSD: 70,
-    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=800%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h16/h86/10969999376414/10969999310878/10969999310878.jpg"
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=400%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/hae/h51/10773115535390/10773115469854/10773115469854.jpg"
   },
   {
     name: "212 Men Sexy Eau de Parfum 100ml",
@@ -1136,12 +1192,12 @@ export const products = [
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=400%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h53/h42/10773055307806/10773055242270/10773055242270.jpg"
   },
   {
-    name: "212 Vip Eau de Parfum 100ml",
+    name: "212 Vip Men Eau de Parfum 100ml",
     brand: "Carolina Herrera",
     gender: "masculino",
     category: "perfume",
     priceUSD: 59,
-    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h21/h2d/10186233610270/10186233544734/10186233544734.jpg"
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=800%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h16/h86/10969999376414/10969999310878/10969999310878.jpg"
   },
   {
     name: "212 Vip Black Eau de Parfum 100ml",
@@ -1173,7 +1229,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 82,
-    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=400%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h53/h42/10773055307806/10773055242270/10773055242270.jpg"
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=800%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h20/heb/10773040758814/10773040693278/10773040693278.jpg"
   },
   {
     name: "212 Vip Rosé Eau de Parfum 80ml",
