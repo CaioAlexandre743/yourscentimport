@@ -472,6 +472,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_fec4173e-be08-4afa-9cf2-4e9e2285d48f.png?v=1747550775&width=810"
   },
   {
+    name: "Nebras Elixir 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://rebaj.vtexassets.com/arquivos/ids/156072-752-auto/Nebras-Elixir.png?v=639160182140800000"
+  },
+  {
     name: "Opulent Dubai Eau de Parfum 100ml",
     brand: "Lattafa",
     gender: "unissex",
@@ -493,7 +501,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 46,
-    image: "https://www.lattafa-usa.com/cdn/shop/files/1_7f791c1f-3d23-4238-8b47-e00f6cbf173a.png?v=1749465557&width=810"
+    image: "https://rebaj.vtexassets.com/arquivos/ids/156062-752-auto/Queen-of-Arabia.png?v=639160181842900000"
   },
   {
     name: "Sakeena Eau de Parfum 100ml",
@@ -517,7 +525,15 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 30,
-    image: "https://www.lattafa-usa.com/cdn/shop/files/The-Kingdom-Men-1_ecd1b262-1319-4fee-846b-8b6f30939677.png?v=1747416549&width=810"
+    image: "https://rebaj.vtexassets.com/arquivos/ids/156042-752-auto/The-Kingdom-Men.png?v=639160181510170000"
+  },
+  {
+    name: "The Kingdom Women Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 23,
+    image: "https://rebaj.vtexassets.com/arquivos/ids/156163-752-auto/The-Kingdom-Women.png?v=639160183871770000"
   },
   {
     name: "Victoria Eau de Parfum 100ml",
@@ -1104,12 +1120,20 @@ export const products = [
     image: "https://calvinklein.vtexassets.com/arquivos/ids/594325/25392-0_0000_1.jpg?v=637915284582670000"
   },
   {
-    name: "212 Eau de Toilette 100ml",
+    name: "212 Men Eau de Toilette 100ml",
     brand: "Carolina Herrera",
     gender: "masculino",
     category: "perfume",
     priceUSD: 70,
-    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/hae/h51/10773115535390/10773115469854/10773115469854.jpg"
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=800%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h16/h86/10969999376414/10969999310878/10969999310878.jpg"
+  },
+  {
+    name: "212 Men Sexy Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 65,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=400%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h53/h42/10773055307806/10773055242270/10773055242270.jpg"
   },
   {
     name: "212 Vip Eau de Parfum 100ml",
@@ -1142,6 +1166,14 @@ export const products = [
     category: "perfume",
     priceUSD: 70,
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/hb7/he3/10773134508062/10773134442526/10773134442526.jpg"
+  },
+  {
+    name: "212 Sexy Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 82,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=400%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h53/h42/10773055307806/10773055242270/10773055242270.jpg"
   },
   {
     name: "212 Vip Rosé Eau de Parfum 80ml",
