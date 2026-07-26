@@ -1262,7 +1262,15 @@ export const products = [
     category: "perfume",
     priceUSD: 73,
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/root/hb0/hc9/9913975177246/CH-BB-COB-7-RESIZE/CH-BB-COB-7-RESIZE.jpg"
-  },  
+  },
+  {
+    name: "CH Insignia Leather Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 56,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=800%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h85/hd8/9967691104286/9967691038750/9967691038750.jpg"
+  },
   {
     name: "Good Girl Eau de Parfum 80ml",
     brand: "Carolina Herrera",
@@ -1286,6 +1294,14 @@ export const products = [
     category: "perfume",
     priceUSD: 90,
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h4e/hc7/10358881419294/INGR-GG-BE/INGR-GG-BE.jpg"
+  },
+  {
+    name: "Good Girl Jasmine Absolute Eau de Parfum 80ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 97,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=400%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h36/hf6/10708636925982/INGR-GG-JA-LANDING%20copia/INGR-GG-JA-LANDING-copia.jpg"
   },
   {
     name: "Very Good Girl Eau de Parfum 80ml",
@@ -1440,12 +1456,28 @@ export const products = [
     image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/a9ebc5c2-abad-43cc-a496-0674c7e52bb3/jbptyw/std/765x1040/cover?format=auto"
   },
   {
+    name: "Light Blue Capri in Love Eau De Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 77,
+    image: "https://d2dalh4h075hii.cloudfront.net/wp-content/uploads/2025/05/dolce-and-gabbana-beauty-light-blue-campaign-2025-theo-james-vittoria-ceretti-22.jpg"
+  },
+  {
     name: "Light Blue Eau De Toilette 100ml",
     brand: "Dolce & Gabbana",
     gender: "masculino",
     category: "perfume",
     priceUSD: 59,
     image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/17084394-a7c3-4ae3-9b6a-dda7e3d6c419/psfkbm/std/765x1040/cover?format=auto"
+  },
+  {
+    name: "Light Blue Capri in Love Eau De Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 73,
+    image: "https://d2dalh4h075hii.cloudfront.net/wp-content/uploads/2025/05/dolce-and-gabbana-beauty-light-blue-campaign-2025-theo-james-vittoria-ceretti-23.jpg"
   },
   {
     name: "K Eau de Parfum 100ml",
@@ -2248,6 +2280,14 @@ export const products = [
     image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/haa/h22/10733387612190/10733387546654/10733387546654.png"
   },
   {
+    name: "Fame In Love Elixir Eau de Parfum 80ml",
+    brand: "Paco Rabanne",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 89,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h4b/he2/10703643115550/10703643050014/10703643050014.jpg"
+  },
+  {
     name: "Fame Parfum 80ml",
     brand: "Paco Rabanne",
     gender: "feminino",
@@ -2414,6 +2454,14 @@ export const products = [
     category: "perfume",
     priceUSD: 66,
     image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/ha5/h54/10733463076894/10733463011358/10733463011358.png"
+  },
+  {
+    name: "Phantom In Red Elixir Eau de Parfum 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 75,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h34/h70/10697972252702/10697972187166/10697972187166.jpg"
   },
   {
     name: "Phantom Parfum 100ml",
