@@ -1440,6 +1440,14 @@ export const products = [
     image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/611f5e6a-fd48-45f2-bcd6-867ec930ad70/7waspk/std/0x0/COVER"
   },
   {
+    name: "Devotion Intense Eau de Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/baffcf1c-b446-4c0c-afa8-80912ec6b88d/abvf6d/std/650x830/cover?format=auto"
+  },
+  {
     name: "Devotion Pour Homme Eau de Parfum 100ml",
     brand: "Dolce & Gabbana",
     gender: "masculino",
@@ -2526,6 +2534,14 @@ export const products = [
     category: "perfume",
     priceUSD: 115,
     image: "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/med/dd453bace176f38d94668e712ea8f838c3574001.webp"
+  },
+  {
+    name: "Paradigme Eau de Parfum 100ml",
+    brand: "Prada",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 90,
+    image: "https://www.prada.com/content/dam/pradabkg_products/2/2A1/2A1451/2H0QF0Z99/2A1451_2H0Q_F0Z99_P_ML100_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg"
   },
   {
     name: "Hawas Black Eau de Parfum 100ml",
