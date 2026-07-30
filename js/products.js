@@ -420,7 +420,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 30,
+    priceUSD: 32,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_56ca40c3-8a27-4c18-93a1-3e43627efcc9.png?v=1759429729&width=810"
   },
   {
@@ -476,7 +476,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 35,
+    priceUSD: 33,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Musamam-White-1.png?v=1747416325&width=810"
   },
   {
@@ -516,7 +516,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 46,
+    priceUSD: 48,
     image: "https://rebaj.vtexassets.com/arquivos/ids/156062-752-auto/Queen-of-Arabia.png?v=639160181842900000"
   },
   {
@@ -540,7 +540,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 40,
+    priceUSD: 43,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_7b2f7e1d-2e42-4c34-b998-bc64f72be48f.png?v=1749326219&width=810"
   },
   {
