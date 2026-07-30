@@ -228,7 +228,7 @@ export const products = [
     brand: "Lattafa",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 27,
+    priceUSD: 24,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_aa0a5a38-775b-4814-a909-837c1d360d9c.png?v=1747500778&width=810"
   },
   {
@@ -244,7 +244,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 23,
+    priceUSD: 21,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_f62c90bc-f6e9-4202-b755-e33db925e687.png?v=1749465623&width=810"
   },
   {
@@ -308,7 +308,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 26,
+    priceUSD: 25,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Haya-1.png?v=1747421439&width=810"
   },
   {
@@ -332,7 +332,7 @@ export const products = [
     brand: "Lattafa",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 34,
+    priceUSD: 32,
     image: "https://www.lattafa-usa.com/cdn/shop/files/His-Confession-1_2614a68d-8561-4a94-9c54-7739ae06f986.png?v=1747415996&width=810"
   },
   {
