@@ -16,6 +16,14 @@ export const products = [
     image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.106906.avif"
   },
   {
+    name: "Reem Eau de Parfum 100ml",
+    brand: "Asdaaf",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 21,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.137949.avif?t=1784451742"
+  },
+  {
     name: "Afeef 100ml",
     brand: "Lattafa",
     gender: "unissex",
@@ -132,7 +140,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 51,
+    priceUSD: 50,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Atheeri-1_f93156cf-73d9-4455-8540-5665a4312efb.png?v=1747416765&width=810"
   },
   {
@@ -304,6 +312,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/4_123eed08-6e96-4ef5-a5b1-3d4970772d9e.png?v=1756513022&width=810"
   },
   {
+    name: "Habik for Women Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_84eefc4a-71d7-441a-9559-23cae2c9efc3.png?v=1756361803&width=810"
+  },
+  {
     name: "Haya 100ml",
     brand: "Lattafa",
     gender: "feminino",
@@ -472,6 +488,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_fec4173e-be08-4afa-9cf2-4e9e2285d48f.png?v=1747550775&width=810"
   },
   {
+    name: "Nebras Elixir 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://rebaj.vtexassets.com/arquivos/ids/156072-752-auto/Nebras-Elixir.png?v=639160182140800000"
+  },
+  {
     name: "Opulent Dubai Eau de Parfum 100ml",
     brand: "Lattafa",
     gender: "unissex",
@@ -493,7 +517,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 46,
-    image: "https://www.lattafa-usa.com/cdn/shop/files/1_7f791c1f-3d23-4238-8b47-e00f6cbf173a.png?v=1749465557&width=810"
+    image: "https://rebaj.vtexassets.com/arquivos/ids/156062-752-auto/Queen-of-Arabia.png?v=639160181842900000"
   },
   {
     name: "Sakeena Eau de Parfum 100ml",
@@ -502,6 +526,14 @@ export const products = [
     category: "perfume",
     priceUSD: 35,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Sakeena-1.png?v=1747422013&width=810"
+  },
+  {
+    name: "Taureau de Combat Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/TaureauDeCombatBottle.png?v=1760580414&width=810"
   },
   {
     name: "Tharwah Gold 100ml",
@@ -517,7 +549,15 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 30,
-    image: "https://www.lattafa-usa.com/cdn/shop/files/The-Kingdom-Men-1_ecd1b262-1319-4fee-846b-8b6f30939677.png?v=1747416549&width=810"
+    image: "https://rebaj.vtexassets.com/arquivos/ids/156042-752-auto/The-Kingdom-Men.png?v=639160181510170000"
+  },
+  {
+    name: "The Kingdom Women Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 23,
+    image: "https://rebaj.vtexassets.com/arquivos/ids/156163-752-auto/The-Kingdom-Women.png?v=639160183871770000"
   },
   {
     name: "Victoria Eau de Parfum 100ml",
@@ -1008,6 +1048,38 @@ export const products = [
     image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/products/5a689179cc5c2_bottle-collector-jpg.jpg"
   },
   {
+    name: "Eilish Eau de Parfum 100ml",
+    brand: "Billie Eilish",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 68,
+    image: "https://store.billieeilish.com/cdn/shop/files/Eilish_editorial_1.jpg?v=1777503608&width=800"
+  },
+  {
+    name: "Eilish No.2 Eau de Parfum 100ml",
+    brand: "Billie Eilish",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 57,
+    image: "https://store.billieeilish.com/cdn/shop/files/EilishNo2_editorial_2.jpg?v=1777503272&width=800"
+  },
+  {
+    name: "Eilish No.3 Eau de Parfum 100ml",
+    brand: "Billie Eilish",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 78,
+    image: "https://store.billieeilish.com/cdn/shop/files/Eilish_No._3_Key_Notes_1.jpg?v=1777503810&width=1600"
+  },
+  {
+    name: "Your Turn Eau de Parfum 100ml",
+    brand: "Billie Eilish",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 71,
+    image: "https://store.billieeilish.com/cdn/shop/files/YourTurn_editorial_2.jpg?v=1778010555&width=800"
+  },
+  {
     name: "Fantasy Eau de Parfum 100ml",
     brand: "Britney Spears",
     gender: "feminino",
@@ -1109,15 +1181,23 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 70,
-    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/hae/h51/10773115535390/10773115469854/10773115469854.jpg"
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=400%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/hae/h51/10773115535390/10773115469854/10773115469854.jpg"
   },
   {
-    name: "212 Vip Eau de Parfum 100ml",
+    name: "212 Men Sexy Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 65,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=400%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h53/h42/10773055307806/10773055242270/10773055242270.jpg"
+  },
+  {
+    name: "212 Vip Men Eau de Parfum 100ml",
     brand: "Carolina Herrera",
     gender: "masculino",
     category: "perfume",
     priceUSD: 59,
-    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h21/h2d/10186233610270/10186233544734/10186233544734.jpg"
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=800%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h16/h86/10969999376414/10969999310878/10969999310878.jpg"
   },
   {
     name: "212 Vip Black Eau de Parfum 100ml",
@@ -1142,6 +1222,14 @@ export const products = [
     category: "perfume",
     priceUSD: 70,
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/hb7/he3/10773134508062/10773134442526/10773134442526.jpg"
+  },
+  {
+    name: "212 Sexy Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 82,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=800%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h20/heb/10773040758814/10773040693278/10773040693278.jpg"
   },
   {
     name: "212 Vip Rosé Eau de Parfum 80ml",
@@ -1174,7 +1262,15 @@ export const products = [
     category: "perfume",
     priceUSD: 73,
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/root/hb0/hc9/9913975177246/CH-BB-COB-7-RESIZE/CH-BB-COB-7-RESIZE.jpg"
-  },  
+  },
+  {
+    name: "CH Insignia Leather Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 56,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=800%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h85/hd8/9967691104286/9967691038750/9967691038750.jpg"
+  },
   {
     name: "Good Girl Eau de Parfum 80ml",
     brand: "Carolina Herrera",
@@ -1198,6 +1294,14 @@ export const products = [
     category: "perfume",
     priceUSD: 90,
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h4e/hc7/10358881419294/INGR-GG-BE/INGR-GG-BE.jpg"
+  },
+  {
+    name: "Good Girl Jasmine Absolute Eau de Parfum 80ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 97,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=400%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h36/hf6/10708636925982/INGR-GG-JA-LANDING%20copia/INGR-GG-JA-LANDING-copia.jpg"
   },
   {
     name: "Very Good Girl Eau de Parfum 80ml",
@@ -1336,6 +1440,14 @@ export const products = [
     image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/611f5e6a-fd48-45f2-bcd6-867ec930ad70/7waspk/std/0x0/COVER"
   },
   {
+    name: "Devotion Intense Eau de Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/baffcf1c-b446-4c0c-afa8-80912ec6b88d/abvf6d/std/650x830/cover?format=auto"
+  },
+  {
     name: "Devotion Pour Homme Eau de Parfum 100ml",
     brand: "Dolce & Gabbana",
     gender: "masculino",
@@ -1352,12 +1464,28 @@ export const products = [
     image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/a9ebc5c2-abad-43cc-a496-0674c7e52bb3/jbptyw/std/765x1040/cover?format=auto"
   },
   {
+    name: "Light Blue Capri in Love Eau De Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 77,
+    image: "https://d2dalh4h075hii.cloudfront.net/wp-content/uploads/2025/05/dolce-and-gabbana-beauty-light-blue-campaign-2025-theo-james-vittoria-ceretti-22.jpg"
+  },
+  {
     name: "Light Blue Eau De Toilette 100ml",
     brand: "Dolce & Gabbana",
     gender: "masculino",
     category: "perfume",
     priceUSD: 59,
     image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/17084394-a7c3-4ae3-9b6a-dda7e3d6c419/psfkbm/std/765x1040/cover?format=auto"
+  },
+  {
+    name: "Light Blue Capri in Love Eau De Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 73,
+    image: "https://d2dalh4h075hii.cloudfront.net/wp-content/uploads/2025/05/dolce-and-gabbana-beauty-light-blue-campaign-2025-theo-james-vittoria-ceretti-23.jpg"
   },
   {
     name: "K Eau de Parfum 100ml",
@@ -2160,6 +2288,14 @@ export const products = [
     image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/haa/h22/10733387612190/10733387546654/10733387546654.png"
   },
   {
+    name: "Fame In Love Elixir Eau de Parfum 80ml",
+    brand: "Paco Rabanne",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 89,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h4b/he2/10703643115550/10703643050014/10703643050014.jpg"
+  },
+  {
     name: "Fame Parfum 80ml",
     brand: "Paco Rabanne",
     gender: "feminino",
@@ -2328,6 +2464,14 @@ export const products = [
     image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/ha5/h54/10733463076894/10733463011358/10733463011358.png"
   },
   {
+    name: "Phantom In Red Elixir Eau de Parfum 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 75,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h34/h70/10697972252702/10697972187166/10697972187166.jpg"
+  },
+  {
     name: "Phantom Parfum 100ml",
     brand: "Paco Rabanne",
     gender: "masculino",
@@ -2390,6 +2534,14 @@ export const products = [
     category: "perfume",
     priceUSD: 115,
     image: "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/med/dd453bace176f38d94668e712ea8f838c3574001.webp"
+  },
+  {
+    name: "Paradigme Eau de Parfum 100ml",
+    brand: "Prada",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 90,
+    image: "https://www.prada.com/content/dam/pradabkg_products/2/2A1/2A1451/2H0QF0Z99/2A1451_2H0Q_F0Z99_P_ML100_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg"
   },
   {
     name: "Hawas Black Eau de Parfum 100ml",
