@@ -2889,12 +2889,20 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/71lJUGA4URL._AC_SX522_.jpg"
   },
   {
+    name: "Kouros Eau de Toilette 100ml",
+    brand: "Yves Saint Laurent",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 65,
+    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw326f3bcd/pdp/YSLBWW-50194YSL/ysl_fragrance_kouros-edt_3365440003866_packshot_100ml.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+  },
+  {
     name: "Libre Eau de Toilette 90ml",
     brand: "Yves Saint Laurent",
     gender: "feminino",
     category: "perfume",
     priceUSD: 115,
-    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dwe606df01/images/fullsize/FRAG/YSLBWW-50789YSL/3614273321792.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwee8d8e4a/square/Fragrance/For%20Her/libre-eau-de-toilette/3614273321891_libre-eau-de-toilette_90ml_Alt1-v3.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
   },
   {
     name: "Libre Eau de Parfum 90ml",
@@ -2902,8 +2910,24 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 120,
-    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw467de82d/images/fullsize/FRAG/YSLBWW-50424YSL/YSLB3614272648418/ysl_dmi_fraw_libre-edp_packshot_front_50ml_3000x3000px_3614272648418_rgb.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dwc8c58faa/images/fullsize/FRAG/YSLBWW-50424YSL/YSLB3614272648425/3614272648425.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
   },
+  {
+    name: "Libre Eau de Parfum Intense 90ml",
+    brand: "Yves Saint Laurent",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 140,
+    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw136d5f6c/images/fullsize/FRAG/YSLBWW-50657YSL/YSLB3614273069557/3614273069557.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+  },  
+  {
+    name: "Libre Le Parum 90ml",
+    brand: "Yves Saint Laurent",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 130,
+    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw9d1da9da/images/fullsize/FRAG/YSLBWW-51020YSL/YSLB3614273776127/3614273776127.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+  },  
   {
     name: "MYSLF Eau de Parfum 100ml",
     brand: "Yves Saint Laurent",
@@ -2919,6 +2943,30 @@ export const products = [
     category: "perfume",
     priceUSD: 125,
     image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw9cab7e65/images/fullsize/FRAG/YSLBWW-28519YSL/YSLB3614274114645/3614274114645.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+  },
+  {
+    name: "MYSLF L'Absolu Parfum 100ml",
+    brand: "Yves Saint Laurent",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 170,
+    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dwe4d9ea6e/images/fullsize/FRAG/YSLBWW-51427YSL/YSLB3614274329384/3614274329384.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+  },
+  {
+    name: "Y Eau de Toillet 100ml",
+    brand: "Yves Saint Laurent",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 100,
+    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw2dea0d02/images/fullsize/FRAG/YSLBWW-42200YSL/YSLB3614273683401/3614273683401.01.jpg?sw=720&sh=720&sm=cut&sfrm=jpg&q=85"
+  },
+  {
+    name: "Y Eau de Parfum 100ml",
+    brand: "Yves Saint Laurent",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 115,
+    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dwe969be12/images/fullsize/FRAG/YSLBWW-50194YSL/YSLB3614272050358/3614272050358.01.jpg?sw=720&sh=720&sm=cut&sfrm=jpg&q=85"
   },
   {
     name: "bright crystal Eau de Toilette 90ml",
