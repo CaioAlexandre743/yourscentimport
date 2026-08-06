@@ -31,6 +31,8 @@ h1 {
   gap: 10px;
   justify-content: center;
   margin-bottom: 15px;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin; 
 }
 
 .category-filters button {
@@ -41,6 +43,16 @@ h1 {
   cursor: pointer;
   font-weight: 500;
   transition: 0.3s;
+  flex: 0 0 auto;
+}
+
+.category-filters::-webkit-scrollbar {
+    height: 5px;
+}
+
+.category-filters::-webkit-scrollbar-thumb {
+    background: #999;
+    border-radius: 10px;
 }
 
 .category-filters button:hover {
@@ -55,7 +67,6 @@ h1 {
 .filters {
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
   gap: 10px;
   padding: 10px;
 }
@@ -152,6 +163,15 @@ h1 {
 
   h1 {
     font-size: 2rem;
+  }
+
+  .category-filters {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+  }
+
+  .category-filters button {
+    flex: 0 0 auto;
   }
 }
 

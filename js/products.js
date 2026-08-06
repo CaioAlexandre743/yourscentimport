@@ -3225,12 +3225,36 @@ export const products = [
     image: "https://http2.mlstatic.com/D_NQ_NP_2X_764033-MLA83445235244_042025-F.webp"
   },
   {
+    name: "Pore + Dark Spot Brightening Pad 40und",
+    brand: "Celimax",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 17,
+    image: "https://m.media-amazon.com/images/I/51fj943SwEL._AC_SX522_.jpg"
+  },
+  {
+    name: "Pore + Dark Spot Brightening Pad 80und",
+    brand: "Celimax",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 21,
+    image: "https://m.media-amazon.com/images/I/51fj943SwEL._AC_SX522_.jpg"
+  },
+  {
     name: "Shot Tightening Booster 15ml",
     brand: "Celimax",
     gender: "",
     category: "selfcare",
     priceUSD: 16,
     image: "https://m.media-amazon.com/images/I/51utpRckeQL._AC_SX522_.jpg"
+  },
+  {
+    name: "The Vita A Retinol Shot Tightening 30ml",
+    brand: "Celimax",
+    gender: "Sérum Facial",
+    category: "selfcare",
+    priceUSD: 14,
+    image: "https://m.media-amazon.com/images/I/51cnLgl4AFL._AC_SX522_.jpg"
   },
   {
     name: "CER-100 Collagen Ceramide Coating Protein 100ml",
