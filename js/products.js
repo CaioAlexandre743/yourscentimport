@@ -220,7 +220,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 13,
+    priceUSD: 14,
     image: "https://www.lattafa-usa.com/cdn/shop/files/EclaireAlloverspray.png?v=1760220988&width=810"
   },
   {
