@@ -2504,6 +2504,70 @@ export const products = [
     image: "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90,format=auto/https://medias.rabanne.com/medias/sys_master/images/h28/h5a/10402052964382/10402052898846/10402052898846.jpg"
   },
   {
+    name: "Addictive Eau de Parfum 80ml",
+    brand: "Pepe Jeans London",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 37,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.93208.avif"
+  },
+  {
+    name: "Addictive Indulgence Eau de Parfum 80ml",
+    brand: "Pepe Jeans London",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 38,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.108261.avif"
+  },
+  {
+    name: "Cocktail Edition Eau de Toilette 80ml",
+    brand: "Pepe Jeans London",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 33,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.64024.avif"
+  },
+  {
+    name: "For Her Eau de Parfum 80ml",
+    brand: "Pepe Jeans London",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51630.avif"
+  },
+  {
+    name: "London Calling Eau de Parfum 80ml",
+    brand: "Pepe Jeans London",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 38,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.70417.avif"
+  },
+  {
+    name: "Addictive Indulgence Eau de Parfum 100ml",
+    brand: "Pepe Jeans London",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 37,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.108263.avif"
+  },
+  {
+    name: "For Him Eau de Toilette 100ml",
+    brand: "Pepe Jeans London",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51631.avif"
+  },
+  {
+    name: "London Calling Eau de Parfum 100ml",
+    brand: "Pepe Jeans London",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 38,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.70423.avif"
+  },
+  {
     name: "Paradoxe Eau de Parfum 90ml",
     brand: "Prada",
     gender: "feminino",
@@ -3217,6 +3281,14 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/51IUUksIUFL._AC_SY741_.jpg"
   },
   {
+    name: "Premium Touch 550ml",
+    brand: "Fino",
+    gender: "Condicionador",
+    category: "selfcare",
+    priceUSD: 18,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_897980-MLB111404883187_052026-F-condicionador-fino-premium-touch-shiseido-550ml-com-pump.webp"
+  },
+  {
     name: "Premium Touch Hair Oil 70ml",
     brand: "Fino",
     gender: "Óleo Capilar",
@@ -3693,8 +3765,16 @@ export const products = [
     brand: "JBL",
     gender: "Possui várias cores",
     category: "eletronics",
-    priceUSD: 31,
+    priceUSD: 30,
     image: "https://www.jbl.com.br/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw45224bd9/JBL_GO_4_HERO_BLACK_48156_x4.png?sw=535&sh=535"
+  },
+  {
+    name: "Go 5",
+    brand: "JBL",
+    gender: "Possui várias cores",
+    category: "eletronics",
+    priceUSD: 41,
+    image: "https://www.jbl.com.br/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5755e5a0/LS_JBL_GO5_HERO_BLACK_0007_x4.png?sw=535&sh=535"
   },
   {
     name: "Clip 5",
