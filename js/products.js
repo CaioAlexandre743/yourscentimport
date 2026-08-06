@@ -1184,6 +1184,22 @@ export const products = [
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=400%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/hae/h51/10773115535390/10773115469854/10773115469854.jpg"
   },
   {
+    name: "212 Men Heroes Eau de Toilette 90ml",
+    brand: "Carolina Herrera",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 66,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h5d/h46/10773071429662/10773071364126/10773071364126.jpg"
+  },
+  {
+    name: "212 Men Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h9f/h8e/10776003149854/10776003084318/10776003084318.jpg"
+  },
+  {
     name: "212 Men Sexy Eau de Parfum 100ml",
     brand: "Carolina Herrera",
     gender: "masculino",
@@ -1224,6 +1240,14 @@ export const products = [
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/hb7/he3/10773134508062/10773134442526/10773134442526.jpg"
   },
   {
+    name: "212 Heroes Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 65,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=400%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h87/ha4/10773094858782/10773094793246/10773094793246.jpg"
+  },
+  {
     name: "212 Sexy Eau de Parfum 100ml",
     brand: "Carolina Herrera",
     gender: "feminino",
@@ -1256,12 +1280,36 @@ export const products = [
     image: "https://anbeauty.vtexassets.com/arquivos/ids/178319/bad-boy-carolina-herrera-eau-de-toilette-perfume-masculino%20100ml%20-2-.webp?v=638912897319630000"
   },
   {
+    name: "Bad Boy Elixir Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/ha9/h95/10398128963614/BB-Editorial-03-4ew5/BB-Editorial-03-4ew5.jpg"
+  },
+  {
     name: "Bad Boy Cobalt Eau de Parfum 100ml",
     brand: "Carolina Herrera",
     gender: "masculino",
     category: "perfume",
     priceUSD: 73,
-    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/root/hb0/hc9/9913975177246/CH-BB-COB-7-RESIZE/CH-BB-COB-7-RESIZE.jpg"
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h70/hcd/10394689568798/BB-Editorial-03-45/BB-Editorial-03-45.jpg"
+  },
+  {
+    name: "Bad Boy Cobalt Absolute Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 98,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=1000%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h77/h78/10671638609950/10671638544414/10671638544414.jpg"
+  },
+  {
+    name: "Bad Boy Cobalt Elixir Eau de Parfum 100ml",
+    brand: "Carolina Herrera",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 83,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h11/hdb/10394689962014/BB-Editorial-02-45/BB-Editorial-02-45.jpg"
   },
   {
     name: "CH Insignia Leather Eau de Parfum 100ml",
@@ -1270,6 +1318,14 @@ export const products = [
     category: "perfume",
     priceUSD: 56,
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=800%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h85/hd8/9967691104286/9967691038750/9967691038750.jpg"
+  },
+  {
+    name: "CH Men Eau de Toilette 100ml",
+    brand: "Carolina Herrera",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 66,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=1000%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h50/hc6/9970980290590/9970980225054/9970980225054.jpg"
   },
   {
     name: "Good Girl Eau de Parfum 80ml",
@@ -1352,12 +1408,36 @@ export const products = [
     image: "https://www.chanel.com/images/t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/bleu-de-chanel-eau-de-parfum-spray-3-4fl-oz--packshot-default-107360-9564894232606.jpg"
   },
   {
+    name: "Chance Eau de Toilette 100ml",
+    brand: "Chanel",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 155,
+    image: "https://www.chanel.com/images/t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/chance-eau-de-toilette-spray-3-4fl-oz--packshot-default-126460-9564893937694.jpg"
+  },
+  {
+    name: "Chance Eau Tendre Eau de Toilette 100ml",
+    brand: "Chanel",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 140,
+    image: "https://www.chanel.com/images/t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/chance-eau-tendre-eau-de-toilette-spray-3-4fl-oz--packshot-default-126320-9564890562590.jpg"
+  },
+  {
     name: "Chanel N° 5 Eau de Parfum 100ml",
     brand: "Chanel",
     gender: "feminino",
     category: "perfume",
     priceUSD: 160,
     image: "https://www.chanel.com/images/t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/n-5-eau-de-parfum-spray-3-4fl-oz--packshot-default-125530-9564912943134.jpg"
+  },
+  {
+    name: "Coco Mademoiselle Eau de Parfum 100ml",
+    brand: "Chanel",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 161,
+    image: "https://www.chanel.com/images/t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/coco-mademoiselle-eau-de-parfum-spray-3-4fl-oz--packshot-default-116520-9564892495902.jpg"
   }, 
   {
     name: "Addict Eau de Parfum 100ml",
@@ -1776,6 +1856,14 @@ export const products = [
     image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.721.avif"
   },
   {
+    name: "Classique Eau de Toillet 100ml",
+    brand: "Jean Paul Gaultier",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 68,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h7a/h21/9861210308638/classique-eau-de-toilette-ingredients-jean-paul-gaultier.jpeg/classique-eau-de-toilette-ingredients-jean-paul-gaultier.jpeg.jpg"
+  },
+  {
     name: "Divine Couture Eau de Parfum 100ml",
     brand: "Jean Paul Gaultier",
     gender: "feminino",
@@ -1872,12 +1960,36 @@ export const products = [
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/ha4/h15/10667505582110/scandal-eau-de-parfum-repack-ingredients-jean-paul-gaultier/scandal-eau-de-parfum-repack-ingredients-jean-paul-gaultier.jpg"
   },
   {
+    name: "Scandal Absolut Parfum 80ml",
+    brand: "Jean Paul Gaultier",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 85,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h7b/h0e/9942818521118/pdp-ingredients-scandal-absolu-jpg_0.png/pdp-ingredients-scandal-absolu-jpg-0.png.jpg"
+  },
+  {
+    name: "Scandal Elixir Eau de Parfum 80ml",
+    brand: "Jean Paul Gaultier",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 105,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/hda/h30/10672267952158/ingredients-scandal-elixir-jean-paul-gaultier/ingredients-scandal-elixir-jean-paul-gaultier.png"
+  },
+  {
     name: "Scandal Le Parfum Eau de Parfum Intense 80ml",
     brand: "Jean Paul Gaultier",
     gender: "feminino",
     category: "perfume",
     priceUSD: 82,
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h7e/h38/9855543541790/visuel-ingredients-scandal-le-parfum-mb.png%20(1)/visuel-ingredients-scandal-le-parfum-mb.png-1-.jpg"
+  },
+  {
+    name: "Scandal Intense Eau de Parfum Intense 80ml",
+    brand: "Jean Paul Gaultier",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 100,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/he7/hd3/10409152610334/ingredients-scandal-intense-jean-paul-gaultier/ingredients-scandal-intense-jean-paul-gaultier.jpg"
   },
   {
     name: "Scandal Pour Homme Absolu Parfum 100ml",
