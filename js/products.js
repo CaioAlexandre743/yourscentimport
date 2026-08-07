@@ -3377,7 +3377,7 @@ export const products = [
     image: "https://elausa.com.br/media/catalog/product/cache/6b43fd4dce2c19d548b80844c5c1dd03/_/h/_honey_-_pixie_moist_silky_-_hair_oil_step_3.0_100ml.png"
   },
   {
-    name: "Pixie Moist Silky 130g",
+    name: "Pixie Moist Silky Hair Pack 130g",
     brand: "&honey",
     gender: "Máscara Capilar",
     category: "selfcare",
