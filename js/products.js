@@ -6,6 +6,14 @@ export const products = [
     category: "perfume",
     priceUSD: 48,
     image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.113759.avif"
+  },
+  {
+    name: "Ameerat Al Arab Sugar Crown Eau de Parfum 100ml",
+    brand: "Asdaaf",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/SugarCrownBottle.png?v=1779996924&width=810"
   },  
   {
     name: "Raneen Eau de Parfum 80ml",
@@ -202,7 +210,7 @@ export const products = [
   {
     name: "Eclaire 100ml",
     brand: "Lattafa",
-    gender: "unissex",
+    gender: "feminino",
     category: "perfume",
     priceUSD: 25,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Eclaire-1_5803282e-ea5b-4de5-99a5-7d06f5cbae33.png?v=1747415649&width=810"
@@ -222,6 +230,22 @@ export const products = [
     category: "perfume",
     priceUSD: 14,
     image: "https://www.lattafa-usa.com/cdn/shop/files/EclaireAlloverspray.png?v=1760220988&width=810"
+  },
+  {
+    name: "Eclaire Banoffi 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 26,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/LattafaEclaireBanoffiBottle.png?v=1755279168&width=810"
+  },
+  {
+    name: "Eclaire Pistache 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 26,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/LattafaEclairePistacheBottle.png?v=1755277744&width=810"
   },
   {
     name: "Emaan Eau de Parfum 100ml",
@@ -416,6 +440,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_f99cafbc-8099-4624-a156-2441c35fe142.png?v=1749465596&width=810"
   },
   {
+    name: "Lahdath Eau de Parfum 80ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_38a12d6b-f110-4722-872f-080b575e0c2a.png?v=1749495556&width=810"
+  },
+  {
     name: "Layaan Eau de Parfum 75ml",
     brand: "Lattafa",
     gender: "feminino",
@@ -504,6 +536,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_7d5801be-0a5e-4ac4-bffc-3bee4a3c7a6b.png?v=1756143162&width=810"
   },
   {
+    name: "Petra Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "unissex",
+    category: "perfume",
+    priceUSD: 26,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_6e8e4461-9e8c-4346-b7aa-87769f89fad6.png?v=1749465674&width=810"
+  },
+  {
     name: "Pisa Eau de Parfum 100ml",
     brand: "Lattafa",
     gender: "masculino",
@@ -544,6 +584,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_7b2f7e1d-2e42-4c34-b998-bc64f72be48f.png?v=1749326219&width=810"
   },
   {
+    name: "Tharwah Silver 100ml",
+    brand: "Lattafa",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_2d2d0bd6-397d-4d6b-851f-0c27d76d6492.png?v=1749326270&width=810"
+  },
+  {
     name: "The Kingdom Eau de Parfum 100ml",
     brand: "Lattafa",
     gender: "masculino",
@@ -558,6 +606,14 @@ export const products = [
     category: "perfume",
     priceUSD: 23,
     image: "https://rebaj.vtexassets.com/arquivos/ids/156163-752-auto/The-Kingdom-Women.png?v=639160183871770000"
+  },
+  {
+    name: "Thouq Eau de Parfum 80ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 20,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/1_d580bd7e-75d8-4c61-bfd8-a10f6c030781.png?v=1749326308&width=810"
   },
   {
     name: "Victoria Eau de Parfum 100ml",
@@ -1688,6 +1744,38 @@ export const products = [
     image: "https://www.french-avenue-parfum.com/wp-content/uploads/2024/11/liquid-brun.jpg.webp"
   },
   {
+    name: "Nudo Exotic Flowers Eau de Parfum 100ml",
+    brand: "French Avenue",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 22,
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2024/11/eau-de-parfum-nudo-flowers.jpg.webp"
+  },
+  {
+    name: "Nudo Green Iris Eau de Parfum 100ml",
+    brand: "French Avenue",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 22,
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2024/11/eau-de-parfum-nudo-vert.jpg.webp"
+  },
+  {
+    name: "Nudo Sweet Berries Eau de Parfum 100ml",
+    brand: "French Avenue",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 22,
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2024/11/eau-de-parfum-nudo-sweet-berries-1.jpg.webp"
+  },
+  {
+    name: "Nudo Tutti Frutti Eau de Parfum 100ml",
+    brand: "French Avenue",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 22,
+    image: "https://www.french-avenue-parfum.com/wp-content/uploads/2025/08/parfum-nudo-tutti-frutti.jpg.webp"
+  },
+  {
     name: "Veneno Bianco Eau de Parfum 100ml",
     brand: "French Avenue",
     gender: "unissex",
@@ -2344,6 +2432,22 @@ export const products = [
     image: "https://www.orienticaperfumes.com/cdn/shop/files/velvet-gold.png?v=1761539013"
   },
   {
+    name: "AZM Eau de Parfum 100ml",
+    brand: "Paris Corner",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 40,
+    image: "https://www.pariscornerperfumes.com/cdn/shop/files/Azm01.jpg?v=1755327643&width=823"
+  },
+  {
+    name: "Fayora Eau de Parfum 100ml",
+    brand: "Paris Corner",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://www.pariscornerperfumes.com/cdn/shop/files/WhatsApp_Image_2025-07-04_at_5.44.22_PM_1.jpg?v=1751636922&width=823"
+  },
+  {
     name: "Ibisco Nirvana Extrait de Parfum 65ml",
     brand: "Paris Corner",
     gender: "feminino",
@@ -2374,6 +2478,14 @@ export const products = [
     category: "perfume",
     priceUSD: 26,
     image: "https://www.pariscornerperfumes.com/cdn/shop/files/MOSCOWMULECOM1.jpg?v=1726486519&width=823"
+  },
+  {
+    name: "Midnight Sin By Daniel René Eau de Parfum 100ml",
+    brand: "Paris Corner",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://www.pariscornerperfumes.com/cdn/shop/files/MS78.png?v=1776763870&width=823"
   },
   {
     name: "1 Million Eau de Toilette 100ml",
