@@ -3317,7 +3317,7 @@ export const products = [
     brand: "&honey",
     gender: "Condicionador",
     category: "selfcare",
-    priceUSD: 33,
+    priceUSD: 32,
     image: "https://elausa.com.br/media/catalog/product/cache/a4a16cc6a4fbde13fd972c608330c84a/m/i/milk_milk.jpg"
   },
   {
