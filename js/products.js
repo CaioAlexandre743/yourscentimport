@@ -3457,14 +3457,6 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/51jKsblolfL._AC_SX522_.jpg"
   },
   {
-    name: "Máscara Capilar Profissional 230g",
-    brand: "Fino",
-    gender: "Máscara Capilar",
-    category: "selfcare",
-    priceUSD: 20,
-    image: "https://m.media-amazon.com/images/I/616ZVETfpuL._AC_SX522_.jpg"
-  },
-  {
     name: "Premium Touch 550ml",
     brand: "Fino",
     gender: "Shampoo",
@@ -3479,6 +3471,14 @@ export const products = [
     category: "selfcare",
     priceUSD: 18,
     image: "https://http2.mlstatic.com/D_NQ_NP_2X_897980-MLB111404883187_052026-F-condicionador-fino-premium-touch-shiseido-550ml-com-pump.webp"
+  },
+  {
+    name: "Máscara Capilar Profissional 230g",
+    brand: "Fino",
+    gender: "Máscara Capilar",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/616ZVETfpuL._AC_SX522_.jpg"
   },
   {
     name: "Premium Touch Hair Oil 70ml",
