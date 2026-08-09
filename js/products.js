@@ -830,7 +830,15 @@ export const products = [
     category: "perfume",
     priceUSD: 16,
     image: "https://www.alwataniah.com/cdn/shop/files/shagaf-al-ward.png?v=1759755041&width=600"
-  },  
+  },
+  {
+    name: "Watani Purple Eau de Parfum 100ml",
+    brand: "Al Wataniah",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 17,
+    image: "https://www.alwataniah.com/cdn/shop/files/watani-purple.png?v=1759754165&width=600"
+  }, 
   {
     name: "Club de Nuit Iconic Eau de Parfum 105ml",
     brand: "ARMAF",
@@ -1550,6 +1558,14 @@ export const products = [
     category: "perfume",
     priceUSD: 125,
     image: "https://lojadior.vtexassets.com/arquivos/ids/156016-1200-800/3348901181839_02--highlight-dior--addict-eau-de-parfum.jpg?v=638829152698470000"
+  },
+  {
+    name: "Hypnotic Poison Eau de Toilette 100ml",
+    brand: "Dior",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 83,
+    image: "https://www.dior.com/dw/image/v2/BGXS_PRD/on/demandware.static/-/Sites-master_dior/default/dw26526182/Y0063401/Y0063401_F006344009_E01_RHC.jpg?sw=1024"
   },
   {
     name: "J'adore Eau de Parfum 100ml",
@@ -2542,6 +2558,14 @@ export const products = [
     category: "perfume",
     priceUSD: 52,
     image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/he9/h52/10732105695262/10732105629726/10732105629726.png"
+  },
+  {
+    name: "1 Million Elixir Parfum Intense 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 79,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h61/hc6/10732106940446/10732106874910/10732106874910.png"
   },
   {
     name: "Fame Eau de Parfum 80ml",
