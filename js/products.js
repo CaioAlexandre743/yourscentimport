@@ -2560,12 +2560,44 @@ export const products = [
     image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/he9/h52/10732105695262/10732105629726/10732105629726.png"
   },
   {
-    name: "1 Million Elixir Parfum Intense 100ml",
+    name: "1 Million Elixir Parfum 100ml",
     brand: "Paco Rabanne",
     gender: "masculino",
     category: "perfume",
     priceUSD: 79,
     image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h61/hc6/10732106940446/10732106874910/10732106874910.png"
+  },
+  {
+    name: "1 Million Parfum 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 76,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h61/hc6/10732106940446/10732106874910/10732106874910.png"
+  },
+  {
+    name: "Million Gold Eau de Parfum 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h4d/h4f/10701393428510/10701393362974/10701393362974.jpg"
+  },
+  {
+    name: "Million Gold Elixir Parfum 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 77,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/he5/h9d/10733363855390/10733363789854/10733363789854.png"
+  },
+  {
+    name: "Million Royal Parfum 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 68,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/hb1/h5a/10527747997726/10527747932190/10527747932190.jpg"
   },
   {
     name: "Fame Eau de Parfum 80ml",
