@@ -376,6 +376,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/His-Confession-1_2614a68d-8561-4a94-9c54-7739ae06f986.png?v=1747415996&width=810"
   },
   {
+    name: "Jouri Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 33,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/30.png?v=1777559948&width=810"
+  },
+  {
     name: "Khamrah 100ml",
     brand: "Lattafa",
     gender: "masculino",
@@ -454,6 +462,14 @@ export const products = [
     category: "perfume",
     priceUSD: 32,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_56ca40c3-8a27-4c18-93a1-3e43627efcc9.png?v=1759429729&width=810"
+  },
+  {
+    name: "Mayar Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 18,
+    image: "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-527dd7b/lattafa.com/wp-content/uploads/2024/06/2-7.jpg"
   },
   {
     name: "Mayar Cherry Intense Eau de Parfum 100ml",
@@ -1078,7 +1094,15 @@ export const products = [
     category: "perfume",
     priceUSD: 25,
     image: "https://fimgs.net/mdimg/perfume-thumbs/375x500.61697.jpg"
-  }, 
+  },
+  {
+    name: "Forever Wanted Elixir Parfum 100ml",
+    brand: "Azzaro",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 87,
+    image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/azz_dmi_forever-wanted-elixir_packshot_bottle_front_100ml_33614274258073_1x1.png"
+  },
   {
     name: "The Most Wanted Eau de Parfum Intense 100ml",
     brand: "Azzaro",
@@ -1102,6 +1126,30 @@ export const products = [
     category: "perfume",
     priceUSD: 85,
     image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/products/5a689179cc5c2_bottle-collector-jpg.jpg"
+  },
+  {
+    name: "Wanted BY Night Eau de Parfum 100ml",
+    brand: "Azzaro",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/products/60b79eb78a5b5_wanted-by-night-100ml-v2-jpg.jpeg"
+  },
+  {
+    name: "Wanted Girl Eau de Parfum 80ml",
+    brand: "Azzaro",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.54020.avif"
+  },
+  {
+    name: "Wanted Girl Tonic Eau de Toilette 80ml",
+    brand: "Azzaro",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 38,
+    image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/products/5e5571ae25a88_fiche-produit-wtg-png.png"
   },
   {
     name: "Eilish Eau de Parfum 100ml",
