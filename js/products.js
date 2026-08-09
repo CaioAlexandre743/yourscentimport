@@ -3549,8 +3549,32 @@ export const products = [
     brand: "Elizavecca",
     gender: "Shampoo",
     category: "selfcare",
+    priceUSD: 21,
+    image: "https://cdn.awsli.com.br/2622/2622875/produto/229984717/38-k4wbeys6rg.png"
+  },
+  {
+    name: "CER-100 Collagen Coating Hair Muscle Hair Tornado 500ml",
+    brand: "Elizavecca",
+    gender: "Shampoo",
+    category: "selfcare",
     priceUSD: 24,
     image: "https://m.media-amazon.com/images/I/51kaKrmlqtL._AC_SX522_.jpg"
+  },
+  {
+    name: "CER-100 Collagen Coating Hair Muscle Treatment Rinse 500ml",
+    brand: "Elizavecca",
+    gender: "Condicionador",
+    category: "selfcare",
+    priceUSD: 22,
+    image: "https://cdn.awsli.com.br/2622/2622875/produto/229984745/sem-nome--380-x-380-mm--ca4ofo0xhx.png"
+  },
+  {
+    name: "CER-100 Collagen Coating A+ 250ml",
+    brand: "Elizavecca",
+    gender: "Leave In",
+    category: "selfcare",
+    priceUSD: 13,
+    image: "https://cdn.awsli.com.br/2622/2622875/produto/229984733/78-kp5lpahzjb.jpg"
   },
   {
     name: "CER-100 para Cachos 120ml",
@@ -3567,6 +3591,14 @@ export const products = [
     category: "selfcare",
     priceUSD: 12,
     image: "https://m.media-amazon.com/images/I/51jKsblolfL._AC_SX522_.jpg"
+  },
+  {
+    name: "CER-100 Hair Muscle Essence Oil 100ml",
+    brand: "Elizavecca",
+    gender: "Óleo Capilar",
+    category: "selfcare",
+    priceUSD: 14,
+    image: "https://cdn.awsli.com.br/2622/2622875/produto/229984711/8-or3ja2iu0e.png"
   },
   {
     name: "Premium Touch 550ml",
