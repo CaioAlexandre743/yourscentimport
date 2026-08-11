@@ -2546,7 +2546,7 @@ export const products = [
   {
     name: "Midnight Sin By Daniel René Eau de Parfum 100ml",
     brand: "Paris Corner",
-    gender: "masculino",
+    gender: "feminino",
     category: "perfume",
     priceUSD: 70,
     image: "https://www.pariscornerperfumes.com/cdn/shop/files/MS78.png?v=1776763870&width=823"
@@ -2573,7 +2573,7 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 76,
-    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h61/hc6/10732106940446/10732106874910/10732106874910.png"
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/he6/h2a/10733338230814/10733338165278/10733338165278.png"
   },
   {
     name: "Million Gold Eau de Parfum 100ml",
