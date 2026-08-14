@@ -3633,6 +3633,54 @@ export const products = [
     image: "https://http2.mlstatic.com/D_NQ_NP_2X_715955-MLA110949643611_042026-F.webp"
   },
   {
+    name: "Heartleaf 70% Calmante Intenso 50ml",
+    brand: "Anua",
+    gender: "Creme Facial",
+    category: "selfcare",
+    priceUSD: 35,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_605255-MLB103105770341_122025-F-creme-facial-anua-heartleaf-70-calmante-intenso-50ml.webp"
+  },
+  {
+    name: "Heartleaf + BHA Foam 150ml",
+    brand: "Anua",
+    gender: "Limpeza Facial",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_817833-CBT111448957383_052026-F.webp"
+  },
+  {
+    name: "Azelaico 10% Calmante Acne Dia Noite 30ml",
+    brand: "Anua",
+    gender: "Sérum Facial",
+    category: "selfcare",
+    priceUSD: 29,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_723105-MLA82275661497_022025-F.webp"
+  },
+  {
+    name: "Niacinamide 10 Txa 4% 30ml",
+    brand: "Anua",
+    gender: "Sérum Facial",
+    category: "selfcare",
+    priceUSD: 26,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_941925-MLB116132911365_082026-F-anua-niacinamide-10-txa-4--serum-facial-30ml.webp"
+  },
+  {
+    name: "Relief Sun Rice + Probiotics SPF50+ Pa++++ 50ml",
+    brand: "Beauty Of Joseon",
+    gender: "Protetor Solar",
+    category: "selfcare",
+    priceUSD: 25,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_717765-MLB113316919054_072026-F-protetor-solar-coreano-original-beauty-of-joseon-50ml.webp"
+  },
+  {
+    name: "Revive Eye Serum Ginseng + Retinol 30ml",
+    brand: "Beauty Of Joseon",
+    gender: "Sérum Olhos",
+    category: "selfcare",
+    priceUSD: 25,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_662141-MLB83504829862_042025-F-beauty-of-joseon-ginseng--retinal-serum-de-olhos-30-ml.webp"
+  },
+  {
     name: "Pore + Dark Spot Brightening Cream 35ml",
     brand: "Celimax",
     gender: "Creme clareador",
@@ -3667,7 +3715,7 @@ export const products = [
   {
     name: "Shot Tightening Booster 15ml",
     brand: "Celimax",
-    gender: "",
+    gender: "Retinol",
     category: "selfcare",
     priceUSD: 16,
     image: "https://m.media-amazon.com/images/I/51utpRckeQL._AC_SX522_.jpg"
@@ -4095,6 +4143,14 @@ export const products = [
     category: "selfcare",
     priceUSD: 25,
     image: "https://m.media-amazon.com/images/I/613DYFUIseL._AC_SX522_.jpg"
+  },
+  {
+    name: "No.9 Nad+Retinal Volumetox Eye Cream 20ml",
+    brand: "Numbuzin",
+    gender: "Creme Olhos",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_935161-MLB114328282748_082026-F-retinal-numbuzin-no-9-nad-volumetox-eye-cream-creme-20ml.webp"
   },
   {
     name: "iPhone 17 Pro Max 256GB",
