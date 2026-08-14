@@ -376,6 +376,14 @@ export const products = [
     image: "https://www.lattafa-usa.com/cdn/shop/files/His-Confession-1_2614a68d-8561-4a94-9c54-7739ae06f986.png?v=1747415996&width=810"
   },
   {
+    name: "Jouri Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 33,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/30.png?v=1777559948&width=810"
+  },
+  {
     name: "Khamrah 100ml",
     brand: "Lattafa",
     gender: "masculino",
@@ -454,6 +462,14 @@ export const products = [
     category: "perfume",
     priceUSD: 32,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_56ca40c3-8a27-4c18-93a1-3e43627efcc9.png?v=1759429729&width=810"
+  },
+  {
+    name: "Mayar Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 18,
+    image: "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-527dd7b/lattafa.com/wp-content/uploads/2024/06/2-7.jpg"
   },
   {
     name: "Mayar Cherry Intense Eau de Parfum 100ml",
@@ -822,7 +838,15 @@ export const products = [
     category: "perfume",
     priceUSD: 16,
     image: "https://www.alwataniah.com/cdn/shop/files/shagaf-al-ward.png?v=1759755041&width=600"
-  },  
+  },
+  {
+    name: "Watani Purple Eau de Parfum 100ml",
+    brand: "Al Wataniah",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 17,
+    image: "https://www.alwataniah.com/cdn/shop/files/watani-purple.png?v=1759754165&width=600"
+  }, 
   {
     name: "Club de Nuit Iconic Eau de Parfum 105ml",
     brand: "ARMAF",
@@ -1086,7 +1110,15 @@ export const products = [
     category: "perfume",
     priceUSD: 25,
     image: "https://fimgs.net/mdimg/perfume-thumbs/375x500.61697.jpg"
-  }, 
+  },
+  {
+    name: "Forever Wanted Elixir Parfum 100ml",
+    brand: "Azzaro",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 87,
+    image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/azz_dmi_forever-wanted-elixir_packshot_bottle_front_100ml_33614274258073_1x1.png"
+  },
   {
     name: "The Most Wanted Eau de Parfum Intense 100ml",
     brand: "Azzaro",
@@ -1110,6 +1142,30 @@ export const products = [
     category: "perfume",
     priceUSD: 85,
     image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/products/5a689179cc5c2_bottle-collector-jpg.jpg"
+  },
+  {
+    name: "Wanted BY Night Eau de Parfum 100ml",
+    brand: "Azzaro",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/products/60b79eb78a5b5_wanted-by-night-100ml-v2-jpg.jpeg"
+  },
+  {
+    name: "Wanted Girl Eau de Parfum 80ml",
+    brand: "Azzaro",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.54020.avif"
+  },
+  {
+    name: "Wanted Girl Tonic Eau de Toilette 80ml",
+    brand: "Azzaro",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 38,
+    image: "https://res.cloudinary.com/azzaro-parfums/image/upload/c_fill,w_1000,h_1117/products/5e5571ae25a88_fiche-produit-wtg-png.png"
   },
   {
     name: "Eilish Eau de Parfum 100ml",
@@ -1510,6 +1566,14 @@ export const products = [
     category: "perfume",
     priceUSD: 125,
     image: "https://lojadior.vtexassets.com/arquivos/ids/156016-1200-800/3348901181839_02--highlight-dior--addict-eau-de-parfum.jpg?v=638829152698470000"
+  },
+  {
+    name: "Hypnotic Poison Eau de Toilette 100ml",
+    brand: "Dior",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 83,
+    image: "https://www.dior.com/dw/image/v2/BGXS_PRD/on/demandware.static/-/Sites-master_dior/default/dw26526182/Y0063401/Y0063401_F006344009_E01_RHC.jpg?sw=1024"
   },
   {
     name: "J'adore Eau de Parfum 100ml",
@@ -2514,7 +2578,7 @@ export const products = [
   {
     name: "Midnight Sin By Daniel René Eau de Parfum 100ml",
     brand: "Paris Corner",
-    gender: "masculino",
+    gender: "feminino",
     category: "perfume",
     priceUSD: 70,
     image: "https://www.pariscornerperfumes.com/cdn/shop/files/MS78.png?v=1776763870&width=823"
@@ -2526,6 +2590,46 @@ export const products = [
     category: "perfume",
     priceUSD: 52,
     image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/he9/h52/10732105695262/10732105629726/10732105629726.png"
+  },
+  {
+    name: "1 Million Elixir Parfum 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 79,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h61/hc6/10732106940446/10732106874910/10732106874910.png"
+  },
+  {
+    name: "1 Million Parfum 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 76,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/he6/h2a/10733338230814/10733338165278/10733338165278.png"
+  },
+  {
+    name: "Million Gold Eau de Parfum 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/h4d/h4f/10701393428510/10701393362974/10701393362974.jpg"
+  },
+  {
+    name: "Million Gold Elixir Parfum 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 77,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/he5/h9d/10733363855390/10733363789854/10733363789854.png"
+  },
+  {
+    name: "Million Royal Parfum 100ml",
+    brand: "Paco Rabanne",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 68,
+    image: "https://medias.rabanne.com/cdn-cgi/image/width=480/https://medias.rabanne.com/medias/sys_master/images/hb1/h5a/10527747997726/10527747932190/10527747932190.jpg"
   },
   {
     name: "Fame Eau de Parfum 80ml",
@@ -3589,8 +3693,32 @@ export const products = [
     brand: "Elizavecca",
     gender: "Shampoo",
     category: "selfcare",
+    priceUSD: 21,
+    image: "https://cdn.awsli.com.br/2622/2622875/produto/229984717/38-k4wbeys6rg.png"
+  },
+  {
+    name: "CER-100 Collagen Coating Hair Muscle Hair Tornado 500ml",
+    brand: "Elizavecca",
+    gender: "Shampoo",
+    category: "selfcare",
     priceUSD: 24,
     image: "https://m.media-amazon.com/images/I/51kaKrmlqtL._AC_SX522_.jpg"
+  },
+  {
+    name: "CER-100 Collagen Coating Hair Muscle Treatment Rinse 500ml",
+    brand: "Elizavecca",
+    gender: "Condicionador",
+    category: "selfcare",
+    priceUSD: 22,
+    image: "https://cdn.awsli.com.br/2622/2622875/produto/229984745/sem-nome--380-x-380-mm--ca4ofo0xhx.png"
+  },
+  {
+    name: "CER-100 Collagen Coating A+ 250ml",
+    brand: "Elizavecca",
+    gender: "Leave In",
+    category: "selfcare",
+    priceUSD: 13,
+    image: "https://cdn.awsli.com.br/2622/2622875/produto/229984733/78-kp5lpahzjb.jpg"
   },
   {
     name: "CER-100 para Cachos 120ml",
@@ -3607,6 +3735,14 @@ export const products = [
     category: "selfcare",
     priceUSD: 12,
     image: "https://m.media-amazon.com/images/I/51jKsblolfL._AC_SX522_.jpg"
+  },
+  {
+    name: "CER-100 Hair Muscle Essence Oil 100ml",
+    brand: "Elizavecca",
+    gender: "Óleo Capilar",
+    category: "selfcare",
+    priceUSD: 14,
+    image: "https://cdn.awsli.com.br/2622/2622875/produto/229984711/8-or3ja2iu0e.png"
   },
   {
     name: "Premium Touch 550ml",
