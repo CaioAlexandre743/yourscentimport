@@ -212,7 +212,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 25,
+    priceUSD: 30,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Eclaire-1_5803282e-ea5b-4de5-99a5-7d06f5cbae33.png?v=1747415649&width=810"
   },
   {
@@ -746,10 +746,18 @@ export const products = [
   {
     name: "Attar Al Wesal 100ml",
     brand: "Al Wataniah",
-    gender: "unissex",
+    gender: "masculino",
     category: "perfume",
     priceUSD: 20,
     image: "https://www.alwataniah.com/cdn/shop/files/attar-al-wesal.png?v=1759830032&width=600"
+  },
+  {
+    name: "Attar Al Wesal Gold Eau de Parfum 100ml",
+    brand: "Al Wataniah",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 28,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.138272.avif?t=1784779107"
   },
   {
     name: "Durrat Al Aroos Eau de Parfum 85ml",
@@ -2014,6 +2022,22 @@ export const products = [
     category: "perfume",
     priceUSD: 95,
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/hb9/h53/9855530106910/LE%20BEAU%20LE%20PARFUM%20ingredients_600x727/LE-BEAU-LE-PARFUM-ingredients-600x727.jpg"
+  }, 
+  {
+    name: "Le Beau Narcisse Eau de Parfum 125ml",
+    brand: "Jean Paul Gaultier",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 110,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h07/h7c/10710261104670/ingredients-le-beau-narcisse-jean-paul-gaultier/ingredients-le-beau-narcisse-jean-paul-gaultier.jpg"
+  },
+  {
+    name: "Le Beau Paradise Garden Eau de Parfum 125ml",
+    brand: "Jean Paul Gaultier",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 81,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h17/hdb/9910643949598/ingredients-le-beau-paradise-garden-eau-de-parfum-jean-paul-gaultier/ingredients-le-beau-paradise-garden-eau-de-parfum-jean-paul-gaultier.jpg"
   },  
   {
     name: "Le Male Eau de Toilette 125ml",
@@ -2028,8 +2052,16 @@ export const products = [
     brand: "Jean Paul Gaultier",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 94,
+    priceUSD: 95,
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h4f/hfa/9855541706782/ingredients-le-male-elixir/ingredients-le-male-elixir.jpg"
+  },
+  {
+    name: "Le Male Elixir Absolu Parfum 125ml",
+    brand: "Jean Paul Gaultier",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 105,
+    image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/hf5/hc8/10190907605022/ingredients-lme-absolu-parfum-jean-paul-gaultier/ingredients-lme-absolu-parfum-jean-paul-gaultier.jpg"
   },
   {
     name: "Le Male Le Parfum 125ml",
@@ -3505,6 +3537,14 @@ export const products = [
     image: "https://http2.mlstatic.com/D_NQ_NP_2X_764033-MLA83445235244_042025-F.webp"
   },
   {
+    name: "Pore + Dark Spot Brightening Sérum Mask 1und",
+    brand: "Celimax",
+    gender: "Máscara Facial",
+    category: "selfcare",
+    priceUSD: 7,
+    image: "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSVUIq_3ABbQQqtCxYeck7jD85rpuV9kH4ZEy-vuRj21tEOJiIkvA7Pxkti6prJKhrabwW7ARauxl1jeFlWJK2ZsOeR5MwPTNZKK5yfmX2X2PcIDX40Y8Lc"
+  },
+  {
     name: "Pore + Dark Spot Brightening Pad 40und",
     brand: "Celimax",
     gender: "Almofadas Tônicas",
@@ -3681,6 +3721,14 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/61occWCJN-L._AC_SX522_.jpg"
   },
   {
+    name: "Deep Peptide Radiance Mask 1und",
+    brand: "Medicube",
+    gender: "Máscara Facial",
+    category: "selfcare",
+    priceUSD: 5,
+    image: "https://epocacosmeticos.vteximg.com.br/arquivos/ids/1184785-450-450/17610801150086.jpg?v=638977815213300000"
+  },
+  {
     name: "Deep Vita C Capsule Cream 55g",
     brand: "Medicube",
     gender: "Creme Hidratante Facial",
@@ -3711,6 +3759,14 @@ export const products = [
     category: "selfcare",
     priceUSD: 24,
     image: "https://m.media-amazon.com/images/I/61aBwml98eL._AC_SX522_.jpg"
+  },
+  {
+    name: "Kojic Acid Turmeric Brightening Gel 4un",
+    brand: "Medicube",
+    gender: "Almofadas Tônicas",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/61oPB+Ed2ZL._AC_SX522_.jpg"
   },
   {
     name: "Kojic Acid Turmeric Pad 70un",
@@ -3847,6 +3903,14 @@ export const products = [
     category: "selfcare",
     priceUSD: 21,
     image: "https://m.media-amazon.com/images/I/71mB8IXpT+L._AC_SX522_.jpg"
+  },
+  {
+    name: "Zero Pore Cooling 1und",
+    brand: "Medicube",
+    gender: "Máscara Facial",
+    category: "selfcare",
+    priceUSD: 5,
+    image: "https://epocacosmeticos.vteximg.com.br/arquivos/ids/1349211-450-450/17659146222822.jpg?v=639017415575770000"
   },
   {
     name: "Zero Pore Blackhead Mud Mask 100g",
