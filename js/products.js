@@ -148,7 +148,7 @@ export const products = [
     brand: "Lattafa",
     gender: "unissex",
     category: "perfume",
-    priceUSD: 50,
+    priceUSD: 49,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Atheeri-1_f93156cf-73d9-4455-8540-5665a4312efb.png?v=1747416765&width=810"
   },
   {
@@ -196,7 +196,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 37,
+    priceUSD: 38,
     image: "https://www.lattafa-usa.com/cdn/shop/files/LattafaDalalEDP100mlSpray.png?v=1763744096&width=810"
   },
   {
@@ -284,7 +284,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 37,
+    priceUSD: 28,
     image: "https://www.lattafa-usa.com/cdn/shop/files/1_aef6a220-3fcb-4b87-838d-7f704806476f.png?v=1750614271&width=810"
   },
   {
@@ -940,7 +940,7 @@ export const products = [
     brand: "ARMAF",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 29,
+    priceUSD: 28,
     image: "https://armaf.com/cdn/shop/files/CDN1.png?v=1774468835&width=700"
   },
   {
@@ -948,7 +948,7 @@ export const products = [
     brand: "ARMAF",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 40,
+    priceUSD: 36,
     image: "https://armaf.com/cdn/shop/files/armafinfinityw.png?v=1744392202&width=600"
   },
   {
@@ -1788,7 +1788,7 @@ export const products = [
     brand: "French Avenue",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 33,
+    priceUSD: 34,
     image: "https://www.french-avenue-parfum.com/wp-content/uploads/2024/11/spectre-ghost.jpg.webp"
   },
   {
@@ -2076,7 +2076,7 @@ export const products = [
     brand: "Jean Paul Gaultier",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 64,
+    priceUSD: 63,
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/hc7/hab/9855534170142/le-beau-eau-de-toilette-ingredients-jean-paul-gaultier.jpeg/le-beau-eau-de-toilette-ingredients-jean-paul-gaultier.jpeg.jpg"
   },
   {
@@ -2084,7 +2084,7 @@ export const products = [
     brand: "Jean Paul Gaultier",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 95,
+    priceUSD: 85,
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/hb9/h53/9855530106910/LE%20BEAU%20LE%20PARFUM%20ingredients_600x727/LE-BEAU-LE-PARFUM-ingredients-600x727.jpg"
   }, 
   {
@@ -2108,7 +2108,7 @@ export const products = [
     brand: "Jean Paul Gaultier",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 60,
+    priceUSD: 65,
     image: "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=570,quality=90,format=avif/medias/sys_master/images/h71/h3e/9855535284254/le-male-eau-de-toilette-ingredients-jean-paul-gaultier.jpeg/le-male-eau-de-toilette-ingredients-jean-paul-gaultier.jpeg.jpg"
   },
   {
