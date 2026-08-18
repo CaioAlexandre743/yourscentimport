@@ -576,6 +576,14 @@ export const products = [
     image: "https://rebaj.vtexassets.com/arquivos/ids/156062-752-auto/Queen-of-Arabia.png?v=639160181842900000"
   },
   {
+    name: "Queen Of Roses Eau de Parfum 100ml",
+    brand: "Lattafa",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 45,
+    image: "https://www.lattafa-usa.com/cdn/shop/files/QueenOfRosesLattafa.png?v=1773075666&width=810"
+  },
+  {
     name: "Sakeena Eau de Parfum 100ml",
     brand: "Lattafa",
     gender: "feminino",
