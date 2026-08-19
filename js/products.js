@@ -3056,6 +3056,38 @@ export const products = [
     image: "https://www.ralphlaurenfragrances.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ralphlauren-master-catalog/default/dw7c1ba6ad/images/pdp/RLFE022/ralph-lauren-fragrances-polo-black-eau-de-toilette-pdp-product-carousel.jpg?sw=700&sh=700&sm=cut&sfrm=jpg&q=70"
   },
   {
+    name: "Tommy Eau de Toilette 100ml",
+    brand: "Tommy Hilfiger",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://tommy-europe.scene7.com/is/image/TommyEurope/GBB5011910_MUL_alternate1?wid=480&fmt=jpeg&qlt=100%2C1&op_sharpen=0&resMode=sharp2&op_usm=1.5%2C.5%2C0%2C0&iccEmbed=0&printRes=72"
+  },
+  {
+    name: "Tommy Girl Eau de Toilette 100ml",
+    brand: "Tommy Hilfiger",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 32,
+    image: "https://tommy-europe.scene7.com/is/image/TommyEurope/GBB5021910_MUL_alternate1?wid=480&fmt=jpeg&qlt=100%2C1&op_sharpen=0&resMode=sharp2&op_usm=1.5%2C.5%2C0%2C0&iccEmbed=0&printRes=72"
+  },
+  {
+    name: "Tommy Now Eau de Toilette 100ml",
+    brand: "Tommy Hilfiger",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://tommy-europe.scene7.com/is/image/TommyEurope/GBB5201910_MUL_alternate1?wid=480&fmt=jpeg&qlt=100%2C1&op_sharpen=0&resMode=sharp2&op_usm=1.5%2C.5%2C0%2C0&iccEmbed=0&printRes=72"
+  },
+  {
+    name: "Tommy Now Girl Eau de Toilette 100ml",
+    brand: "Tommy Hilfiger",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 37,
+    image: "https://tommy-europe.scene7.com/is/image/TommyEurope/GBB5211910_MUL_alternate1?wid=480&fmt=jpeg&qlt=100%2C1&op_sharpen=0&resMode=sharp2&op_usm=1.5%2C.5%2C0%2C0&iccEmbed=0&printRes=72"
+  },
+  {
     name: "Alien Eau de Parfum 90ml",
     brand: "Thierry Mugler",
     gender: "feminino",
