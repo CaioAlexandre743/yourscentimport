@@ -1672,6 +1672,14 @@ export const products = [
     image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/55bc5001-0045-4e77-bc33-48692504de15/ywsoag/std/720x940/cover_ingre?format=auto"
   },
   {
+    name: "Devotion Pour Homme Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 77,
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/1efd7bc3-d79c-4e15-bdc3-3be399074c90/uxjoco/std/650x830/cover?format=auto"
+  },
+  {
     name: "Light Blue Eau De Toilette 100ml",
     brand: "Dolce & Gabbana",
     gender: "feminino",
@@ -2350,6 +2358,14 @@ export const products = [
     category: "perfume",
     priceUSD: 40,
     image: "https://acdn-us.mitiendanube.com/stores/006/985/961/products/new-brand-42-e6dd55e2e20795ca4417682271208002-1024-1024.webp"
+  },
+  {
+    name: "Vanilla Voyage Eau de Parfum 100ml",
+    brand: "Maison Asrar",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 49,
+    image: "https://maisonasrar.com/cdn/shop/files/Maison_Asrar_Vanilla__Voyage_Bot_457984cf-91b0-4bdc-9266-fbc8aa5721d2_2048x.jpg?v=1735207106"
   },
   {
     name: "Daisy Eau de Toilette 100ml",
