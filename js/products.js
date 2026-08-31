@@ -3990,7 +3990,7 @@ export const products = [
     gender: "Almofadas Tônicas",
     category: "selfcare",
     priceUSD: 25,
-    image: "https://www.drogasil.com.br/_next/image?url=https%3A%2F%2Fproduct-data.raiadrogasil.io%2Fimages%2F17074439.webp&w=828&q=75"
+    image: "https://m.media-amazon.com/images/I/61+yHBP9fDL._AC_SX522_.jpg"
   },
   {
     name: "Hyaluronic Moisturizing Capsule 55g",
@@ -4107,7 +4107,7 @@ export const products = [
   {
     name: "Retinol NMN Boosting 30ml",
     brand: "Medicube",
-    gender: "Serum Facial",
+    gender: "Sérum Facial",
     category: "selfcare",
     priceUSD: 22,
     image: "https://m.media-amazon.com/images/I/71xcmJzh5SL._AC_SX522_.jpg"
@@ -4143,6 +4143,14 @@ export const products = [
     category: "selfcare",
     priceUSD: 21,
     image: "https://m.media-amazon.com/images/I/71mB8IXpT+L._AC_SX522_.jpg"
+  },
+  {
+    name: "Zero Pore Cleasing Foam 120g",
+    brand: "Medicube",
+    gender: "Limpador Facial",
+    category: "selfcare",
+    priceUSD: 19,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_790078-MLA87927927159_072025-F.webp"
   },
   {
     name: "Zero Pore Cooling 1und",
