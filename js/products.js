@@ -116,7 +116,7 @@ export const products = [
     brand: "Lattafa",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 27,
+    priceUSD: 33,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Asad-1_ceed76c7-7a80-46b3-b372-68cc309137f4.png?v=1747421311&width=810"
   },
   {
@@ -124,7 +124,7 @@ export const products = [
     brand: "Lattafa",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 32,
+    priceUSD: 35,
     image: "https://www.lattafa-usa.com/cdn/shop/files/ASADELIXIRBOTTLE.png?v=1760805808&width=810"
   },
   {
@@ -132,7 +132,7 @@ export const products = [
     brand: "Lattafa",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 31,
+    priceUSD: 34,
     image: "https://www.lattafa-usa.com/cdn/shop/files/Asad-Bourbon-1.png?v=1747416709&width=810"
   },
   {
