@@ -4097,6 +4097,14 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/61OewnOw5jL._AC_SX522_.jpg"
   },
   {
+    name: "Red Erasing Cream 2.0 100ml",
+    brand: "Medicube",
+    gender: "Creme Facial",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_667565-MLB112989798968_072026-F-medicube-red-erasing-cream-20-100ml-creme-facial.webp"
+  },
+  {
     name: "Red Succinic Acid Peeling Pad 155g 70un",
     brand: "Medicube",
     gender: "Almofadas Tônicas",
@@ -4215,6 +4223,86 @@ export const products = [
     category: "selfcare",
     priceUSD: 20,
     image: "https://http2.mlstatic.com/D_NQ_NP_2X_935161-MLB114328282748_082026-F-retinal-numbuzin-no-9-nad-volumetox-eye-cream-creme-20ml.webp"
+  },
+  {
+    name: "Premium EX Damage Care & Repair 450ml",
+    brand: "Tsubaki",
+    gender: "Shampoo",
+    category: "selfcare",
+    priceUSD: 23,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_828507-MLA99446273854_112025-F.webp"
+  },
+  {
+    name: "Premium EX Damage Care & Repair 450ml",
+    brand: "Tsubaki",
+    gender: "Condicionador",
+    category: "selfcare",
+    priceUSD: 22,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_680743-MLB110836051440_052026-F.webp"
+  },
+  {
+    name: "Premium EX Damage Care & Repair 450ml",
+    brand: "Tsubaki",
+    gender: "Mascara Capilar",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_781540-MLA115958539551_082026-F.webp"
+  },
+  {
+    name: "Premium Moist & Repair 180g",
+    brand: "Tsubaki",
+    gender: "Shampoo",
+    category: "selfcare",
+    priceUSD: 17,
+    image: "https://www.farmaciasnissei.com.br/media/produtos/4550516485236.jpg"
+  },
+  {
+    name: "Premium Moist & Reapair 450ml",
+    brand: "Tsubaki",
+    gender: "Condicionador",
+    category: "selfcare",
+    priceUSD: 16,
+    image: "https://www.farmaciasnissei.com.br/media/produtos/4550516485250.jpg"
+  },
+  {
+    name: "Premium Moist & Reapair 160g",
+    brand: "Tsubaki",
+    gender: "Tratamento Capilar",
+    category: "selfcare",
+    priceUSD: 17,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_826274-MLB99268126338_112025-F-tsubaki-premium-moist--repair-treatment-160g.webp"
+  },
+  {
+    name: "Premium Repair Pink 180g",
+    brand: "Tsubaki",
+    gender: "Mascara Capilar",
+    category: "selfcare",
+    priceUSD: 22,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_818380-MLB115198790635_072026-F.webp"
+  },
+  {
+    name: "Premium Volume & Reapair 450ml",
+    brand: "Tsubaki",
+    gender: "Shampoo",
+    category: "selfcare",
+    priceUSD: 15,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_735632-MLA99842427507_112025-F.webp"
+  },
+  {
+    name: "Premium Volume & Reapair 450ml",
+    brand: "Tsubaki",
+    gender: "Condicionador",
+    category: "selfcare",
+    priceUSD: 14,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_772983-MLA99894814899_112025-F.webp"
+  },
+  {
+    name: "Premium Volume & Reapair 160g",
+    brand: "Tsubaki",
+    gender: "Tratamento Capilar",
+    category: "selfcare",
+    priceUSD: 17,
+    image: "https://m.media-amazon.com/images/I/31nHFUyyzYL._AC_SX522_.jpg"
   },
   {
     name: "iPhone 17 Pro Max 256GB",
