@@ -4309,7 +4309,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 1230,
+    priceUSD: 1360,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17promax-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=WkVhZXB4WmFzZmdNeXA3cHg3WUZFU0tjazZmSzdrSHdxTW9VUlF0akdCdXpMQytuUEM4Wm5vMWRha0N0RzdPQ3pGbHdxTU5oSkkwKzZZOXF0cVNPL1V0RmgycTRGTHI3SUVxVFVFNFI5QzhTREFXd29VYUtwRlRqTkI5dnBWdWo"
   },
   {
@@ -4317,7 +4317,7 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 1150,
+    priceUSD: 1260,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17pro-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=ekJPc2lPUlRuRk50SkcyOVdnU1d0TjFla0N0Znl3UThxdjB3SW91ZDVJd0Z3aHFxUnRBUUlIa1B4eXlTTWdWdW8xUkhYejcxalRvY0FPQVpMcmoxMDlLQzdVZ2V3VnpqcXFKTGxlK1dFUXloSUZXMXhpaFRiaTdERUcxSFVMVW4"
   },
   {
@@ -4325,23 +4325,15 @@ export const products = [
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 950,
+    priceUSD: 960,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-digitalmat-gallery-1-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=SVhTK013TmU5bXcxZm9yb0hnWkxGZlRhSXFkOFhqdTgvUmc4VitXa2VzZUU5aWg1WE9Xd3BOSWtnNzkvSWZLd0ZGMGUwb1Y3aUJoOFNtZnEvQXJFMEJYVzFZSG9ORXhsSkhTN0hjejcrL1BtdndTWEVueTdGZTlOS1ZyVjMxMWg"
-  },
-  {
-    name: "iPhone Air 256GB",
-    brand: "Apple",
-    gender: "",
-    category: "eletronics",
-    priceUSD: 945,
-    image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-unselect-gallery-1-202509?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUpaQVl1bitSNmJWZUdKdi9QZHhsR3J2UHBBV3orM3VMYVQ4cFJXZmQxV3pMQytuUEM4Wm5vMWRha0N0RzdPQ3F2TWlpSzUzejRCZGt2SjJUNGl1VEE4bm1RcmlWRWp2eDN1WHNkSjNmUllkbVpNWnluMHFQejlPZEhiemdDMFA&traceId=1"
   },
   {
     name: "iPhone 16 128GB",
     brand: "Apple",
     gender: "",
     category: "eletronics",
-    priceUSD: 695,
+    priceUSD: 790,
     image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch?wid=5120&hei=2880&fmt=webp&qlt=90&.v=UXp1U3VDY3IyR1hNdHZwdFdOLzg1V0tFK1lhSCtYSGRqMUdhR284NTN4K2k2SkpnN3c0VXdqTFlOQWw0ako4Z0JQYkhSV3V1dC9oa0s5K3lqMGtUaFlJd01NRTBFU2ZiV2d6YkZCU2Z3bUt4ZUNtWkFZZEcvcU12TFRUUVhVdDU&traceId=1"
   },
   {
