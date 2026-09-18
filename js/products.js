@@ -2318,6 +2318,14 @@ export const products = [
     category: "perfume",
     priceUSD: 18,
     image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.100488.avif"
+  },
+  {
+    name: "Pink Eclipse Eau de Parfum 100ml",
+    brand: "Maison Alhambra",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 36,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.101639.avif"
   }, 
   {
     name: "Rose Seduction Vip Eau de Parfum 100ml",
