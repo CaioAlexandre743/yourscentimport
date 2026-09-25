@@ -1676,7 +1676,7 @@ export const products = [
     brand: "Dolce & Gabbana",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 77,
+    priceUSD: 79,
     image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/1efd7bc3-d79c-4e15-bdc3-3be399074c90/uxjoco/std/650x830/cover?format=auto"
   },
   {
