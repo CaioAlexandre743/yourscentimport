@@ -668,7 +668,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 26,
+    priceUSD: 27,
     image: "https://www.lattafa-usa.com/cdn/shop/files/YaraElixirBottle.png?v=1760805808&width=810"
   },
   {
@@ -1589,7 +1589,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 100,
-    image: "https://lojadior.vtexassets.com/arquivos/ids/200898-950-950?v=638853505170100000&width=950&height=950&aspect=true"
+    image: "https://lojadior.vtexassets.com/arquivos/ids/206106-1200-800/3348901738224_02-highlight-jadore-edp-100.jpg?v=639235275813830000"
   }, 
   {
     name: "J'adore Eau de Toilette 100ml",
@@ -1605,7 +1605,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 118,
-    image: "https://lojadior.vtexassets.com/arquivos/ids/200531-1200-800/3348901597715_02-highlight-jador-parfum-deau.jpg?v=638854181198400000"
+    image: "https://lojadior.vtexassets.com/arquivos/ids/206131-1200-800/3348901597715_02-highlight-jador-parfum-deau-100.jpg?v=639235313355800000"
   },
   {
     name: "J'adore Infinissime Eau de Parfum 100ml",
@@ -1645,7 +1645,7 @@ export const products = [
     gender: "masculino",
     category: "perfume",
     priceUSD: 180,
-    image: "https://lojadior.vtexassets.com/arquivos/ids/202438-1200-800/3348901640916_02-highlight-sauvage-elixir.jpg?v=639032094406770000"
+    image: "https://lojadior.vtexassets.com/arquivos/ids/206368-1200-800/3348901640916_02-highlight-sauvage-elixir.jpg?v=639252621007970000"
   },
   {
     name: "Devotion Eau de Parfum 100ml",
@@ -4149,7 +4149,7 @@ export const products = [
     brand: "Medicube",
     gender: "Sérum Facial",
     category: "selfcare",
-    priceUSD: 21,
+    priceUSD: 19,
     image: "https://m.media-amazon.com/images/I/61hJlq6WVmL._AC_SX522_.jpg"
   },
   {
