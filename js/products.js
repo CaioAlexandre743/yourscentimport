@@ -469,7 +469,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 18,
-    image: "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-527dd7b/lattafa.com/wp-content/uploads/2024/06/2-7.jpg"
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.84309.avif"
   },
   {
     name: "Mayar Cherry Intense Eau de Parfum 100ml",
