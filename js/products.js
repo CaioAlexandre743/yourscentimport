@@ -3415,7 +3415,23 @@ export const products = [
     category: "perfume",
     priceUSD: 130,
     image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw9d1da9da/images/fullsize/FRAG/YSLBWW-51020YSL/YSLB3614273776127/3614273776127.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
-  },  
+  },
+  {
+    name: "Libre L'Eau Nue Parfum de Peau 90ml",
+    brand: "Yves Saint Laurent",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 123,
+    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw1d435732/images/fullsize/FRAG/YSLBWW-51352YSL/YSLB3614274241006/3614274241006.01.webp?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+  },
+  {
+    name: "Libre Berry Crush Eau de Parfum 90ml",
+    brand: "Yves Saint Laurent",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 195,
+    image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dwc58dd9ea/images/fullsize/FRAG/YSLBWW-51508YSL/YSLB3614274521238/3614274521238.01.webp?sw=720&sh=720&sm=cut&sfrm=png&q=85"
+  },
   {
     name: "MYSLF Eau de Parfum 100ml",
     brand: "Yves Saint Laurent",
