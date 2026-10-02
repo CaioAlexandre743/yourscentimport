@@ -1620,8 +1620,32 @@ export const products = [
     brand: "Dior",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 115,
+    priceUSD: 120,
     image: "https://lojadior.vtexassets.com/arquivos/ids/202428-1200-800/3348901571456_02-highlight-md-edp.jpg?v=639040824312930000"
+  },
+  {
+    name: "Miss Dior Blooming Bouquet Eau de Toilette 100ml",
+    brand: "Dior",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 105,
+    image: "https://lojadior.vtexassets.com/arquivos/ids/202448-1200-800/3348901627375_02-highlight-md-bb.jpg?v=639032079362630000"
+  },
+  {
+    name: "Miss Dior Essence Eau de Parfum 80ml",
+    brand: "Dior",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 130,
+    image: "https://lojadior.vtexassets.com/arquivos/ids/202287-1200-800/3348901757683_02-highlight-md.jpg?v=639032115060830000"
+  },
+  {
+    name: "Miss Dior Rose N'Roses Eau de Toilette 100ml",
+    brand: "Dior",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 100,
+    image: "https://lojadior.vtexassets.com/arquivos/ids/169944-1200-800/3348901500838_02--highlight-dior-miss--rose-n-roses-eau-de-toilette.jpg?v=638820745826130000"
   },
   {
     name: "Sauvage Eau de Toilette 100ml",
@@ -3437,7 +3461,7 @@ export const products = [
     brand: "Yves Saint Laurent",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 120,
+    priceUSD: 125,
     image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dwe15720ee/images/fullsize/FRAG/YSLBWW-28501YSL/YSLB3614273852814/268%20MAIO%20LAN%20PDP%203000X3000%202.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
   },
   {
@@ -3445,7 +3469,7 @@ export const products = [
     brand: "Yves Saint Laurent",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 125,
+    priceUSD: 130,
     image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw9cab7e65/images/fullsize/FRAG/YSLBWW-28519YSL/YSLB3614274114645/3614274114645.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
   },
   {
