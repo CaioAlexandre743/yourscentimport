@@ -4297,6 +4297,14 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/613DYFUIseL._AC_SX522_.jpg"
   },
   {
+    name: "No.9 Nad+Retinal Volumetox Eye Cream 10ml",
+    brand: "Numbuzin",
+    gender: "Creme Olhos",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/51rEgWMUCCL._AC_SY879_.jpg"
+  },
+  {
     name: "No.9 Nad+Retinal Volumetox Eye Cream 20ml",
     brand: "Numbuzin",
     gender: "Creme Olhos",
