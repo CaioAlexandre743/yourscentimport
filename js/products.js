@@ -1464,12 +1464,28 @@ export const products = [
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h80/hc9/10561719795742/INGR-GG/INGR-GG.jpg"
   },
   {
+    name: "Good Girl Hair Mist 30ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=1000%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h7e/hf4/9962385604638/9962385539102/9962385539102.jpg"
+  },
+  {
     name: "Good Girl Blush Eau de Parfum 80ml",
     brand: "Carolina Herrera",
     gender: "feminino",
     category: "perfume",
     priceUSD: 86,
     image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600,quality=90,format=auto,fit=contain/medias/sys_master/images/h4f/hc4/10358881353758/INGR-GG-B/INGR-GG-B.jpg"
+  },
+  {
+    name: "Good Girl Blush Hair Mist 30ml",
+    brand: "Carolina Herrera",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 35,
+    image: "https://medias.carolinaherrera.com/cdn-cgi/image/width=600%2Cfit=contain%2Cquality=90%2Cformat=auto/medias/sys_master/images/h18/he3/9970222563358/9970222497822/9970222497822.jpg"
   },
   {
     name: "Good Girl Blush Elixir Eau de Parfum 80ml",
@@ -4129,12 +4145,28 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/61lZFElGdBL._AC_SX679_.jpg"
   },
   {
+    name: "PDRN Pink Glutathione Capsule Cleansing Foam 120g",
+    brand: "Medicube",
+    gender: "Limpador Facial",
+    category: "selfcare",
+    priceUSD: 24,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_708554-MLA112892833893_062026-F.webp"
+  },
+  {
     name: "PDRN Pink Glutathione Serum Mist 100ml",
     brand: "Medicube",
     gender: "Serum Facial",
     category: "selfcare",
     priceUSD: 21,
     image: "https://m.media-amazon.com/images/I/61kTmwyGr6L._AC_SX522_.jpg"
+  },  
+  {
+    name: "PDRN Pink Niacinamide Whip 120g",
+    brand: "Medicube",
+    gender: "Limpador Facial",
+    category: "selfcare",
+    priceUSD: 20,
+    image: "https://m.media-amazon.com/images/I/615FKISkTXL._AC_SX522_.jpg"
   },
   {
     name: "PDRN Pink Peptide 30ml",
