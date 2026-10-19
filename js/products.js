@@ -196,7 +196,7 @@ export const products = [
     brand: "Lattafa",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 38,
+    priceUSD: 50,
     image: "https://www.lattafa-usa.com/cdn/shop/files/LattafaDalalEDP100mlSpray.png?v=1763744096&width=810"
   },
   {
@@ -1592,6 +1592,14 @@ export const products = [
     image: "https://lojadior.vtexassets.com/arquivos/ids/156016-1200-800/3348901181839_02--highlight-dior--addict-eau-de-parfum.jpg?v=638829152698470000"
   },
   {
+    name: "Homme Intense Eau de Parfum 100ml",
+    brand: "Dior",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 110,
+    image: "https://lojadior.vtexassets.com/arquivos/ids/206418-1200-800/3348900838185_02-highlight-dh-intense-100ml.jpg?v=639253514567200000"
+  },
+  {
     name: "Hypnotic Poison Eau de Toilette 100ml",
     brand: "Dior",
     gender: "feminino",
@@ -1766,6 +1774,46 @@ export const products = [
     category: "perfume",
     priceUSD: 56,
     image: "https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dwb32be5ed/images/zoom/VP003BVP000_9V000_1.jpg?sw=517&sh=659"
+  },
+  {
+    name: "The One Eau de Parfum 75ml",
+    brand: "Dolce & Gabbana",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/af8da5f3-b699-4cce-9103-19993601c8fe/ukyqcv/std/720x940/cover?format=auto"
+  },
+  {
+    name: "The One Eau de Parfum Intense 75ml",
+    brand: "Dolce & Gabbana",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 100,
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/e5b08714-2c45-4608-9d52-1aada56a7872/ee3g66/std/650x830/cover?format=auto"
+  },
+  {
+    name: "The Only One Eau de Parfum Intense 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 120,
+    image: "https://dolcegabbana-cdn.thron.com/api/xcontents/resources/delivery/getThumbnail/dolcegabbana/1470x649/0d585c75-bed4-4ae4-9295-76f9e8191af5.jpg?v=44&dpr=425&format=auto"
+  },
+  {
+    name: "The One for Men Eau de Toilette 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 50,
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/c45eb1c8-f7cb-4ac2-a13d-d0c874e098a9/gt5zgo/std/650x830/cover_4?format=auto"
+  },
+  {
+    name: "The One for Men Eau de Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 60,
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/4d6db4d4-dc75-4fd2-a699-33546a693b9d/3oheep/std/650x830/cover_6?format=auto"
   },
   {
     name: "Sweet Tooth Eau de Parfum 75ml",
@@ -2360,6 +2408,14 @@ export const products = [
     image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.100488.avif"
   },
   {
+    name: "La Voie Eau de Parfum 100ml",
+    brand: "Maison Alhambra",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 22,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.89028.avif"
+  },
+  {
     name: "Pink Eclipse Eau de Parfum 100ml",
     brand: "Maison Alhambra",
     gender: "feminino",
@@ -2374,6 +2430,14 @@ export const products = [
     category: "perfume",
     priceUSD: 30,
     image: "https://dcdn-us.mitiendanube.com/stores/006/509/834/products/maison-16-2-d8eb2b5c2078209da317703031455201-1024-1024.png"
+  },
+  {
+    name: "Salvo Eau de Parfum 100ml",
+    brand: "Maison Alhambra",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 26,
+    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.93538.avif"
   },
   {
     name: "Fakhama Eau de Parfum 100ml",
@@ -3415,6 +3479,54 @@ export const products = [
     category: "perfume",
     priceUSD: 30,
     image: "https://m.media-amazon.com/images/I/71lJUGA4URL._AC_SX522_.jpg"
+  },
+  {
+    name: "Flowerbomb Eau de Parfum 100ml",
+    brand: "Viktor Rolf",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 125,
+    image: "https://us.viktor-rolf.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-vr-master-catalog/default/dw52a4b375/FB%20EDP%202024/01_vr_frag_fbb_edp_perfect_pdp_premium_packshot_100ml_1x1.webp?sw=700&sh=700&sm=cut&sfrm=jpg&q=70"
+  },
+  {
+    name: "Flowerbomb Ruby Orchid Eau de Parfum 100ml",
+    brand: "Viktor Rolf",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 120,
+    image: "https://us.viktor-rolf.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-vr-master-catalog/default/dwe3d70b27/FB%20RUBY%202024/01_vr_frag_fbb_ruby_orchid_perfect_pdp_premium_packshot_100ml_1x1.webp?sw=700&sh=700&sm=cut&sfrm=jpg&q=70"
+  },
+  {
+    name: "Spicebomb Dark Leather Eau de Parfum 90ml",
+    brand: "Viktor Rolf",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://us.viktor-rolf.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-vr-master-catalog/default/dw44c4cb83/SB%20DL%202024/vr_frag_spb_dark_leather_perfect_pdp_premium_packshot_3614274158113_90ml_1x1.webp?sw=700&sh=700&sm=cut&sfrm=jpg&q=70"
+  },
+  {
+    name: "Spicebomb Extreme Eau de Parfum 90ml",
+    brand: "Viktor Rolf",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://us.viktor-rolf.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-vr-master-catalog/default/dwb919ec98/SB%20EXTR%202024/01_vr_frag_spb_extreme_perfect_pdp_premium_packshot_90ml_1x1.webp?sw=700&sh=700&sm=cut&sfrm=jpg&q=70"
+  },
+  {
+    name: "Spicebomb Infrared Eau de Parfum 90ml",
+    brand: "Viktor Rolf",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 78,
+    image: "https://us.viktor-rolf.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-vr-master-catalog/default/dw42d03920/SB%20INFR%202024/01_vr_frag_spb_infrared_edp_perfect_pdp_premium_packshot_90ml_1x1.webp?sw=700&sh=700&sm=cut&sfrm=jpg&q=70"
+  },
+  {
+    name: "Spicebomb Night Vision Eau de Toilette 90ml",
+    brand: "Viktor Rolf",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 99,
+    image: "https://us.viktor-rolf.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-vr-master-catalog/default/dw85a1d3b9/SB%20NV%20EDT%202024/01_vr_frag_spb_night_vision_edt_perfect_pdp_premium_packshot_90ml_1x1.webp?sw=700&sh=700&sm=cut&sfrm=jpg&q=70"
   },
   {
     name: "Kouros Eau de Toilette 100ml",
