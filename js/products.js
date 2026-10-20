@@ -3947,10 +3947,18 @@ export const products = [
   {
     name: "Shot Tightening Booster 15ml",
     brand: "Celimax",
-    gender: "Retinol",
+    gender: "Retinal",
     category: "selfcare",
     priceUSD: 16,
     image: "https://m.media-amazon.com/images/I/51utpRckeQL._AC_SX522_.jpg"
+  },
+  {
+    name: "Shot Tightening Dual 50ml",
+    brand: "Celimax",
+    gender: "Retinal",
+    category: "selfcare",
+    priceUSD: 30,
+    image: "https://m.media-amazon.com/images/I/61TTwsF-ETL._AC_SX522_.jpg"
   },
   {
     name: "The Vita A Retinol Shot Tightening 30ml",
