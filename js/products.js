@@ -3969,6 +3969,14 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/51cnLgl4AFL._AC_SX522_.jpg"
   },
   {
+    name: "345 Relief 50ml",
+    brand: "DR. Althea",
+    gender: "Creme Hidratante",
+    category: "selfcare",
+    priceUSD: 28,
+    image: "https://m.media-amazon.com/images/I/51s-VSQRJvL._AC_SX522_.jpg"
+  },
+  {
     name: "CER-100 Collagen Ceramide Coating Protein 100ml",
     brand: "Elizavecca",
     gender: "Creme Capilar",
@@ -4423,14 +4431,6 @@ export const products = [
     category: "selfcare",
     priceUSD: 20,
     image: "https://m.media-amazon.com/images/I/51rEgWMUCCL._AC_SY879_.jpg"
-  },
-  {
-    name: "No.9 Nad+Retinal Volumetox Eye Cream 20ml",
-    brand: "Numbuzin",
-    gender: "Creme Olhos",
-    category: "selfcare",
-    priceUSD: 20,
-    image: "https://http2.mlstatic.com/D_NQ_NP_2X_935161-MLB114328282748_082026-F-retinal-numbuzin-no-9-nad-volumetox-eye-cream-creme-20ml.webp"
   },
   {
     name: "Premium EX Damage Care & Repair 450ml",
