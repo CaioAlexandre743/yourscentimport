@@ -3541,7 +3541,7 @@ export const products = [
     brand: "Yves Saint Laurent",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 115,
+    priceUSD: 110,
     image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwee8d8e4a/square/Fragrance/For%20Her/libre-eau-de-toilette/3614273321891_libre-eau-de-toilette_90ml_Alt1-v3.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
   },
   {
@@ -3557,7 +3557,7 @@ export const products = [
     brand: "Yves Saint Laurent",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 140,
+    priceUSD: 130,
     image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw136d5f6c/images/fullsize/FRAG/YSLBWW-50657YSL/YSLB3614273069557/3614273069557.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
   },  
   {
@@ -3565,7 +3565,7 @@ export const products = [
     brand: "Yves Saint Laurent",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 130,
+    priceUSD: 135,
     image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw9d1da9da/images/fullsize/FRAG/YSLBWW-51020YSL/YSLB3614273776127/3614273776127.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
   },
   {
@@ -3589,7 +3589,7 @@ export const products = [
     brand: "Yves Saint Laurent",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 125,
+    priceUSD: 120,
     image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dwe15720ee/images/fullsize/FRAG/YSLBWW-28501YSL/YSLB3614273852814/268%20MAIO%20LAN%20PDP%203000X3000%202.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
   },
   {
@@ -3597,7 +3597,7 @@ export const products = [
     brand: "Yves Saint Laurent",
     gender: "masculino",
     category: "perfume",
-    priceUSD: 130,
+    priceUSD: 135,
     image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dw9cab7e65/images/fullsize/FRAG/YSLBWW-28519YSL/YSLB3614274114645/3614274114645.01.jpg?sw=720&sh=720&sm=cut&sfrm=png&q=85"
   },
   {
