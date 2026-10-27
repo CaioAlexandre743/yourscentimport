@@ -3184,6 +3184,62 @@ export const products = [
     image: "https://www.ralphlaurenfragrances.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ralphlauren-master-catalog/default/dw7c1ba6ad/images/pdp/RLFE022/ralph-lauren-fragrances-polo-black-eau-de-toilette-pdp-product-carousel.jpg?sw=700&sh=700&sm=cut&sfrm=jpg&q=70"
   },
   {
+    name: "Divine Eau de Parfum 100ml",
+    brand: "Rayhaan",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 48,
+    image: "https://rayhaanperfumes.me/cdn/shop/files/1Divine.jpg?v=1783500211"
+  },
+  {
+    name: "Elixir Eau de Parfum 100ml",
+    brand: "Rayhaan",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://rayhaanperfumes.me/cdn/shop/files/1Elixir.jpg?v=1780998441"
+  },
+  {
+    name: "Kiss Eau de Parfum 100ml",
+    brand: "Rayhaan",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 28,
+    image: "https://rayhaanperfumes.me/cdn/shop/files/1Kiss.jpg?v=1780927255"
+  },
+  {
+    name: "Lion Eau de Parfum 100ml",
+    brand: "Rayhaan",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://rayhaanperfumes.me/cdn/shop/files/1Lion.jpg?v=1780998383"
+  },
+  {
+    name: "Nocturno Elixir Eau de Parfum 100ml",
+    brand: "Rayhaan",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://rayhaanperfumes.me/cdn/shop/files/1NocturnoElixir.jpg?v=1780927207"
+  },
+  {
+    name: "Pretty in Pink Eau de Parfum 100ml",
+    brand: "Rayhaan",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 25,
+    image: "https://rayhaanperfumes.me/cdn/shop/files/pretty-in-pink-rayhaan-perfumes-2.jpg?v=1725888454"
+  },
+  {
+    name: "Wolf Eau de Parfum 100ml",
+    brand: "Rayhaan",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 30,
+    image: "https://rayhaanperfumes.me/cdn/shop/files/1Wolf.jpg?v=1780926735"
+  },
+  {
     name: "Tommy Eau de Toilette 100ml",
     brand: "Tommy Hilfiger",
     gender: "masculino",
