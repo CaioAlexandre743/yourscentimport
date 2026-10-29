@@ -4137,6 +4137,38 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/51oNq9Xh14L._AC_SX522_.jpg"
   },
   {
+    name: "K-Pak Clarifying 1l",
+    brand: "Joico",
+    gender: "Shampoo",
+    category: "selfcare",
+    priceUSD: 26,
+    image: "https://m.media-amazon.com/images/I/618hAVYBwhL._AC_SX522_.jpg"
+  },
+  {
+    name: "Moisture Recovery 300ml",
+    brand: "Joico",
+    gender: "Shampoo",
+    category: "selfcare",
+    priceUSD: 15,
+    image: "https://epocacosmeticos.vteximg.com.br/arquivos/ids/405774-450-450/joico-moisture-recovery-shampoo-hidratante.jpg?v=637376976061700000"
+  },
+  {
+    name: "Moisture Recovery 250ml",
+    brand: "Joico",
+    gender: "Condicionador",
+    category: "selfcare",
+    priceUSD: 16,
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_857471-MLB92795640660_092025-F-joico-moisture-recovery-smart-release-condicionador-250ml.webp"
+  },
+  {
+    name: "Moisture Recovery 250ml",
+    brand: "Joico",
+    gender: "Máscara de Tratamento",
+    category: "selfcare",
+    priceUSD: 16,
+    image: "https://m.media-amazon.com/images/I/61QvNovBloL._AC_SX522_.jpg"
+  },
+  {
     name: "Grow Turn Exosome Brush Ampoule 100ml",
     brand: "Lilyeve",
     gender: "Tratamento Capilar",
