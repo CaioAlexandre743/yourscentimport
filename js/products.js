@@ -1701,7 +1701,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 60,
-    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/611f5e6a-fd48-45f2-bcd6-867ec930ad70/7waspk/std/0x0/COVER"
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/611f5e6a-fd48-45f2-bcd6-867ec930ad70/7waspk/std/0x0/COVERhttps://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/b215f71d-8116-444f-9311-d324a935ab6a/ltrsym/std/650x830/cover?format=auto"
   },
   {
     name: "Devotion Intense Eau de Parfum 100ml",
@@ -1710,6 +1710,22 @@ export const products = [
     category: "perfume",
     priceUSD: 70,
     image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/baffcf1c-b446-4c0c-afa8-80912ec6b88d/abvf6d/std/650x830/cover?format=auto"
+  },
+  {
+    name: "My Devotion Intense Eau de Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 95,
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/545f77a0-494f-41d0-8f7c-d5b9ae1bd9b7/n8ko8o/std/650x830/cover?format=auto"
+  },
+  {
+    name: "Your Devotion Intense Eau de Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 92,
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/8e8f00e0-9a61-48e0-b4ab-8cdc36f3f463/lcfe4j/std/650x830/cover?format=auto"
   },
   {
     name: "Devotion Pour Homme Eau de Parfum 100ml",
@@ -1736,6 +1752,14 @@ export const products = [
     image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/a9ebc5c2-abad-43cc-a496-0674c7e52bb3/jbptyw/std/765x1040/cover?format=auto"
   },
   {
+    name: "Light Blue Eau De Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 90,
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/a4097674-ca32-439c-bf52-c8cad3db2af9/skdqcd/std/765x1039/dg_ff26_lb_ec_product_w_ingr_lb_edp_100ml_8056669925781_jpg_4_5_300dpi?format=auto"
+  },
+  {
     name: "Light Blue Capri in Love Eau De Parfum 100ml",
     brand: "Dolce & Gabbana",
     gender: "feminino",
@@ -1750,6 +1774,14 @@ export const products = [
     category: "perfume",
     priceUSD: 59,
     image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/17084394-a7c3-4ae3-9b6a-dda7e3d6c419/psfkbm/std/765x1040/cover?format=auto"
+  },
+  {
+    name: "Light Blue Eau De Parfum 100ml",
+    brand: "Dolce & Gabbana",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 88,
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/bebcbd1e-ebf9-496b-bd82-291139b87f09/rjwtta/std/765x1039/dg_ff26_lb_ec_product_w_ingr_lbph_edp_100ml_8056669925705_jpg_4_5_300dpi?format=auto"
   },
   {
     name: "Light Blue Capri in Love Eau De Parfum 100ml",
