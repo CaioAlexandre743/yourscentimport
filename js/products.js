@@ -844,7 +844,7 @@ export const products = [
     brand: "Al Wataniah",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 16,
+    priceUSD: 19,
     image: "https://www.alwataniah.com/cdn/shop/files/shagaf-al-ward.png?v=1759755041&width=600"
   },
   {
@@ -956,7 +956,7 @@ export const products = [
     brand: "ARMAF",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 36,
+    priceUSD: 42,
     image: "https://armaf.com/cdn/shop/files/armafinfinityw.png?v=1744392202&width=600"
   },
   {
@@ -2392,12 +2392,12 @@ export const products = [
     image: "https://acdn-us.mitiendanube.com/stores/001/487/363/products/whatsapp-image-2024-03-20-at-10-05-36-d6c64e36789ac7566917109399486561-640-0.webp"
   }, 
   {
-    name: "L'Intrude Eau de Parfum 100ml",
+    name: "Intrude Eau de Parfum 100ml",
     brand: "Maison Alhambra",
     gender: "feminino",
     category: "perfume",
-    priceUSD: 16,
-    image: "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.93651.avif"
+    priceUSD: 18,
+    image: "https://acdn-us.mitiendanube.com/stores/001/487/363/products/intrude-lintrude-maison-alhambra-e1f53502e92876ca0717153584661962-1024-1024.webp"
   },
   {
     name: "La Vivacité Eau de Parfum 100ml",
