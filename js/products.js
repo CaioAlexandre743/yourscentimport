@@ -1701,7 +1701,7 @@ export const products = [
     gender: "feminino",
     category: "perfume",
     priceUSD: 60,
-    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/611f5e6a-fd48-45f2-bcd6-867ec930ad70/7waspk/std/0x0/COVERhttps://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/b215f71d-8116-444f-9311-d324a935ab6a/ltrsym/std/650x830/cover?format=auto"
+    image: "https://dolcegabbana-cdn.thron.com/delivery/public/image/dolcegabbana/b215f71d-8116-444f-9311-d324a935ab6a/ltrsym/std/650x830/cover?format=auto"
   },
   {
     name: "Devotion Intense Eau de Parfum 100ml",
