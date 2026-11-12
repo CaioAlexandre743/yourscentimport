@@ -4,7 +4,7 @@ import { products } from './products.js';
 
 let exchangeRate = 5.40;
 
-const PRODUCTS_PER_PAGE = 10;
+const PRODUCTS_PER_PAGE = 70;
 
 let currentPage = 1;
 let currentCategory = 'all';
