@@ -3352,6 +3352,174 @@ export const products = [
     image: "https://www.mugler.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-mugler-master-catalog/default/dwfafca898/images/pdp/M020604168/angel-nova-packshots/Mug_Angel%20Nova_Frag_100ml_Product_Front_No%20shadow_3439600049862_New%20pack.jpg?sw=720&sh=720&sm=cut&sfrm=jpg&q=70"
   },
   {
+    name: "Donna Born In Roma Coral Fantasy Eau de Parfum 100ml",
+    brand: "Valentino",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 100,
+    image: "https://valentino-cdn.thron.com/delivery/public/image/valentino/fe1d8b08-8760-4c72-856e-b33d95bfc4bd/ihqstx/std/2000x0/Born-In-Roma-Coral-Fantasy-Eau-De-Parfum-Spray-100Ml?quality=80&size=35&format=auto"
+  },
+  {
+    name: "Donna Born In Roma Extradose Parfum 100ml",
+    brand: "Valentino",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 140,
+    image: "https://valentino-cdn.thron.com/delivery/public/image/valentino/4addd88c-e3d5-4f3a-a357-1a44ddc9d27d/ihqstx/std/2000x0/Born-In-Roma-Extradose-Eau-De-Parfum-100Ml?quality=80&size=35&format=auto"
+  },
+  {
+    name: "Donna Born In Roma Intense Eau de Parfum 100ml",
+    brand: "Valentino",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 132,
+    image: "https://valentino-cdn.thron.com/delivery/public/image/valentino/4db84195-6be9-4b5f-86eb-550f4c4d5d0d/ihqstx/std/2000x0/Born-In-Roma-Intense-Eau-De-Parfum-Spray-100Ml?quality=80&size=35&format=auto"
+  },
+  {
+    name: "Donna Born In Roma Purple Melancholia Eau de Parfum 100ml",
+    brand: "Valentino",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 150,
+    image: "https://valentino-cdn.thron.com/delivery/public/image/valentino/f9a4d855-e380-4821-9219-4b429ff1ddc6/ihqstx/std/2000x0/Born-In-Roma-Purple-Melancholia-Eau-De-Parfum-100Ml?quality=80&size=35&format=auto"
+  },
+  {
+    name: "Uomo Born In Roma for Him Eau de Toillet 100ml",
+    brand: "Valentino",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 95,
+    image: "https://valentino-cdn.thron.com/delivery/public/image/valentino/acbd19b8-7775-4bc2-9518-7f20f6c8ad31/ihqstx/std/2000x0/Born-In-Roma-For-Him-Eau-De-Toilette-Spray-100-Ml?quality=80&size=35&format=auto"
+  },
+  {
+    name: "Uomo Born In Roma Green Stravaganza Eau de Toillet 100ml",
+    brand: "Valentino",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 95,
+    image: "https://epocacosmeticos.vteximg.com.br/arquivos/ids/3189661-450-450/3614274024807.01.jpg?v=639253592499900000"
+  },
+  {
+    name: "Uomo Born In Roma Intense Eau de Parfum 100ml",
+    brand: "Valentino",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 130,
+    image: "https://valentino-cdn.thron.com/delivery/public/image/valentino/a23c022b-e522-4ba5-b4e9-dd6d5d51e3be/ihqstx/std/2000x0/Born-In-Roma-Intense-Eau-De-Parfum-Spray-100Ml?quality=80&size=35&format=auto"
+  },
+  {
+    name: "Uomo Born In Roma Yellow Dream Eau de Toillet 100ml",
+    brand: "Valentino",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 94,
+    image: "https://epocacosmeticos.vteximg.com.br/arquivos/ids/3189565-450-450/3614273261425.01.jpg?v=639253587562870000"
+  },
+  {
+    name: "bright crystal Eau de Toilette 90ml",
+    brand: "Versace",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 60,
+    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw6b9a1a76/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_W_04.jpg"
+  },
+  {
+    name: "Crystal Emerald Eau de Parfum 90ml",
+    brand: "Versace",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 110,
+    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw27fceea5/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_W_01.jpg"
+  },
+  {
+    name: "Dylan Blue Pour Femme Eau de Parfum 100ml",
+    brand: "Versace",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 77,
+    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwfc13e0f1/original/90_R702032-R100MLS_RNUL_20_Dylan~Blue~Pour~Femme~EDP~100~ml-Accessories-Versace-online-store_1_1.jpg?sw=850&q=85&strip=true"
+  },
+  {
+    name: "Dylan Blush Pink Eau de Parfum 100ml",
+    brand: "Versace",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 111,
+    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwfeccecc0/original/90_R702332-R100MLS_RNUL_20_Dylan~Blush~Pink~EDP~100~ml-Fragrances~~Body~Care-Versace-online-store_1_0.jpg?sw=850&q=85&strip=true"
+  },
+  {
+    name: "Dylan Purple Pour Femme Eau de Parfum 100ml",
+    brand: "Versace",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 82,
+    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw0bbc6df7/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_W_02.jpg"
+  },
+  {
+    name: "Dylan Turquoise Pour Femme Eau de Toilette 100ml",
+    brand: "Versace",
+    gender: "feminino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwf9740184/original/90_R702132-R100MLS_RNUL_20_Dylan~Turquoise~EDT~100~ml-Accessories-Versace-online-store_0_1.jpg?sw=850&q=85&strip=true"
+  },
+  {
+    name: "Dylan Blue Pour Homme Eau de Toilette 100ml",
+    brand: "Versace",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 77,
+    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw8240a011/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_M_02.jpg"
+  },
+  {
+    name: "Eau Fraiche Eau de Toilette 100ml",
+    brand: "Versace",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 70,
+    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw38036602/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_M_04.jpg"
+  },
+  {
+    name: "Eros Eau de Toilette 100ml",
+    brand: "Versace",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 60,
+    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwdec0940c/original/90_R740010-R100MLS_RNUL_20_Eros~EDT~100~ml-Accessories-Versace-online-store_1_1.jpg?sw=850&q=85&strip=true"
+  },
+  {
+    name: "Eros Eau de Parfum 100ml",
+    brand: "Versace",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 80,
+    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw45768c31/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_M_03.jpg"
+  },
+  {
+    name: "Eros Energy Pour Homme Eau de Parfum 100ml",
+    brand: "Versace",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 82,
+    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw6fcbab29/original/90_R742010-R100MLS_RNUL_20_ErosEnergyEDP100ml-Eros~Energy-Versace-online-store_1_2.jpg?sw=850&q=85&strip=true"
+  },
+  {
+    name: "Eros Flame Eau de Parfum 100ml",
+    brand: "Versace",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 75,
+    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dwa8255602/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_M_01.jpg"
+  },
+  {
+    name: "Eros Najim Eau de Parfum 100ml",
+    brand: "Versace",
+    gender: "masculino",
+    category: "perfume",
+    priceUSD: 77,
+    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw799ca260/images/hi-res-BR/Frag/Nova%20pasta/Maria%20Helena%202.0/New%20Folder/MA%202.0/MA%203.0/8011003895755-1.png?sw=556&sh=680&sm=fit"
+  },
+  {
     name: "Aqua Kiss Fragrance Mist 250ml",
     brand: "Victoria's Secret",
     gender: "feminino",
@@ -3711,110 +3879,6 @@ export const products = [
     category: "perfume",
     priceUSD: 115,
     image: "https://www.yslbeauty.com.br/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/pt_BR/dwe969be12/images/fullsize/FRAG/YSLBWW-50194YSL/YSLB3614272050358/3614272050358.01.jpg?sw=720&sh=720&sm=cut&sfrm=jpg&q=85"
-  },
-  {
-    name: "bright crystal Eau de Toilette 90ml",
-    brand: "Versace",
-    gender: "feminino",
-    category: "perfume",
-    priceUSD: 60,
-    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw6b9a1a76/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_W_04.jpg"
-  },
-  {
-    name: "Crystal Emerald Eau de Parfum 90ml",
-    brand: "Versace",
-    gender: "feminino",
-    category: "perfume",
-    priceUSD: 110,
-    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw27fceea5/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_W_01.jpg"
-  },
-  {
-    name: "Dylan Blue Pour Femme Eau de Parfum 100ml",
-    brand: "Versace",
-    gender: "feminino",
-    category: "perfume",
-    priceUSD: 77,
-    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwfc13e0f1/original/90_R702032-R100MLS_RNUL_20_Dylan~Blue~Pour~Femme~EDP~100~ml-Accessories-Versace-online-store_1_1.jpg?sw=850&q=85&strip=true"
-  },
-  {
-    name: "Dylan Blush Pink Eau de Parfum 100ml",
-    brand: "Versace",
-    gender: "feminino",
-    category: "perfume",
-    priceUSD: 111,
-    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwfeccecc0/original/90_R702332-R100MLS_RNUL_20_Dylan~Blush~Pink~EDP~100~ml-Fragrances~~Body~Care-Versace-online-store_1_0.jpg?sw=850&q=85&strip=true"
-  },
-  {
-    name: "Dylan Purple Pour Femme Eau de Parfum 100ml",
-    brand: "Versace",
-    gender: "feminino",
-    category: "perfume",
-    priceUSD: 82,
-    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw0bbc6df7/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_W_02.jpg"
-  },
-  {
-    name: "Dylan Turquoise Pour Femme Eau de Toilette 100ml",
-    brand: "Versace",
-    gender: "feminino",
-    category: "perfume",
-    priceUSD: 80,
-    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwf9740184/original/90_R702132-R100MLS_RNUL_20_Dylan~Turquoise~EDT~100~ml-Accessories-Versace-online-store_0_1.jpg?sw=850&q=85&strip=true"
-  },
-  {
-    name: "Dylan Blue Pour Homme Eau de Toilette 100ml",
-    brand: "Versace",
-    gender: "masculino",
-    category: "perfume",
-    priceUSD: 77,
-    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw8240a011/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_M_02.jpg"
-  },
-  {
-    name: "Eau Fraiche Eau de Toilette 100ml",
-    brand: "Versace",
-    gender: "masculino",
-    category: "perfume",
-    priceUSD: 70,
-    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw38036602/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_M_04.jpg"
-  },
-  {
-    name: "Eros Eau de Toilette 100ml",
-    brand: "Versace",
-    gender: "masculino",
-    category: "perfume",
-    priceUSD: 60,
-    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwdec0940c/original/90_R740010-R100MLS_RNUL_20_Eros~EDT~100~ml-Accessories-Versace-online-store_1_1.jpg?sw=850&q=85&strip=true"
-  },
-  {
-    name: "Eros Eau de Parfum 100ml",
-    brand: "Versace",
-    gender: "masculino",
-    category: "perfume",
-    priceUSD: 80,
-    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dw45768c31/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_M_03.jpg"
-  },
-  {
-    name: "Eros Energy Pour Homme Eau de Parfum 100ml",
-    brand: "Versace",
-    gender: "masculino",
-    category: "perfume",
-    priceUSD: 82,
-    image: "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw6fcbab29/original/90_R742010-R100MLS_RNUL_20_ErosEnergyEDP100ml-Eros~Energy-Versace-online-store_1_2.jpg?sw=850&q=85&strip=true"
-  },
-  {
-    name: "Eros Flame Eau de Parfum 100ml",
-    brand: "Versace",
-    gender: "masculino",
-    category: "perfume",
-    priceUSD: 75,
-    image: "https://www.versace.com/on/demandware.static/-/Library-Sites-ver-library/default/dwa8255602/images/banners/BOTTOM/FRAGRANCES_BOTTOMBANNER_M_01.jpg"
-  },
-  {
-    name: "Eros Najim Eau de Parfum 100ml",
-    brand: "Versace",
-    gender: "masculino",
-    category: "perfume",
-    priceUSD: 77,
-    image: "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw799ca260/images/hi-res-BR/Frag/Nova%20pasta/Maria%20Helena%202.0/New%20Folder/MA%202.0/MA%203.0/8011003895755-1.png?sw=556&sh=680&sm=fit"
   },    
   {
     name: "Deep Moist 440ml",
