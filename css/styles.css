@@ -406,3 +406,19 @@ h1 {
   color: #777;
   font-size: 0.95rem;
 }
+
+.instagram-link {
+    color: inherit;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.instagram-link i {
+    color: #E1306C;
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+.instagram-link:hover {
+    color: #E1306C;
+}
