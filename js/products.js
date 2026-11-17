@@ -4289,11 +4289,27 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/51YFUIEZ+XL._SX466_.jpg"
   },
   {
+    name: "Age-R Booster Cleanser Devic Head",
+    brand: "Medicube",
+    gender: "Adaptador Rejuvenescedor Facial",
+    category: "selfcare",
+    priceUSD: 75,
+    image: "https://www.flytec.com.py/produtos/3741.JPG?v=1775843954"
+  },
+  {
+    name: "Age-R Booster V Roller",
+    brand: "Medicube",
+    gender: "Adaptador Rejuvenescedor Facial",
+    category: "selfcare",
+    priceUSD: 90,
+    image: "https://cdn.atacadoconnect.com/produtos/1401967/rejuvenescedor-facial-medicube-age-r-booster-v-roller-rosa-1401967-mtcv4.webp"
+  },
+  {
     name: "Age-R Booster Pro",
     brand: "Medicube",
     gender: "Rejuvenescedor Facial",
     category: "selfcare",
-    priceUSD: 190,
+    priceUSD: 155,
     image: "https://m.media-amazon.com/images/I/61kpEoE3+bL._AC_SX679_.jpg"
   },
   {
@@ -4301,7 +4317,7 @@ export const products = [
     brand: "Medicube",
     gender: "Rejuvenescedor Facial",
     category: "selfcare",
-    priceUSD: 110,
+    priceUSD: 95,
     image: "https://m.media-amazon.com/images/I/513yy77woDL._AC_SX522_.jpg"
   },
   {
@@ -4695,7 +4711,7 @@ export const products = [
     category: "selfcare",
     priceUSD: 17,
     image: "https://m.media-amazon.com/images/I/31nHFUyyzYL._AC_SX522_.jpg"
-  },
+  }/*,
   {
     name: "iPhone 17 Pro Max 256GB",
     brand: "Apple",
@@ -4911,5 +4927,5 @@ export const products = [
     category: "eletronics",
     priceUSD: 55,
     image: "https://www.jbl.com.br/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dweda1f6ca/01.JBL_Live_770NC_Product%20Image_Hero_Black.png?sw=535&sh=535"
-  }       
+  } */      
 ];
